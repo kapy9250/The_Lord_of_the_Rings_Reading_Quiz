@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Lord of the Rings — Reading Quiz</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+            background: #f4f7f5;
+            color: #2c3e50;
+            line-height: 1.65;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 760px;
+            margin: 0 auto;
+            padding: 32px 20px 60px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 36px;
+        }
+
+        header h1 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: #2c3e50;
+            letter-spacing: -0.02em;
+        }
+
+        .subtitle {
+            color: #8e9aaf;
+            font-size: 0.9rem;
+            margin-top: 4px;
+            margin-bottom: 24px;
+        }
+
+        .chapter-selector select {
+            width: 100%;
+            max-width: 480px;
+            padding: 11px 16px;
+            border: 1.5px solid #d5dbd8;
+            border-radius: 10px;
+            font-size: 0.95rem;
+            background: #fff;
+            color: #2c3e50;
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='7'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%238e9aaf' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 14px center;
+            transition: border-color 0.2s;
+        }
+
+        .chapter-selector select:focus {
+            outline: none;
+            border-color: #5b9279;
+        }
+
+        .chapter-selector select:hover {
+            border-color: #a0b0a8;
+        }
+
+        /* Loading & Error */
+        .loading {
+            text-align: center;
+            padding: 60px 0;
+            color: #8e9aaf;
+        }
+
+        .spinner {
+            display: inline-block;
+            width: 28px;
+            height: 28px;
+            border: 3px solid #e0e5e2;
+            border-top-color: #5b9279;
+            border-radius: 50%;
+            animation: spin 0.7s linear infinite;
+            margin-bottom: 12px;
+        }
+
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        .error-msg {
+            text-align: center;
+            color: #c0392b;
+            padding: 40px 0;
+            font-size: 0.95rem;
+        }
+
+        /* Progress */
+        .progress-wrapper {
+            margin-bottom: 24px;
+        }
+
+        .progress-info {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.82rem;
+            color: #8e9aaf;
+            margin-bottom: 6px;
+        }
+
+        .progress-bar {
+            height: 4px;
+            background: #e0e5e2;
+            border-radius: 2px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: #5b9279;
+            border-radius: 2px;
+            transition: width 0.35s ease;
+            width: 0%;
+        }
+
+        /* Score Card */
+        .score-card {
+            background: #fff;
+            border-radius: 14px;
+            padding: 32px 24px;
+            text-align: center;
+            margin-bottom: 28px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+        }
+
+        .score-number {
+            font-size: 3.2rem;
+            font-weight: 800;
+            letter-spacing: -0.03em;
+        }
+
+        .score-number.high { color: #27ae60; }
+        .score-number.mid { color: #e67e22; }
+        .score-number.low { color: #c0392b; }
+
+        .score-percent {
+            font-size: 1.1rem;
+            color: #8e9aaf;
+            margin-top: 2px;
+        }
+
+        .score-actions {
+            margin-top: 20px;
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+        }
+
+        /* Question Card */
+        .question-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 18px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+            border: 2px solid transparent;
+            transition: border-color 0.3s;
+        }
+
+        .question-card.result-correct {
+            border-color: #27ae60;
+        }
+
+        .question-card.result-wrong {
+            border-color: #e74c3c;
+        }
+
+        .question-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+
+        .question-num {
+            font-size: 0.8rem;
+            font-weight: 700;
+            color: #8e9aaf;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+        }
+
+        .mark-correct {
+            color: #27ae60;
+            font-weight: 700;
+        }
+
+        .mark-wrong {
+            color: #e74c3c;
+            font-weight: 700;
+        }
+
+        .question-text {
+            font-size: 1.02rem;
+            line-height: 1.6;
+            margin-bottom: 16px;
+            color: #2c3e50;
+        }
+
+        .passage {
+            background: #faf8f4;
+            border-left: 3px solid #d4c9a8;
+            padding: 14px 18px;
+            margin-bottom: 20px;
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+            color: #5a5a5a;
+            font-size: 0.9rem;
+            line-height: 1.65;
+        }
+
+        /* Options */
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .option {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            padding: 12px 16px;
+            border: 1.5px solid #e8ece9;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: background 0.15s, border-color 0.15s;
+            user-select: none;
+        }
+
+        .option:hover {
+            background: #f4f9f6;
+            border-color: #c8d5ce;
+        }
+
+        .option.selected {
+            background: #edf5f0;
+            border-color: #5b9279;
+        }
+
+        .option.disabled {
+            cursor: default;
+            pointer-events: none;
+        }
+
+        .option.option-correct {
+            background: #e8f8ef;
+            border-color: #27ae60;
+        }
+
+        .option.option-wrong {
+            background: #fde8e8;
+            border-color: #e74c3c;
+        }
+
+        .option.option-show-correct {
+            background: #e8f8ef;
+            border-color: #27ae60;
+            border-style: dashed;
+        }
+
+        .option input[type="radio"] {
+            margin-top: 3px;
+            flex-shrink: 0;
+            accent-color: #5b9279;
+            width: 16px;
+            height: 16px;
+        }
+
+        .option label {
+            cursor: pointer;
+            flex: 1;
+            font-size: 0.95rem;
+            line-height: 1.55;
+        }
+
+        .option.disabled label {
+            cursor: default;
+        }
+
+        /* Explanation */
+        .explanation {
+            margin-top: 18px;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .explanation-correct {
+            background: #f0faf4;
+            border-left: 3px solid #27ae60;
+            padding: 14px 18px;
+            margin-bottom: 8px;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .explanation-correct h4 {
+            color: #27ae60;
+            font-size: 0.88rem;
+            margin-bottom: 6px;
+            font-weight: 700;
+        }
+
+        .explanation-correct p {
+            font-size: 0.9rem;
+            color: #3a5a4a;
+            line-height: 1.6;
+        }
+
+        .explanation-wrong {
+            background: #fef5f5;
+            border-left: 3px solid #e74c3c;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .explanation-wrong h4 {
+            color: #c0392b;
+            font-size: 0.88rem;
+            margin-bottom: 6px;
+            font-weight: 700;
+        }
+
+        .explanation-wrong p {
+            font-size: 0.9rem;
+            color: #5a3a3a;
+            line-height: 1.6;
+        }
+
+        /* Buttons */
+        .btn {
+            padding: 11px 28px;
+            border: none;
+            border-radius: 10px;
+            font-size: 0.95rem;
+            cursor: pointer;
+            font-weight: 600;
+            transition: background 0.2s, transform 0.1s;
+        }
+
+        .btn:active { transform: scale(0.97); }
+
+        .btn-primary {
+            background: #5b9279;
+            color: #fff;
+        }
+
+        .btn-primary:hover {
+            background: #4a7d66;
+        }
+
+        .btn-secondary {
+            background: #e8ece9;
+            color: #2c3e50;
+        }
+
+        .btn-secondary:hover {
+            background: #d5dbd8;
+        }
+
+        .submit-wrapper {
+            text-align: center;
+            padding: 24px 0 8px;
+        }
+
+        .hidden { display: none !important; }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            .container { padding: 20px 14px 40px; }
+            header h1 { font-size: 1.4rem; }
+            .question-card { padding: 18px 16px; }
+            .option { padding: 10px 12px; }
+            .score-number { font-size: 2.6rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>The Lord of the Rings</h1>
+            <p class="subtitle">Reading Comprehension Quiz</p>
+            <div class="chapter-selector">
+                <select id="chapterSelect">
+                    <option value="">-- Select a Chapter --</option>
+                </select>
+            </div>
+        </header>
+
+        <div id="loading" class="loading hidden">
+            <div class="spinner"></div>
+            <p>Loading quiz...</p>
+        </div>
+
+        <div id="error" class="error-msg hidden"></div>
+
+        <div id="quizArea" class="hidden">
+            <div id="scoreCard" class="score-card hidden">
+                <div class="score-number" id="scoreDisplay"></div>
+                <div class="score-percent" id="scorePercent"></div>
+                <div class="score-actions">
+                    <button class="btn btn-primary" id="retryBtn">Retry</button>
+                </div>
+            </div>
+
+            <div class="progress-wrapper" id="progressWrapper">
+                <div class="progress-info">
+                    <span id="progressText">0 / 10 answered</span>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+            </div>
+
+            <div id="questions"></div>
+
+            <div id="submitWrapper" class="submit-wrapper hidden">
+                <button class="btn btn-primary" id="submitBtn">Submit Answers</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    // ── Chapter Data ──────────────────────────────────────────────
+    const CHAPTER_FILES = [
+        '01_Chapter_1_-_A_LONG-EXPECTED_PARTY',
+        '02_Chapter_2_-_THE_SHADOW_OF_THE_PAST',
+        '03_Chapter_3_-_THREE_IS_COMPANY',
+        '04_Chapter_4_-_A_SHORT_CUT_TO_MUSHROOMS',
+        '05_Chapter_5_-_A_CONSPIRACY_UNMASKED',
+        '06_Chapter_6_-_THE_OLD_FOREST',
+        '07_Chapter_7_-_IN_THE_HOUSE_OF_TOM_BOMBADIL',
+        '08_Chapter_8_-_FOG_ON_THE_BARROW-DOWNS',
+        '09_Chapter_9_-_AT_THE_SIGN_OF_THE_PRANCING_PONY',
+        '10_Chapter_10_-_STRIDER',
+        '11_Chapter_11_-_A_KNIFE_IN_THE_DARK',
+        '12_Chapter_12_-_FLIGHT_TO_THE_FORD',
+        '13_Chapter_1_-_MANY_MEETINGS',
+        '14_Chapter_2_-_THE_COUNCIL_OF_ELROND',
+        '15_Chapter_3_-_THE_RING_GOES_SOUTH',
+        '16_Chapter_4_-_A_JOURNEY_IN_THE_DARK',
+        '17_Chapter_5_-_THE_BRIDGE_OF_KHAZAD-DÛM',
+        '18_Chapter_6_-_LOTHLÓRIEN',
+        '19_Chapter_7_-_THE_MIRROR_OF_GALADRIEL',
+        '20_Chapter_8_-_FAREWELL_TO_LÓRIEN',
+        '21_Chapter_9_-_THE_GREAT_RIVER',
+        '22_Chapter_10_-_THE_BREAKING_OF_THE_FELLOWSHIP',
+        '23_Chapter_1_-_THE_DEPARTURE_OF_BOROMIR',
+        '24_Chapter_2_-_THE_RIDERS_OF_ROHAN',
+        '25_Chapter_3_-_THE_URUK-HAI',
+        '26_Chapter_4_-_TREEBEARD',
+        '27_Chapter_5_-_THE_WHITE_RIDER',
+        '28_Chapter_6_-_THE_KING_OF_THE_GOLDEN_HALL',
+        '29_Chapter_7_-_HELMS_DEEP',
+        '30_Chapter_8_-_THE_ROAD_TO_ISENGARD',
+        '31_Chapter_9_-_FLOTSAM_AND_JETSAM',
+        '32_Chapter_10_-_THE_VOICE_OF_SARUMAN',
+        '33_Chapter_11_-_THE_PALANTÍR',
+        '34_Chapter_1_-_THE_TAMING_OF_SMÉAGOL',
+        '35_Chapter_2_-_THE_PASSAGE_OF_THE_MARSHES',
+        '36_Chapter_3_-_THE_BLACK_GATE_IS_CLOSED',
+        '37_Chapter_4_-_OF_HERBS_AND_STEWED_RABBIT',
+        '38_Chapter_5_-_THE_WINDOW_ON_THE_WEST',
+        '39_Chapter_6_-_THE_FORBIDDEN_POOL',
+        '40_Chapter_7_-_JOURNEY_TO_THE_CROSS-ROADS',
+        '41_Chapter_8_-_THE_STAIRS_OF_CIRITH_UNGOL',
+        '42_Chapter_9_-_SHELOBS_LAIR',
+        '43_Chapter_10_-_THE_CHOICES_OF_MASTER_SAMWISE',
+        '44_Chapter_1_-_MINAS_TIRITH',
+        '45_Chapter_2_-_THE_PASSING_OF_THE_GREY_COMPANY',
+        '46_Chapter_3_-_THE_MUSTER_OF_ROHAN',
+        '47_Chapter_4_-_THE_SIEGE_OF_GONDOR',
+        '48_Chapter_5_-_THE_RIDE_OF_THE_ROHIRRIM',
+        '49_Chapter_6_-_THE_BATTLE_OF_THE_PELENNOR_FIELDS',
+        '50_Chapter_7_-_THE_PYRE_OF_DENETHOR',
+        '51_Chapter_8_-_THE_HOUSES_OF_HEALING',
+        '52_Chapter_9_-_THE_LAST_DEBATE',
+        '53_Chapter_10_-_THE_BLACK_GATE_OPENS',
+        '54_Chapter_1_-_THE_TOWER_OF_CIRITH_UNGOL',
+        '55_Chapter_2_-_THE_LAND_OF_SHADOW',
+        '56_Chapter_3_-_MOUNT_DOOM',
+        '57_Chapter_4_-_THE_FIELD_OF_CORMALLEN',
+        '58_Chapter_5_-_THE_STEWARD_AND_THE_KING',
+        '59_Chapter_6_-_MANY_PARTINGS',
+        '60_Chapter_7_-_HOMEWARD_BOUND',
+        '61_Chapter_8_-_THE_SCOURING_OF_THE_SHIRE',
+        '62_Chapter_9_-_THE_GREY_HAVENS',
+    ];
+
+    const BOOK_NAMES = [
+        'Book I \u2014 The Fellowship of the Ring (1)',
+        'Book II \u2014 The Fellowship of the Ring (2)',
+        'Book III \u2014 The Two Towers (1)',
+        'Book IV \u2014 The Two Towers (2)',
+        'Book V \u2014 The Return of the King (1)',
+        'Book VI \u2014 The Return of the King (2)',
+    ];
+
+    function getBookIndex(file) {
+        const num = parseInt(file);
+        if (num <= 12) return 0;
+        if (num <= 22) return 1;
+        if (num <= 33) return 2;
+        if (num <= 43) return 3;
+        if (num <= 53) return 4;
+        return 5;
+    }
+
+    function titleCase(str) {
+        return str.toLowerCase().split(' ').map(word =>
+            word.split('-').map(p => p.charAt(0).toUpperCase() + p.slice(1)).join('-')
+        ).join(' ');
+    }
+
+    function formatChapterTitle(file) {
+        const m = file.match(/^\d+_(Chapter_\d+)_-_(.*)/);
+        if (!m) return file;
+        const ch = m[1].replace(/_/g, ' ');
+        const title = titleCase(m[2].replace(/_/g, ' '));
+        return `${ch}: ${title}`;
+    }
+
+    // ── State ─────────────────────────────────────────────────────
+    let quizData = null;
+    let answersData = null;
+    let submitted = false;
+
+    // ── Initialize ────────────────────────────────────────────────
+    function init() {
+        populateSelect();
+        document.getElementById('chapterSelect').addEventListener('change', onChapterChange);
+        document.getElementById('submitBtn').addEventListener('click', submitQuiz);
+        document.getElementById('retryBtn').addEventListener('click', retryQuiz);
+    }
+
+    function populateSelect() {
+        const select = document.getElementById('chapterSelect');
+        let currentBook = -1;
+        let optgroup = null;
+
+        for (const file of CHAPTER_FILES) {
+            const bookIdx = getBookIndex(file);
+            if (bookIdx !== currentBook) {
+                currentBook = bookIdx;
+                optgroup = document.createElement('optgroup');
+                optgroup.label = BOOK_NAMES[bookIdx];
+                select.appendChild(optgroup);
+            }
+            const option = document.createElement('option');
+            option.value = file;
+            option.textContent = formatChapterTitle(file);
+            optgroup.appendChild(option);
+        }
+    }
+
+    async function onChapterChange(e) {
+        const file = e.target.value;
+        if (!file) {
+            document.getElementById('quizArea').classList.add('hidden');
+            return;
+        }
+        await loadQuiz(file);
+    }
+
+    // ── Load Quiz ─────────────────────────────────────────────────
+    async function loadQuiz(file) {
+        const quizArea = document.getElementById('quizArea');
+        const loading = document.getElementById('loading');
+        const errorEl = document.getElementById('error');
+
+        quizArea.classList.add('hidden');
+        errorEl.classList.add('hidden');
+        loading.classList.remove('hidden');
+
+        try {
+            const quizUrl = 'quizzes/' + encodeURIComponent(file + '_quiz.md');
+            const answersUrl = 'quizzes/' + encodeURIComponent(file + '_quiz_answers.md');
+
+            const [quizResp, answersResp] = await Promise.all([
+                fetch(quizUrl), fetch(answersUrl)
+            ]);
+
+            if (!quizResp.ok || !answersResp.ok) {
+                throw new Error('Could not load quiz files.');
+            }
+
+            const quizMd = await quizResp.text();
+            const answersMd = await answersResp.text();
+
+            quizData = parseQuiz(quizMd);
+            answersData = parseAnswers(answersMd);
+            submitted = false;
+
+            loading.classList.add('hidden');
+            quizArea.classList.remove('hidden');
+            document.getElementById('scoreCard').classList.add('hidden');
+            document.getElementById('progressWrapper').classList.remove('hidden');
+            document.getElementById('submitWrapper').classList.add('hidden');
+
+            renderQuiz(quizData);
+            updateProgress();
+        } catch (err) {
+            loading.classList.add('hidden');
+            errorEl.textContent = 'Failed to load quiz: ' + err.message;
+            errorEl.classList.remove('hidden');
+        }
+    }
+
+    // ── Parse Quiz Markdown ───────────────────────────────────────
+    function parseQuiz(md) {
+        const questions = [];
+        const sections = md.split(/(?=###\s*Question\s+\d+)/);
+
+        for (const section of sections) {
+            const headerMatch = section.match(/^###\s*Question\s+(\d+)/);
+            if (!headerMatch) continue;
+
+            const num = parseInt(headerMatch[1]);
+            const lines = section.split('\n').slice(1);
+
+            let questionText = '';
+            let passage = '';
+            let options = [];
+            let passageStarted = false;
+
+            for (const line of lines) {
+                const trimmed = line.trim();
+                if (!trimmed || trimmed === '---') continue;
+
+                // Option line: - **A.** text
+                const optMatch = trimmed.match(/^-\s+\*\*([A-E])\.\*\*\s+(.*)/);
+                if (optMatch) {
+                    options.push({ letter: optMatch[1], text: optMatch[2] });
+                    continue;
+                }
+
+                // Passage line
+                if (trimmed.startsWith('>')) {
+                    passageStarted = true;
+                    const content = trimmed.replace(/^>\s*/, '').trim();
+                    if (content && !/^\*\*Relevant Passage:\*\*/.test(content)) {
+                        passage += (passage ? ' ' : '') + content;
+                    }
+                    continue;
+                }
+
+                // Question text (before passage and options)
+                if (!passageStarted && options.length === 0) {
+                    questionText += (questionText ? ' ' : '') + trimmed;
+                }
+            }
+
+            if (options.length > 0) {
+                questions.push({
+                    number: num,
+                    text: questionText.trim(),
+                    passage: passage.trim(),
+                    options: options
+                });
+            }
+        }
+
+        return questions;
+    }
+
+    // ── Parse Answers Markdown ────────────────────────────────────
+    function parseAnswers(md) {
+        const answers = {};
+
+        // Quick reference table
+        const tableRegex = /\|\s*(\d+)\s*\|\s*([A-E])\s*\|/g;
+        let m;
+        while ((m = tableRegex.exec(md)) !== null) {
+            answers[parseInt(m[1])] = {
+                correct: m[2], correctText: '', whyCorrect: '', whyIncorrect: {}
+            };
+        }
+
+        // Detailed explanations per question
+        const sections = md.split(/(?=###\s*Question\s+\d+)/);
+
+        for (const section of sections) {
+            const headerMatch = section.match(/^###\s*Question\s+(\d+)/);
+            if (!headerMatch) continue;
+
+            const num = parseInt(headerMatch[1]);
+            if (!answers[num]) {
+                answers[num] = { correct: '', correctText: '', whyCorrect: '', whyIncorrect: {} };
+            }
+
+            // Correct answer line
+            const correctMatch = section.match(/\*\*Correct Answer:\s*([A-E])\.\s*([\s\S]*?)\*\*/);
+            if (correctMatch) {
+                answers[num].correct = correctMatch[1];
+                answers[num].correctText = correctMatch[2].trim();
+            }
+
+            // "Why this is correct:" explanation
+            const whyCorrectMatch = section.match(
+                /\*\*Why this is correct:\*\*\s*\n([\s\S]*?)(?=\*\*Why [A-E] is incorrect|---(?:\s*\n)|$)/
+            );
+            if (whyCorrectMatch) {
+                answers[num].whyCorrect = whyCorrectMatch[1].trim();
+            }
+
+            // "Why X is incorrect" explanations
+            const incorrectRegex =
+                /\*\*Why ([A-E]) is incorrect\*\*[^:]*:\s*\n([\s\S]*?)(?=\*\*Why [A-E] is incorrect|---(?:\s*\n)|$)/g;
+            let im;
+            while ((im = incorrectRegex.exec(section)) !== null) {
+                answers[num].whyIncorrect[im[1]] = im[2].trim();
+            }
+        }
+
+        return answers;
+    }
+
+    // ── Shuffle (Fisher-Yates) ────────────────────────────────────
+    function shuffle(arr) {
+        const a = [...arr];
+        for (let i = a.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+    }
+
+    // ── Render Quiz ───────────────────────────────────────────────
+    function renderQuiz(questions) {
+        const container = document.getElementById('questions');
+        container.innerHTML = '';
+
+        for (const q of questions) {
+            const shuffled = shuffle(q.options);
+
+            const card = document.createElement('div');
+            card.className = 'question-card';
+            card.dataset.qnum = q.number;
+
+            let passageHtml = '';
+            if (q.passage) {
+                passageHtml = '<div class="passage">' + renderMd(q.passage) + '</div>';
+            }
+
+            let optionsHtml = '';
+            shuffled.forEach((opt, idx) => {
+                const inputId = 'q' + q.number + '_o' + idx;
+                optionsHtml +=
+                    '<div class="option" data-letter="' + opt.letter + '" ' +
+                         'onclick="selectOption(this,' + q.number + ',\'' + inputId + '\')">' +
+                        '<input type="radio" name="q' + q.number + '" id="' + inputId + '" ' +
+                               'value="' + opt.letter + '">' +
+                        '<label for="' + inputId + '">' + renderMd(opt.text) + '</label>' +
+                    '</div>';
+            });
+
+            card.innerHTML =
+                '<div class="question-header">' +
+                    '<span class="question-num" id="qmark-' + q.number + '">' +
+                        'Question ' + q.number + ' / ' + questions.length +
+                    '</span>' +
+                '</div>' +
+                '<div class="question-text">' + renderMd(q.text) + '</div>' +
+                passageHtml +
+                '<div class="options">' + optionsHtml + '</div>' +
+                '<div id="explanation-' + q.number + '"></div>';
+
+            container.appendChild(card);
+        }
+    }
+
+    // ── Option Selection ──────────────────────────────────────────
+    function selectOption(optionDiv, qNum, inputId) {
+        if (submitted) return;
+
+        const radio = document.getElementById(inputId);
+        radio.checked = true;
+
+        // Update visual selection
+        const card = optionDiv.closest('.question-card');
+        card.querySelectorAll('.option').forEach(el => el.classList.remove('selected'));
+        optionDiv.classList.add('selected');
+
+        updateProgress();
+        checkSubmitReady();
+    }
+
+    function updateProgress() {
+        if (!quizData) return;
+        const total = quizData.length;
+        let answered = 0;
+        for (const q of quizData) {
+            if (document.querySelector('input[name="q' + q.number + '"]:checked')) answered++;
+        }
+        document.getElementById('progressText').textContent = answered + ' / ' + total + ' answered';
+        document.getElementById('progressFill').style.width = (answered / total * 100) + '%';
+    }
+
+    function checkSubmitReady() {
+        const total = quizData.length;
+        let answered = 0;
+        for (const q of quizData) {
+            if (document.querySelector('input[name="q' + q.number + '"]:checked')) answered++;
+        }
+        const wrapper = document.getElementById('submitWrapper');
+        if (answered === total) {
+            wrapper.classList.remove('hidden');
+        } else {
+            wrapper.classList.add('hidden');
+        }
+    }
+
+    // ── Submit & Grade ────────────────────────────────────────────
+    function submitQuiz() {
+        submitted = true;
+        let correct = 0;
+        const total = quizData.length;
+
+        for (const q of quizData) {
+            const selected = document.querySelector('input[name="q' + q.number + '"]:checked');
+            const card = document.querySelector('.question-card[data-qnum="' + q.number + '"]');
+            const answer = answersData[q.number];
+            if (!answer) continue;
+
+            const userLetter = selected ? selected.value : null;
+            const isCorrect = userLetter === answer.correct;
+
+            // Disable all options
+            card.querySelectorAll('.option').forEach(opt => {
+                opt.classList.add('disabled');
+            });
+            card.querySelectorAll('input[type="radio"]').forEach(r => r.disabled = true);
+
+            if (isCorrect) {
+                correct++;
+                card.classList.add('result-correct');
+                // Mark selected option green
+                card.querySelectorAll('.option').forEach(opt => {
+                    if (opt.querySelector('input').checked) {
+                        opt.classList.remove('selected');
+                        opt.classList.add('option-correct');
+                    }
+                });
+                document.getElementById('qmark-' + q.number).innerHTML =
+                    '<span class="mark-correct">\u2713</span> Question ' + q.number + ' / ' + total;
+            } else {
+                card.classList.add('result-wrong');
+                card.querySelectorAll('.option').forEach(opt => {
+                    const radio = opt.querySelector('input');
+                    if (radio.checked) {
+                        opt.classList.remove('selected');
+                        opt.classList.add('option-wrong');
+                    }
+                    if (radio.value === answer.correct) {
+                        opt.classList.add('option-show-correct');
+                    }
+                });
+                document.getElementById('qmark-' + q.number).innerHTML =
+                    '<span class="mark-wrong">\u2717</span> Question ' + q.number + ' / ' + total;
+
+                // Show explanation
+                showExplanation(q, userLetter, answer);
+            }
+        }
+
+        // Show score
+        const pct = Math.round(correct / total * 100);
+        const scoreEl = document.getElementById('scoreDisplay');
+        scoreEl.textContent = correct + ' / ' + total;
+        scoreEl.className = 'score-number ' + (pct >= 80 ? 'high' : pct >= 60 ? 'mid' : 'low');
+        document.getElementById('scorePercent').textContent = pct + '%';
+        document.getElementById('scoreCard').classList.remove('hidden');
+        document.getElementById('submitWrapper').classList.add('hidden');
+        document.getElementById('progressWrapper').classList.add('hidden');
+
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function showExplanation(q, userLetter, answer) {
+        const area = document.getElementById('explanation-' + q.number);
+        // Find the correct option text from the quiz data
+        const correctOpt = q.options.find(o => o.letter === answer.correct);
+        const correctText = correctOpt ? correctOpt.text : (answer.correctText || '');
+
+        let html = '<div class="explanation">';
+
+        // Why the correct answer is correct
+        html += '<div class="explanation-correct">';
+        html += '<h4>\u2713 Correct: ' + renderMd(correctText) + '</h4>';
+        if (answer.whyCorrect) {
+            html += '<p>' + renderMd(answer.whyCorrect) + '</p>';
+        }
+        html += '</div>';
+
+        // Why the student's answer is wrong (if explanation available)
+        if (userLetter && answer.whyIncorrect[userLetter]) {
+            html += '<div class="explanation-wrong">';
+            html += '<h4>\u2717 Why your answer is incorrect</h4>';
+            html += '<p>' + renderMd(answer.whyIncorrect[userLetter]) + '</p>';
+            html += '</div>';
+        }
+
+        html += '</div>';
+        area.innerHTML = html;
+    }
+
+    // ── Retry ─────────────────────────────────────────────────────
+    function retryQuiz() {
+        submitted = false;
+        document.getElementById('scoreCard').classList.add('hidden');
+        document.getElementById('progressWrapper').classList.remove('hidden');
+        renderQuiz(quizData);
+        updateProgress();
+    }
+
+    // ── Simple Markdown Renderer ──────────────────────────────────
+    function renderMd(text) {
+        return text
+            .replace(/\*\*\*(.*?)\*\*\*/g, '<strong><em>$1</em></strong>')
+            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+            .replace(/(?<!\w)\*([^*]+)\*(?!\w)/g, '<em>$1</em>')
+            .replace(/(?<!\w)_([^_]+)_(?!\w)/g, '<em>$1</em>');
+    }
+
+    // ── Boot ──────────────────────────────────────────────────────
+    document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
