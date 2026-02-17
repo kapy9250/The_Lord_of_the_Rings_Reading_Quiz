@@ -21,150 +21,168 @@
 
 ### Question 1 `[CIM/ANT]` `[Advanced]`
 
-**Merry’s feeling of being "borne down by the insupportable weight of Middle-earth" while looking at the mountains of Harrowdale reveals:**
+**Merry’s feeling of being "borne down" reveals:**
 
-**Correct Answer: B. A profound psychological "agoraphobia" of the spirit, where the vast, ancient, and indifferent scale of the mythic world becomes a source of existential exhaustion for a "small" creature accustomed to domestic proportions.**
+**Correct Answer: B. A profound psychological agoraphobia, where the indifferent, mythic scale of the world becomes a source of existential exhaustion for a creature of domestic proportions.**
 
 **Why this is correct:**
-Merry finds the "skyless world" of "great walls of stone" and "frowning precipices" overwhelming. For a hobbit whose life is rooted in "quiet rooms" and "fires," the sheer "immensity" of the mountains is not just a visual experience but a physical "weight." It captures the feeling of insignificance and "doom" that characterizes the hobbits' experience of the "Great" world in Book 5.
+Merry finds the "skyless world" of "great walls" overwhelming. For a hobbit rooted in "quiet rooms," the "immensity" is a physical "weight." It captures the feeling of insignificance that characterizes the hobbits' experience of the "Great" world in Book 5.
 
-**Why E is incorrect** `[SL]`:
-Merry's reaction is the *opposite* of a Dwarf's. He feels "borne down" and "lonely," and he longs for the Shire's comfort, whereas a Dwarf (like Gimli in Helm's Deep) would feel invigorated and "at home" in the bones of the earth.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "tectonic plates."
+- **C** is a "Lore-Trap" about "ent-draught weight."
+- **D** is an "Academic Over-Interpretation" using the term "lithic."
+- **E** is a "Comedy" distractor about "ale and altitude."
 
 ---
 
 ### Question 2 `[PIS/SCA]` `[Advanced]`
 
-**Théoden’s rebuke to Éomer ("speak not the soft words of Wormtongue in my old ears!") when Éomer suggests he stay behind indicates that:**
+**Théoden’s rebuke to Éomer indicates that:**
 
-**Correct Answer: B. Théoden has developed an acute, defensive sensitivity to any counsel that resembles "prudence" or "safety," viewing it now as a spiritual pollutant that threatens his hard-won reclamation of heroic agency.**
+**Correct Answer: B. He has developed a defensive sensitivity to any counsel of "prudence," viewing it as a spiritual pollutant that threatens his hard-won heroic agency.**
 
 **Why this is correct:**
-Théoden has been "shaken back into life" by Gandalf. He identifies "safety" and "hiding in the hills" with the state of paralysis he endured under Wormtongue. For him, the choice is no longer about winning or losing the war, but about *dying as a King* in battle rather than *living as a dotard* in hiding. He views Éomer's concern as a return to the "soft" and "bent" logic he has rejected.
+Théoden has rejected the state of paralysis he endured under Wormtongue. He identifies "safety" with that state. For him, the choice is now about dying as a King in battle. He views Éomer's concern as a return to the "soft" logic he has discarded.
 
-**Why A is incorrect** `[PT]`:
-Théoden calls Éomer "my son," showing his deep affection and trust. His rebuke is not about Éomer's loyalty, but about the *nature of the advice itself*, which Théoden now finds offensive to his restored heroic identity.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "irrational suspicion."
+- **C** is a "Plausible Misreading" about "regressing to dotage."
+- **D** is a "Surface-Level Literalism" about "executing commanders."
+- **E** is a "Comedy" distractor about "Wormtongue as a title."
 
 ---
 
 ### Question 3 `[ACN/SCA]` `[Advanced]`
 
-**The description of the "Pukel-men" at Dunharrow—"staring sadly at the passers-by" with "no power or terror... left in them"—serves to:**
+**The description of the "Pukel-men" serves to:**
 
-**Correct Answer: B. Contrast the Rohirrim’s familiar, military focus with the "un-remembered" and mournful history of the land, using Merry’s "un-High" empathy to highlight the tragic transience of all human works.**
+**Correct Answer: B. Contrast the Rohirrim’s narrow military focus with the "un-remembered" and mournful history of the land, using Merry’s empathy to highlight the tragedy of transience.**
 
 **Why this is correct:**
-The Rohirrim "hardly glanced" at the statues, viewing them as a forgotten curiosity. Merry, however, feels "pity" for them. This highlights the layer-on-layer history of Middle-earth. The Pukel-men are remnants of a culture older than Rohan or Gondor. Their "sad" and "worn" state serves as a memento mori—a reminder that even the greatest works eventually become "unimportant" and forgotten by those who follow.
+The Rohirrim "hardly glanced" at the statues. Merry feels "pity." This highlights the layer-on-layer history. The Pukel-men are remnants of a culture older than Rohan. Their "sad" state serves as a memento mori—a reminder that even great works become "unimportant."
 
-**Why E is incorrect** `[SL]`:
-The tone is "mournful," "strange," and "beyond the reach of song." The Pukel-men are presented as a somber mystery of the "Dark Years," rather than a source of Shire-like whimsy.
+**Analysis of Distractors:**
+- **A** is an "Academic Over-Interpretation" about "failed artistic movements."
+- **C** is a "Lore-Trap" about "magic batteries."
+- **D** is a "Moralistic Misreading" about "maintaining monuments."
+- **E** is a "Comedy" distractor about "statue-games."
 
 ---
 
 ### Question 4 `[CIM/ANT]` `[Advanced]`
 
-**Éowyn’s reaction to the news of Aragorn’s departure ("he has passed into the shadow from which none have returned") reveals:**
+**Éowyn’s reaction reveals:**
 
-**Correct Answer: B. A state of profound, internal "eclipse," where the loss of the "High" figure who represented her only hope for a wider, more heroic life has left her in a state of terminal, despairing resignation.**
+**Correct Answer: B. A state of "terminal resignation," where the loss of the figure representing her hope for a mythic life has left her in a spiritual eclipse.**
 
 **Why this is correct:**
-The text notes that "she seemed to have been weeping" and that her "face was blanched." Aragorn's choice to take the "Paths of the Dead" is, in her eyes, a death sentence. But more importantly, his refusal to let her follow him is the final closing of her "cage." Her grief is not just for a lost guest, but for her own lost chance at a meaningful destiny.
+Aragorn's choice to take the "Paths of the Dead" is a death sentence in her eyes. But his refusal to let her follow is the final closing of her "cage." Her grief is for her own lost chance at a meaningful destiny.
 
-**Why A is incorrect** `[AM]`:
-Her reaction is one of "grief," "torment of mind," and "stricken" silence. She views his road as "madness" and a search for "death," the opposite of a hopeful fulfillment of destiny.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "joy."
+- **C** is a "Plausible Misreading" about "leading a rebellion."
+- **D** is a "Lore-Trap" about "becoming a Wraith."
+- **E** is an "Academic Over-Interpretation" using the term "metaphor for Gondor."
 
 ---
 
 ### Question 5 `[PIS/SCA]` `[Advanced]`
 
-**Théoden’s account of the "old man" at the Door of the Dead who says "The way is shut" until "the time comes" highlights the theme of:**
+**Théoden’s account of the "old man" highlights:**
 
-**Correct Answer: B. The "apocalyptic" nature of the current hour, where the ancient, frozen locks of history are being unsealed by the absolute necessity of the War of the Ring.**
+**Correct Answer: B. The apocalyptic nature of the current hour, where the "frozen" locks of history are being unsealed by absolute necessity.**
 
 **Why this is correct:**
-Théoden muses that "maybe at last the time foretold has come." The ancient prophecy of the "seer" and the "waiting" of the Dead indicate that the world is reaching its final, decisive confrontation. The "shut" way is now "open" to Aragorn, signifying that the past's broken oaths and frozen horrors are being re-activated to play their part in the end-game.
+Théoden muses that "the time foretold has come." The ancient prophecy and the "waiting" of the Dead indicate the world is reaching its final confrontation. The "shut" way is now "open," signifying history is re-activating.
 
-**Why E is incorrect** `[SL]`:
-The Dead are not "planning" anything; they are "Sleepless" and "shadows" waiting for a specific, royal summons to "fulfill their oath and have peace." They are passive agents of a destiny that only the "Heir" can trigger.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "bureaucratic regulation."
+- **C** is a "Moralistic Misreading" about "rude hosts."
+- **D** is a "Comedy" distractor about the "Common Tongue."
+- **E** is an "Academic Over-Interpretation" about "public utilities."
 
 ---
 
 ### Question 6 `[CIM/PIS]` `[Advanced]`
 
-**The arrival of Hirgon with the "Red Arrow" and Théoden’s trembling hand signify:**
+**The arrival of the "Red Arrow" and Théoden’s trembling signify:**
 
-**Correct Answer: B. The visceral, heavy weight of an ancient and absolute "blood-oath" being called in, marking the moment where national survival and personal destiny become one and the same.**
+**Correct Answer: B. The visceral weight of an ancient "blood-oath" being called in, marking the moment where personal destiny and national survival merge.**
 
 **Why this is correct:**
-The Red Arrow is a "summons long expected and yet dreadful when it comes." It is the physical manifestation of the "Alliance of old." Théoden's trembling is a sign of his recognition of the gravity of the situation—Gondor is at its "desperate" end. His subsequent decision to ride "even if Rohan itself felt no peril" marks his final ascension to high-heroic leadership.
+The Red Arrow is a "summons long expected." It is the physical manifestation of the "Alliance of old." Théoden's trembling recognizes the gravity: Gondor is at its "desperate" end. He rides out of moral necessity.
 
-**Why B is incorrect** `[SL]`:
-While he mentions he is "new-come from battle," his decision to send "six thousands at the least" and to come "himself" shows he is setting aside his own weariness for the sake of the oath.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "physical weakness."
+- **C** is a "Lore-Trap" about "biological weapons."
+- **D** is a "Plausible Misreading" about "fear of arrows."
+- **E** is a "Comedy" distractor about "Green Arrows."
 
 ---
 
 ### Question 7 `[CIM/ANT]` `[Advanced]`
 
-**The "dull" and "harsh" voices of the trumpets under the "Dawnless Day" cloud indicate:**
+**The voices of the trumpets indicate:**
 
-**Correct Answer: B. The atmospheric and spiritual "damping" of heroic hope by the Shadow, where the traditional symbols of martial courage are physically stifled by the encroaching "un-light" of the Enemy.**
+**Correct Answer: B. The atmospheric and spiritual "damping" of hope by the Shadow, where martial symbols are physically stifled by the "un-light" of the Enemy.**
 
 **Why this is correct:**
-Merry notes that the voices "no longer sounded clear and brave." The "heavy air" and the "featureless" cloud of Mordor literally and figuratively stifle the sound of Rohan's hope. This "Dawnless Day" is a tactical weapon of terror, designed to make the Defenders' calls feel "dull" and "ominous," emphasizing their isolation from the natural light of the world.
+The "heavy air" and "featureless" cloud literally stifle the sound of hope. This "Dawnless Day" is a weapon of terror, designed to make the Defenders' calls feel "dull" and "ominous," isolating them from natural light.
 
-**Why E is incorrect** `[SL]`:
-The tone is "grey," "sad," and "afraid." The change in the trumpets' sound is presented as a direct, unsettling consequence of the "Darkness" that has begun, rather than a joke.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "lack of training."
+- **C** is a "Surface-Level Literalism" about "melting instruments."
+- **D** is an "Academic Over-Interpretation" using the term "literal vacuum."
+- **E** is a "Comedy" distractor about "brass instruments."
 
 ---
 
 ### Question 8 `[CIM/PIS]` `[Advanced]`
 
-**Merry’s "startling" observation of the young Rider (Dernhelm) as having "the face of one without hope who goes in search of death" suggests:**
+**Merry’s observation of Dernhelm suggests:**
 
-**Correct Answer: B. A profound, intuitive recognition of a kindred "Shadow" spirit, identifying the Rider as someone whose internal "cage" has forced them into a state of suicidal, heroic desperation.**
+**Correct Answer: B. An intuitive recognition of a kindred "Shadow" spirit, identifying the Rider as someone whose internal "cage" has forced them into suicidal desperation.**
 
 **Why this is correct:**
-Merry sees in Dernhelm's eyes a "glint" of despair. This mirrors Éowyn's earlier "torment." Although Merry doesn't yet know Dernhelm is Éowyn, his "shiver" is an instinctive reaction to the Rider's "fey" (doomed) mood. It identifies Dernhelm not as a conventional warrior looking for victory, but as a tragic figure seeking an end to their own spiritual "cage."
+Merry sees in Dernhelm's eyes a "glint" of despair. Although he doesn't know it's Éowyn, his "shiver" recognizes the Rider's "fey" (doomed) mood. It identifies Dernhelm as a tragic figure seeking an end to their "cage."
 
-**Why E is incorrect** `[PT]`:
-Merry is "puzzled and depressed," but he still desires to "repay his debt" and "be of use." His shiver is an external reaction to the *Rider's* face, rather than a manifestation of his own "fey" mood.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" about "surviving a charge."
+- **C** is a "Lore-Trap" about "ghosts from Dimholt."
+- **D** is an "Over-Interpretation" using the term "psychic."
+- **E** is a "Comedy" distractor about "looking for ale."
 
 ---
 
 ### Question 9 `[ACN/ANT]` `[Advanced]`
 
-**The inclusion of the poem "From dark Dunharrow in the dim morning" serves to:**
+**The inclusion of the poem serves to:**
 
-**Correct Answer: B. Transform the immediate, "gritty" military movement into a timeless, legendary event, contextualizing the King’s ride as a final, mythic fulfillment of fealty and fate.**
+**Correct Answer: B. Transform the immediate military movement into a timeless, mythic event, contextualizing the ride as a final fulfillment of fate.**
 
 **Why this is correct:**
-The poem uses high-alliterative, archaic language ("thengel's son," "golden timbers," "fate before him"). It explicitly mentions that "so the songs tell us," framing the current action as something that has already become part of Rohan's legendary history. It elevates the "dusty" ride into a mythic "forth-riding," reinforcing the theme of the "heroic age" reaching its climax.
+The poem uses archaic language and mentions "songs tell us." It frames the current action as part of Rohan's legendary history. It elevates the "dusty" ride into a mythic "forth-riding," reinforcing the climax of the "heroic age."
 
-**Why D is incorrect** `[OI]`:
-While it mentions "darkness took them" and "hoofbeats... sank into silence," the poem's primary function is to *honor* the ride and its "fealty," rather than to provide a definitive, literal prophecy of its physical outcome.
+**Analysis of Distractors:**
+- **A** is an "Academic Over-Interpretation" about "colorful diversions."
+- **C** is a "Plausible Misreading" about "maintaining secrets."
+- **D** is an "Over-Interpretation" about the "Morning never returning."
+- **E** is a "Comedy" distractor about "Thengel’s son as a poet."
 
 ---
 
 ### Question 10 `[CIM/PIS]` `[Advanced]`
 
-**Dernhelm’s offer to bear Merry "under my cloak" because "such good will should not be denied" marks a moment of:**
+**Dernhelm’s offer to bear Merry marks a moment of:**
 
-**Correct Answer: B. A secretive, "subversive" alliance between two marginalized and "excluded" characters, who use their shared status as "unimportant" to bypass the rigid logic of the Great and join the battle.**
+**Correct Answer: B. A secretive, subversive alliance between marginalized characters who use their shared "unimportance" to bypass the logic of the Great.**
 
 **Why this is correct:**
-Both Merry and Dernhelm (Éowyn) have been told by the King that they cannot go to battle ("none of my Riders can bear you as burden"). By joining together, they form a "shadow" company within the muster. Their alliance is based on a mutual understanding of being "left behind" and a shared, desperate will to participate in the "renown" of the end, regardless of the orders of the "Great."
+Both have been told they cannot go. By joining together, they form a "shadow" company. Their alliance is based on a mutual understanding of being "left behind" and a shared will to participate in the "renown" of the end.
 
-**Why E is incorrect** `[OI]`:
-On the contrary, Dernhelm is riding *toward* the battle with "haste," using the cloak to *ensure* their arrival at the front lines, rather than planning a desertion.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 7 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 5 |
-| Pragmatic Implicature & Subtext (PIS) | 4 |
-| Situational & Contextual Awareness (SCA) | 4 |
-| Authorial Craft & Narrative Strategy (ACN) | 2 |
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "reckless disregard."
+- **C** is a "Plausible Misreading" about "good luck charms."
+- **D** is a "Lore-Trap" about "invisibility cloaks."
+- **E** is a "Plausible Misreading" about the "King being too old to notice."

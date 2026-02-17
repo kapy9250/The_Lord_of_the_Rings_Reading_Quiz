@@ -28,8 +28,11 @@
 **Why this is correct:**
 The word "treacherously" implies that the beauty of the morning is a deception—it provides a false sense of security that doesn't "banish the fear of pursuit." Frodo is now viewing the Shire through the lens of a fugitive; the very openness and light that normally signal safety are now threats to his need for concealment.
 
-**Why D is incorrect** `[PT]`:
-While he is indeed "annoyed" by Pippin's questions, his thought about the "brightness" is specifically linked to his "pondering the words of Gildor" and his fear of pursuit, which is a deeper, existential concern.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that tries to attribute a physiological cause (Ring proximity) to a metaphorical thought.
+- **C** is an "Over-Interpretation" that grants the natural world a malevolent agency it doesn't possess in this scene.
+- **D** is an "Academic Over-Interpretation" that reframes fear as "moral guilt."
+- **E** is a "Surface-Level Literalism" that ignores the specific link to the "fear of pursuit" mentioned in the text.
 
 ---
 
@@ -42,8 +45,11 @@ While he is indeed "annoyed" by Pippin's questions, his thought about the "brigh
 **Why this is correct:**
 Frodo contrasts the "walking over the Shire" (a game/pleasure) with "exile" (a permanent, dangerous reality). His statement "The inheritance is mine alone" shows he views the Ring and the danger it brings as his personal cross to bear, and he feels a deep guilt at the prospect of endangering his "young friends" for his sake.
 
-**Why E is incorrect** `[OI]`:
-While secrecy is important, Frodo's primary internal conflict here is emotional and ethical—the "pity" and "care" for his friends' lives—rather than a strategic calculation about the Ring's security.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that interprets his care as "paternalism," but the tone is one of self-sacrifice, not superiority.
+- **C** is a "Half-Truth"; while tracking is a concern, his primary internal conflict here is ethical ("To take them into exile... is quite another").
+- **D** is an "Over-Interpretation" that projects the Ring's possessiveness onto Frodo's altruistic concern.
+- **E** uses academic-sounding terms ("liability") to frame a deeply personal and emotional dilemma.
 
 ---
 
@@ -51,13 +57,16 @@ While secrecy is important, Frodo's primary internal conflict here is emotional 
 
 **What does Sam’s description of the Elves as "above my likes and dislikes" and "so old and young, and so gay and sad" imply about his evolving perspective?**
 
-**Correct Answer: B. Sam is beginning to perceive the paradoxical, timeless nature of the Elves that transcends simple hobbit categories.**
+**Correct Answer: B. Sam is beginning to perceive the paradoxical, timeless nature of the Elves that transcends simple mortal categories.**
 
 **Why this is correct:**
-Sam's use of contradictory pairings ("old and young," "gay and sad") shows he is struggling to find language for a being that exists outside the normal linear experience of a mortal hobbit. By saying they are "above" his likes, he acknowledges their higher, more profound nature, marking a significant maturation in his character from someone who just wanted to "see Elves" to someone who is beginning to understand them.
+Sam's use of contradictory pairings ("old and young," "gay and sad") shows he is struggling to find language for a being that exists outside the normal linear experience of a mortal. By saying they are "above" his likes, he acknowledges their higher, more profound nature, marking a significant maturation in his character.
 
-**Why A is incorrect** `[SL]`:
-Sam isn't "confused" in a negative sense; he is having a profound experience. His "thoughtful" face and his ability to identify the "different" feeling show he is processing the experience deeply, even if he "don't know how to say it."
+**Analysis of Distractors:**
+- **A** uses academic-sounding language ("cognitive dissonance") to describe what is actually a spiritual/aesthetic experience.
+- **C** is a "Plausible Misreading" that frames his awe as an "intellectual" admission rather than a sensory realization.
+- **D** is a "Plausible Misreading" that attributes a pragmatic "usefulness" motive to Sam that isn't in the text.
+- **E** is an "Over-Interpretation" that uses a later plot point (Ring influence) to explain a current character moment.
 
 ---
 
@@ -65,13 +74,16 @@ Sam isn't "confused" in a negative sense; he is having a profound experience. Hi
 
 **Pippin’s argument for the "Golden Perch" and his general lightheartedness throughout the chapter primarily characterize him as:**
 
-**Correct Answer: B. A representative of the typical Shire-hobbit mindset, which struggles to grasp the gravity of life-or-death situations.**
+**Correct Answer: B. A representative of the typical Shire-hobbit mindset, which is psychologically insulated against the concept of existential threat.**
 
 **Why this is correct:**
-Pippin’s focus on "the best beer in the Eastfarthing" and his cheerful curiosity about the Riders ("not seem very alarming to him") contrast sharply with Frodo's dread. He views the journey as a series of inconveniences or "delays" rather than a mortal flight, illustrating the profound innocence and parochialism that the quest is challenging.
+Pippin’s focus on "the best beer in the Eastfarthing" and his cheerful curiosity contrast sharply with Frodo's dread. He views the journey as a series of inconveniences or "delays" rather than a mortal flight, illustrating the profound innocence and parochialism of the Shire.
 
-**Why E is incorrect** `[AM]`:
-Pippin is not "bored," and he is a loyal friend ("I will follow you into every bog and ditch"). His lightheartedness is not a lack of caring, but a lack of *understanding* regarding the true nature of the enemy.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that interprets his lightheartedness as "hedonism" or lack of loyalty, which contradicts his willingness to "follow into every bog."
+- **C** attributes a "diplomatic" intent to Pippin that isn't supported by his obviously genuine interest in beer.
+- **D** is a "Half-Truth"; while he is inexperienced, his attitude is a cultural trait of the Shire, not just an individual social arrogance.
+- **E** is a "Surface-Level Literalism" that focuses on the *author's* choice rather than the *character's* psychology.
 
 ---
 
@@ -79,13 +91,16 @@ Pippin is not "bored," and he is a loyal friend ("I will follow you into every b
 
 **The sudden "long-drawn wail" that interrupts the hobbits’ lunch serves narratively to:**
 
-**Correct Answer: B. Shatter the brief illusion of safety provided by the "clear drink" and the sunlight.**
+**Correct Answer: B. Shatter the brief illusion of safety provided by the "clear drink" and the morning sunlight.**
 
 **Why this is correct:**
-The hobbits were "laughing, and snapping their fingers at... Black Riders" after drinking the Elven cordial. The wail "chilling to the blood" acts as a harsh reminder that the threat is real and immediate. It re-establishes the "shadow" that Frodo felt earlier, preventing both the characters and the reader from becoming too comfortable.
+The hobbits were "laughing, and snapping their fingers at... Black Riders" after drinking the Elven cordial. The wail "chilling to the blood" acts as a harsh reminder that the threat is real and immediate. It re-establishes the "shadow" and prevents both the characters and the reader from becoming too comfortable.
 
-**Why C is incorrect** `[CC]`:
-While there is a contrast, the narrative purpose is to escalate the tension and re-introduce the "fear," not just to make the hobbits look silly. It changes their internal state from "laughing" to "reluctant either to stay or go on."
+**Analysis of Distractors:**
+- **A** uses modern military-style language ("psychological weapon") that is an "Over-Interpretation" of a supernatural wail.
+- **C** is a "Half-Truth"; while they are moving, the Ferry is still within the boundaries of the broader Shire culture.
+- **D** is a "Plausible Misreading" about rhythmic contrast that misses the emotional function.
+- **E** is a "Surface-Level Literalism" that treats the wail as a literal signal rather than a thematic intrusion.
 
 ---
 
@@ -93,13 +108,16 @@ While there is a contrast, the narrative purpose is to escalate the tension and 
 
 **Frodo’s extreme alarm at the mention of Farmer Maggot’s land ("One trouble after another!") suggests:**
 
-**Correct Answer: B. Frodo’s childhood trauma has created a persistent, outsized fear that colors his perception of the present.**
+**Correct Answer: B. The persistence of childhood trauma in shaping a hobbit's perception of danger, even in the face of epic peril.**
 
 **Why this is correct:**
-Frodo admits he is "terrified of him and his dogs" and has "avoided his farm for years." The description of his alarm being like a "dragon's den" shows how a childhood fright (being beaten and chased for mushrooms) has remained a powerful psychological force, momentarily outweighing even the more adult fear of the Black Riders.
+The description of his alarm being like a "dragon's den" shows how a childhood fright (the "varmint" incident) has remained a powerful psychological force. This "local" fear momentarily outweighs even the "epic" fear of the Riders, highlighting the grounded, personal nature of hobbit life.
 
-**Why A is incorrect** `[PT]`:
-While his reaction *is* arguably out of proportion to the current situation, the text provides a clear psychological explanation (the "varmint" incident) that makes it a consistent character trait rather than just a moment of irrationality.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that blames Frodo for his "lack of perspective."
+- **C** is a "Plausible Misreading" that invents a tactical motive for the fear.
+- **D** is a "Plausible Misreading" that creates a conspiracy theory not present in the text.
+- **E** is a "Half-Truth" about the "thievish" act, but it misses the primary *emotional* driver: the fear of the dogs.
 
 ---
 
@@ -107,13 +125,16 @@ While his reaction *is* arguably out of proportion to the current situation, the
 
 **Farmer Maggot’s reaction to the Black Rider—telling him to "Be off!" and threatening to call his dogs—contrasts with the Gaffer’s reaction by showing:**
 
-**Correct Answer: B. Maggot’s stout, protective nature and his refusal to be intimidated by "outlandish" foreigners on his own land.**
+**Correct Answer: B. Maggot’s stout, territorial integrity and his refusal to grant "outlandish" power any special status on his land.**
 
 **Why this is correct:**
-Unlike the Gaffer, who was "put out" and "shrill," Maggot is aggressive and territorial ("Be off!"). He treats the Rider as a common trespasser and relies on his own "stout" sense of ownership and his dogs to assert control. This reflects a different facet of hobbit character—the grounded, formidable protector of one's own "bricks and mortar."
+Unlike the Gaffer, who was "put out" and "shrill," Maggot is aggressive and territorial ("Be off!"). He treats the Rider as a common trespasser. This reflects a different facet of hobbit character—the grounded, formidable protector of one's own "bricks and mortar" who refuses to be spooked by "funny customers."
 
-**Why D is incorrect** `[SL]`:
-Grip's reaction (yelping and howling) shows that the dogs *are* actually afraid of the Rider's "unnatural" nature. Maggot's bravado is a result of his own character, not a lack of fear from the dogs.
+**Analysis of Distractors:**
+- **A** is an "Over-Interpretation" that frames his bravery as "dangerous overconfidence."
+- **C** is a "Surface-Level Literalism" about the dogs' "immunity" that ignores the Gaffer's own internal reaction.
+- **D** is a "Half-Truth"; while there is a regional difference, the primary point is about Maggot's *character*.
+- **E** is a "Lore-Trap" that invents an association with the Rangers to explain Maggot's courage.
 
 ---
 
@@ -121,13 +142,16 @@ Grip's reaction (yelping and howling) shows that the dogs *are* actually afraid 
 
 **When Farmer Maggot guesses that the Black Riders might be after Bilbo’s "gold and jewels," Frodo’s silence and avoidance of the farmer's eye reveal:**
 
-**Correct Answer: B. Frodo’s discomfort with how close the truth (that he is being hunted) is to Maggot’s "shrewd guesses."**
+**Correct Answer: B. Frodo’s discomfort with how easily the truth can be dismantled by the "shrewd" observation of a practical mind.**
 
 **Why this is correct:**
-Maggot's guess that the Riders want to know what became of the "gold and jewels" is close enough to the reality of the Ring to be "disconcerting." Frodo's "avoiding the farmer's eye" shows his fear of revealing too much and his realization that the "secret" of his departure is already being dismantled by common sense and observation.
+Maggot's guess is close enough to the reality of the Ring to be "disconcerting." Frodo's "avoiding the farmer's eye" shows his fear of revealing too much and his realization that his "secret" quest is transparent to a grounded, observant neighbor.
 
-**Why C is incorrect** `[OI]`:
-There is no evidence Maggot is being manipulative; in fact, he is offering help ("I'll deal with them"). The discomfort is entirely internal to Frodo, who is burdened by a secret he cannot share.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that interprets discomfort as "irritation" at his quest being "reduced."
+- **C** is a "Plausible Misreading" that attributes a "distrust" of Maggot that the text doesn't support.
+- **D** is an "Over-Interpretation" that suggests the "shadow" is a well-known public fact.
+- **E** is a "Half-Truth"; while he is a fugitive, his primary reaction here is to the farmer's "shrewd guesses."
 
 ---
 
@@ -138,10 +162,13 @@ There is no evidence Maggot is being manipulative; in fact, he is offering help 
 **Correct Answer: B. Create an atmosphere of literal and metaphorical uncertainty as the hobbits approach a major threshold.**
 
 **Why this is correct:**
-The mist "looming up" and "creeping over the fields" makes the environment "thick" and "disorienting." Narratively, it mirrors the hobbits' own lack of clarity and their heightened anxiety. As they approach the "border" of the Shire (the River), the mist heightens the sense of mystery and potential danger, leading to the "dreaded" sound of hoofs.
+The mist "crawling over the fields" makes the environment "thick" and "disorienting." Narratively, it mirrors the hobbits' own lack of clarity and their heightened anxiety. As they approach the "border" of the Shire (the River), the mist heightens the sense of mystery and potential danger.
 
-**Why A is incorrect** `[SL]`:
-While Maggot hopes it will hide them, the narrative effect is the opposite—it makes the sound of the approaching hoofs "loud in the still, foggy air," increasing the tension and the fear of the unknown rider.
+**Analysis of Distractors:**
+- **A** is a "Half-Truth"; while it hides them, its primary *narrative* function is to increase the tension of the sound of hoofs.
+- **C** is a "Lore-Trap" that brings in the Old Forest's influence prematurely.
+- **D** is an "Over-Interpretation" that grants the Ring physical power over the weather.
+- **E** is a "Surface-Level Literalism" that focuses on the author's "focus" rather than the narrative effect.
 
 ---
 
@@ -149,22 +176,13 @@ While Maggot hopes it will hide them, the narrative effect is the opposite—it 
 
 **At the end of the chapter, Frodo’s laughter at the "scent of mushrooms" in the basket primarily signifies:**
 
-**Correct Answer: B. A moment of emotional release where the simple, homely comfort of mushrooms triumphs over the terror of the Black Riders.**
+**Correct Answer: B. A moment of emotional release where the sensory comfort of the familiar triumphs over the abstraction of terror.**
 
 **Why this is correct:**
-After a day of mortal fear, "shrewd guesses," and "long-drawn wails," the sudden presence of a basket of mushrooms—the very thing he once feared Maggot for—is a profound irony. His laughter represents the endurance of the Shire's small, domestic joys even in the face of epic shadow. It is a healing, humanizing moment that closes the chapter on a note of warmth.
+The mushrooms are the ultimate symbol of the Shire's small, domestic joys. After a day of mortal fear, the presence of the mushrooms—the very thing he once feared Maggot for—is a profound irony. His laughter represents the endurance of the hobbit spirit even under the shadow.
 
-**Why D is incorrect** `[PT]`:
-While it is ironic, the primary *emotional* function of the laugh is the "release" from the intense fear of the Rider who turned out to be Merry. The mushrooms are the ultimate symbol of that safety returning.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 7 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 7 |
-| Pragmatic Implicature & Subtext (PIS) | 4 |
-| Situational & Contextual Awareness (SCA) | 3 |
-| Authorial Craft & Narrative Strategy (ACN) | 2 |
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that interprets the laugh as "outwitting" the farmer.
+- **C** is a "Moralistic Misreading" that frames the laugh as "cynical."
+- **D** is a "Plausible Misreading" about "poetic justice" that misses the emotional "release" of the moment.
+- **E** is a "Surface-Level Literalism" that treats the mushrooms as a "magical gift."

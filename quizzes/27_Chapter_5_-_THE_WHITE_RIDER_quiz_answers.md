@@ -21,150 +21,168 @@
 
 ### Question 1 `[CIM/SCA]` `[Advanced]`
 
-**Aragorn’s deduction that the horses did not sound like they were in "terror" but rather "wild with some sudden gladness" primarily indicates:**
+**Aragorn’s deduction that the horses were "wild with some sudden gladness" primarily indicates:**
 
-**Correct Answer: B. His developing intuition that the "old man" seen in the night may not have been the malevolent force they initially feared, but rather a restorative presence recognized by the natural world.**
+**Correct Answer: B. A shift in his intuitive perception, where he begins to recognize that the "unseen presence" in the night is a restorative force aligned with nature rather than a malevolent one.**
 
 **Why this is correct:**
-Legolas notes the horses spoke as if they "meet a friend that they have long missed." Aragorn agrees, although he "cannot read the riddle." This observation challenges their initial assumption that the "old man" was Saruman. It shows the characters (and the reader) that nature and animals have a more direct perception of the returning Gandalf’s true nature, even when the "Three Hunters" are blinded by their own fear.
+Aragorn and Legolas agree the horses spoke as if meeting "a friend that they have long missed." This observation directly contradicts their earlier fear that the "old man" was Saruman. It shows that nature (represented by the horses) has a more immediate and un-warped perception of the returned Gandalf’s true nature than the humans do.
 
-**Why E is incorrect** `[OI]`:
-Shadowfax is the "chief of the Mearas" and is described as "run[ning] as smoothly as a swift stream." The horses' departure was an act of loyalty and recognition of their leader, not an escape from duty.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" about "tactical oversight" and "joy-spells."
+- **C** is a "Moralistic Misreading" that suspects "desertion" and "untrustworthiness."
+- **D** is an "Over-Interpretation" that grants Galadriel powers not evidenced in this scene.
+- **E** is a "Surface-Level Literalism" about "dazzling light."
 
 ---
 
 ### Question 2 `[ACN/ANT]` `[Advanced]`
 
-**The "riddle" of the hobbits' escape, as analyzed by Aragorn from the Golden leaf and the orc-knife, serves to characterize the hobbits as:**
+**The "riddle" of the hobbits' escape serves to characterize the hobbits as:**
 
-**Correct Answer: B. Possessing a unique blend of physical smallness, unexpected resilience, and a grounded, domestic spirit that allows them to prioritize survival and nourishment even in the heart of a nightmare.**
+**Correct Answer: B. Possessors of a unique "homely resilience," where the ability to maintain domestic habits (eating and resting) acts as a psychological armor against the dehumanizing effects of war.**
 
 **Why this is correct:**
-Aragorn notes that the hobbit "rested and ate a little before he crept away" and that having "lembas in his pocket... is like a hobbit." This highlights the core "hobbitness" that Gandalf values: their ability to maintain their basic identity and needs (food and rest) even in extreme peril. This resilience is what allowed them to escape the Orcs and survive the crossing of Rohan.
+Aragorn notes that having "lembas in his pocket... is like a hobbit." This highlights the core "hobbitness" Gandalf values: their ability to maintain their basic identity and needs (food/rest) even in extreme peril. This resilience is what allowed them to maintain the wits necessary to escape.
 
-**Why D is incorrect** `[SL]`:
-Gimli jokingly asks about "sorcery," but Aragorn provides a purely practical and character-based explanation: use of the elven-cloak for concealment and the orc-knife for the bonds.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that labels domestic needs as "foolish overconfidence."
+- **C** is a "Lore-Trap" about "unconscious agents of the Ring."
+- **D** is a "Plausible Misreading" about "tactical baiting."
+- **E** is an "Academic Over-Interpretation" using the term "primitive branch."
 
 ---
 
 ### Question 3 `[CIM/ANT]` `[Advanced]`
 
-**Legolas’s observation that Fangorn is "old, very old" and that it makes him "feel young again" reveals:**
+**Legolas’s observation that Fangorn makes him "feel young again" reveals:**
 
-**Correct Answer: B. The profound Elven connection to deep time and the natural world, where the antiquity of the forest provides a comforting and familiar scale of existence that transcends the "tenseness" of the current war.**
+**Correct Answer: B. The profound Elven alignment with "Deep Time," where the forest's antiquity provides a spiritual homecoming that relieves the immediate, "temporal" stress of the current war.**
 
 **Why this is correct:**
-Legolas is an immortal Elf, yet even he finds Fangorn "old." The fact that it makes him feel "young" illustrates the difference between Elven time and human/dwarf time. To an Elf, a forest that remembers the "Elder Days" is a connection to their own origins, providing a spiritual "home" that contrasts with the "musty and shabby" perception of the shorter-lived Gimli.
+To an immortal Elf, a forest that remembers the "Elder Days" is a connection to their own mythic origins. It provides a scale of existence that makes the current war feel small or "temporary," allowing Legolas to feel "young" (close to his roots) despite the "evil days."
 
-**Why A is incorrect** `[AM]`:
-While he calls his companions "children," the tone is one of wonder and comfort in the forest’s age, rather than an attempt to demean his friends. He is expressing his own aesthetic and spiritual experience.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that suspects "arrogance" and "belittling" of friends.
+- **C** is an "Academic Over-Interpretation" about "sensory overload."
+- **D** is a "Lore-Trap" about "remnants of the Blessed Realm."
+- **E** is an "Over-Interpretation" about "Elves becoming transparent."
 
 ---
 
 ### Question 4 `[PIS/SCA]` `[Advanced]`
 
-**Aragorn’s refusal to "shoot an old man so, at unawares and unchallenged" despite Gimli’s panic illustrates his:**
+**Aragorn’s refusal to "shoot an old man" illustrates his:**
 
-**Correct Answer: B. Adherence to a high moral and chivalric code that refuses to commit an act of "evil" (murdering an unidentified elder) even under the threat of sorcery, prioritizing character over immediate security.**
+**Correct Answer: B. Adherence to a high chivalric and moral code that defines his kingship, prioritizing the sanctity of life and "fair play" over immediate, preemptive security.**
 
 **Why this is correct:**
-Gimli is terrified and wants to "shoot first." Aragorn, as the leader and the heir of Elendil, insists on moral law: "We may not shoot an old man so." This defines his kingship; he will not use the Enemy's methods (preemptive, unprovoked killing) even when his own life seems at risk. It proves his worthiness to be the "One" who resists the "Nine."
+Aragorn insists on moral law: "We may not shoot an old man so." This defines his kingship; he will not use the Enemy's methods (unprovoked killing) even when his own life seems at risk. It proves his moral fitness to lead the resistance.
 
-**Why C is incorrect** `[OI]`:
-Aragorn explicitly admits to "fear or doubt" and calls the situation a "peril." He doesn't think the man is "harmless"; he simply believes that his own moral integrity is more important than his safety.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "tactical paralysis."
+- **C** is a "Plausible Misreading" about "news of his coronation."
+- **D** is a "Lore-Trap" about "wizards' shadows."
+- **E** is an "Over-Interpretation" about losing "Ranger-instinct."
 
 ---
 
 ### Question 5 `[CIM/ANT]` `[Advanced]`
 
-**The description of the old man’s laugh—like the "sudden bite of a keen air, or the slap of a cold rain"—primarily conveys:**
+**The description of the old man’s laugh primarily conveys:**
 
-**Correct Answer: B. A bracing, restorative, and bracingly honest power that shocks the system into a higher state of awareness, signaling a presence that is "wild" and powerful but fundamentally aligned with the truth.**
+**Correct Answer: B. A bracing, restorative power that "wakes" the protagonists from their psychological lethargy, signaling a presence that is "terrible" only in its absolute clarity and truth.**
 
 **Why this is correct:**
-The simile of "keen air" and "cold rain" suggests something that "wakes an uneasy sleeper." This laugh is not cruel (like the Orcs') but "astounding" and "piercing." It represents the "White Rider's" new, celestial authority—a power that is beautiful but also "terrible" and "dangerous" because it is absolutely aligned with the primordial light of the world.
+The simile of "keen air" and "cold rain" suggests something that "wakes an uneasy sleeper." This laugh is not cruel but "piercing." It represents Gandalf’s new authority—a power that is aligned with the primordial light, and thus "astounding" to those still under the Shadow.
 
-**Why A is incorrect** `[AM]`:
-Aragorn explicitly feels "shudder" but "not fear or terror." The laugh is bracing and startling, but it does not carry the "hideous" or "foul" quality associated with the Enemy.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that suspects "cruel mockery."
+- **C** is a "Lore-Trap" about "ghostly voices."
+- **D** is a "Surface-Level Literalism" about the forest "freezing" the Company.
+- **E** is an "Academic Over-Interpretation" about "rejection of non-Gondorian joy."
 
 ---
 
 ### Question 6 `[CIM/ANT]` `[Advanced]`
 
-**Gandalf’s comment that he is "Saruman as he should have been" suggests that his transformation into "The White" represents:**
+**Gandalf’s comment that he is "Saruman as he should have been" suggests:**
 
-**Correct Answer: B. The reclamation and perfection of the office of "The White" (wisdom, leadership, and resistance) which Saruman vacated through treachery, now fully embodied by a resurrected and more powerful Gandalf.**
+**Correct Answer: B. The perfection and reclamation of the spiritual "office" of leadership and wisdom which Saruman vacated, now embodied by a resurrected and "unshadowed" Gandalf.**
 
 **Why this is correct:**
-Gandalf has been "sent back" to finish his task. By calling himself "white now" and "Saruman as he should have been," he signifies that he has inherited the authority and responsibility that Saruman betrayed. He is no longer just "the Grey" (the pilgrim); he is now the official leader of the resistance, possessing the clarity and power that the White Council's head was intended to have.
+By calling himself "white now" and "Saruman as he should have been," Gandalf signifies that he has inherited the authority Saruman betrayed. He is no longer just "the Grey"; he is now the official leader of the resistance, possessing the clarity the office was intended to have.
 
-**Why D is incorrect** `[AM]`:
-Gandalf’s new power is described as "wise and kindly" even though it is "perilous." He acknowledges his own potential for danger ("And so am I, very dangerous"), showing a self-awareness that is the opposite of Saruman's arrogant "shutters."
+**Analysis of Distractors:**
+- **A** is a "Half-Truth" about "tactical disguises."
+- **C** is a "Lore-Trap" about "accepting power-logic."
+- **D** is an "Academic Over-Interpretation" about "collective consciousness."
+- **E** is a "Surface-Level Literalism" about "rebuilding Orthanc."
 
 ---
 
 ### Question 7 `[PIS/SCA]` `[Advanced]`
 
-**Gandalf’s analysis of the Enemy’s "wisdom"—supposing the Company was going to Minas Tirith to use the Ring—highlights:**
+**Gandalf’s analysis of the Enemy’s "wisdom" highlights:**
 
-**Correct Answer: B. The fundamental "blind spot" of evil, which is unable to comprehend selfless sacrifice or the voluntary destruction of power, allowing the "weak" to move unnoticed through his own lack of imagination.**
+**Correct Answer: B. The fundamental "imagination-gap" of evil, which is ontologically incapable of conceiving of voluntary self-sacrifice or the rejection of absolute power.**
 
 **Why this is correct:**
-Gandalf calls Sauron a "wise fool." Sauron’s "wisdom" is entirely based on the pursuit of power. Because he would never destroy the Ring, he cannot imagine that his enemies would. This psychological limitation is the Fellowship's only " surety of victory." It reinforces the theme that the "weak" (the hobbits) are the most effective against the "Great" because they operate outside the "Great's" moral logic.
+Gandalf calls Sauron a "wise fool." Sauron’s "wisdom" is based entirely on power. Because he would never destroy the Ring, he cannot imagine his enemies would. This psychological limitation is the Fellowship's primary advantage.
 
-**Why A is incorrect** `[PT]`:
-While Sauron is "very wise" in the sense of power-calculation, Gandalf is pointing out his *failure* to perceive the true plan, making him a "fool" in the cosmic sense.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that accepts Sauron’s intelligence as "unbeatable."
+- **C** is a "Plausible Misreading" about "luring into security."
+- **D** is an "Academic Over-Interpretation" about "the Wise being as foolish."
+- **E** is an "Over-Interpretation" about the "Ring lying to its Master."
 
 ---
 
 ### Question 8 `[CIM/SCA]` `[Advanced]`
 
-**Gandalf’s refusal to find the hobbits himself, telling Aragorn "the quest of your companions is over... You must go to Edoras," indicates a shift in focus from:**
+**Gandalf’s directive to go to Edoras indicates a narrative shift from:**
 
-**Correct Answer: A. A personal rescue mission to a larger, geopolitical responsibility where the "Three Hunters" must now act as the primary instruments of Gondor and Rohan’s defense.**
+**Correct Answer: A. A private, emotional mission of friendship to a public, geopolitical responsibility where the "Three Hunters" must act as the primary agents of world-defense.**
 
 **Why this is correct:**
-Gandalf knows where the hobbits are (with Treebeard) and that they are safe. He now directs the "Three Hunters" toward their next duty: the "battle for which [Andúril] has so long waited." This marks the expansion of the story's scope. The "private" rescue of friends is superseded by the "public" defense of the West, beginning with the unmasking of the evil in Edoras.
+Gandalf redirects the "Three Hunters" toward their next duty: the defense of Rohan. This marks the expansion of the story's scope. The "private" rescue of friends is superseded by the "public" defense of the West.
 
-**Why E is incorrect** `[OI]`:
-Gandalf has a very clear understanding of the situation. He knows the hobbits have "their own part to play" and that Aragorn's presence is required elsewhere to turn the tide of the larger war.
+**Analysis of Distractors:**
+- **B** is a "Moralistic Misreading" about "disposable luggage."
+- **C** is a "Lore-Trap" about the hobbits "blending into the forest."
+- **D** is an "Academic Over-Interpretation" about "consolidating characters."
+- **E** is a "Plausible Misreading" about "memory loss."
 
 ---
 
 ### Question 9 `[ACN/ANT]` `[Advanced]`
 
-**Gandalf’s account of his battle with the Balrog, specifically the "nameless things" that gnaw the world "far below the deepest delvings," serves to:**
+**Gandalf’s account of the "nameless things" serves to:**
 
-**Correct Answer: B. Hint at a vast, primordial layer of horror and existence that predates even the current struggle between good and evil, expanding the cosmic scale of the world and the magnitude of Gandalf’s "fall" and "return."**
+**Correct Answer: B. Expand the cosmic scope of the world, hinting at a primordial layer of existence that is indifferent to the current "petty" struggle between wizards and dark lords.**
 
 **Why this is correct:**
-The "nameless things" are "older than [Sauron]." This detail adds a layer of "ancient world" mystery to the narrative. It shows that Gandalf's journey took him to the very "foundations of stone," a place of absolute, existential isolation. This makes his resurrection more "miraculous" and emphasizes his new, "White" status as one who has seen the "uttermost" depths and survived.
+The "nameless things" are "older than [Sauron]." This adds a layer of ancient mystery. It shows Gandalf's journey took him to the very "foundations of stone," making his resurrection more "miraculous."
 
-**Why D is incorrect** `[OI]`:
-Sauron is still "mightier" than Gandalf the White in raw power. The "nameless things" are an *additional* layer of world-building, not a direct critique of Sauron's own relative power in the current age.
+**Analysis of Distractors:**
+- **A** is a "Comedy" distractor about "geological instability."
+- **C** is a "Lore-Trap" calling the Balrog a "protector."
+- **D** is an "Academic Over-Interpretation" about Gandalf becoming "darker."
+- **E** is a "Half-Truth" about "Sauron being shallow" that misses the *cosmic* weight.
 
 ---
 
 ### Question 10 `[CIM/SCA]` `[Advanced]`
 
-**The message Galadriel sends to Aragorn ("Near is the hour when the Lost should come forth... The Dead watch the road that leads to the Sea") functions as:**
+**The message Galadriel sends to Aragorn functions as:**
 
-**Correct Answer: B. A cryptic, prophetic directive that identifies Aragorn’s unique and "dark" path toward kingship, requiring him to confront the forgotten or "lost" elements of his own kingdom’s history to achieve victory.**
+**Correct Answer: B. A cryptic, prophetic roadmap that identifies the "Dark Path" (the Paths of the Dead) as the necessary and ordained route for Aragorn to claim his crown.**
 
 **Why this is correct:**
-Galadriel’s message points Aragorn toward the "Paths of the Dead" (which will be a major plot point later). It challenges him to seek out his "kinsfolk" and the "Grey Company." This reinforces his identity as the "Elessar" who must walk a "dark road" to find the "light" of his kingdom. It frames his future actions as a fulfillment of ancient, "foretold" necessity.
+Galadriel’s message points Aragorn toward the "Paths of the Dead." It challenges him to seek out his "kinsfolk." This reinforces his identity as the "Elessar" who must walk a "dark road" to reach his goal.
 
-**Why C is incorrect** `[SL]`:
-The message is about the *road* to the Sea, which is watched by the "Dead." It is a directive to *confront* this path, not to avoid it.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 7 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 5 |
-| Pragmatic Implicature & Subtext (PIS) | 3 |
-| Situational & Contextual Awareness (SCA) | 5 |
-| Authorial Craft & Narrative Strategy (ACN) | 2 |
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "nostalgic greetings."
+- **C** is a "Plausible Misreading" that interprets the "watch" as a "warning to avoid."
+- **D** is an "Academic Over-Interpretation" about "losing prophetic clarity."
+- **E** is an "Over-Interpretation" about "using necromancy at Edoras."

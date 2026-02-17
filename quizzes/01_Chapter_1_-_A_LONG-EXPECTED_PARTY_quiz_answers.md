@@ -26,13 +26,12 @@
 **Correct Answer: B. The community values a predictable, natural order and views deviations from it with moral suspicion.**
 
 **Why this is correct:**
-The passage notes that hobbits felt Bilbo's youth was "too much of a good thing" and "unfair." The specific phrase "It isn't natural, and trouble will come of it" reveals a worldview where deviation from the biological norm is not just odd, but morally or cosmically dangerous. This reflects a conservative social fabric that prizes conformity and predictability.
+The passage explicitly links the "unnatural" aspect of Bilbo's youth to a moral judgment ("It isn't natural, and trouble will come of it"). In the Shire, conformity to the biological and social norm is the highest virtue; any outlier is treated not just as odd, but as a potential source of "trouble."
 
-**Why A is incorrect** `[OI]`:
-While the hobbits are suspicious and somewhat resentful, the text suggests their reaction is based on a sense of "fairness" and "nature" rather than pure, unadulterated malice or a specific desire for his death.
-
-**Why C is incorrect** `[PT]`:
-Wealth is certainly a factor ("inexhaustible wealth"), but the question asks about the "prolonged vigour" specifically. The "unnatural" aspect of his youth is what triggers the moral judgment ("trouble will come of it").
+**Analysis of Distractors:**
+- **A** is incorrect because the hobbits view his longevity as "unfair" rather than a "moral reward."
+- **C** is a plausible "economic" misreading, but the text focuses on the *nature* of the life, not the *value* of the wealth.
+- **D** is a sophisticated psychological reading, but "envy" is overshadowed in the text by a sense of "propriety" and "natural law."
 
 ---
 
@@ -43,10 +42,12 @@ Wealth is certainly a factor ("inexhaustible wealth"), but the question asks abo
 **Correct Answer: B. The Gaffer values professional recognition and the maintenance of traditional class respect.**
 
 **Why this is correct:**
-The text explains that Bilbo is "polite to him, calling him 'Master Hamfast', and consulting him constantly." The Gaffer's loyalty is tied to Bilbo's acknowledgment of the Gaffer's expertise ("recognized as the leading authority"). This implies the Gaffer respects a social order where the "gentlehobbit" treats the working hobbit with a specific kind of formal, professional respect.
+The Gaffer's loyalty stems from Bilbo acknowledging his professional expertise ("consulting him constantly") and using proper formal titles ("Master Hamfast"). This reflects a worldview where social harmony is maintained through mutual respect within a fixed class hierarchy.
 
-**Why A is incorrect** `[SL]`:
-Calling it "surface-level flattery" misses the point that the Gaffer is an expert in his field and values the *recognition* of that expertise by a social superior. It's about professional pride, not just being "nice."
+**Analysis of Distractors:**
+- **A** is incorrect as it implies a cynical "performance" for employment, whereas the narrator states the Gaffer speaks with "perfect truth."
+- **C** is a "sentimental" misreading; the Gaffer knows exactly where he stands (Master vs. Gentlehobbit), and it is the *preservation* of this distance through politeness that he values.
+- **D** is an aggressive misreading not supported by the Gaffer's generally jovial and defensive tone.
 
 ---
 
@@ -57,10 +58,12 @@ Calling it "surface-level flattery" misses the point that the Gaffer is an exper
 **Correct Answer: B. A desire to suppress scandalous talk that might threaten the respectability of his employers.**
 
 **Why this is correct:**
-The Gaffer "did not much like the miller" and shuts down the darker rumors by saying "There isn't no call to go talking of pushing and pulling." By attributing the tragedy to the "tricky" nature of boats, he neutralizes a potentially scandalous story about Frodo's parents, thereby protecting the dignity of the Baggins/Brandybuck families he respects and serves.
+By reducing the tragedy to the "tricky" nature of boats, the Gaffer effectively shuts down a "dark" version of the story (murder or domestic strife). This protects the reputation of the Baggins/Brandybuck lineage, showing his deep-seated tribal loyalty.
 
-**Why D is incorrect** `[PT]`:
-While his dislike of Sandyman is mentioned, his primary goal in the dialogue is to provide a "proper" version of the family history that avoids "pushing and pulling," showing his loyalty to the Bagginses.
+**Analysis of Distractors:**
+- **A** is a "surface-level" misreading. While the Gaffer sounds practical, his *motivation* in this specific dialogue is to silence the Miller (Sandyman) and defend his betters.
+- **C** is a "lore-based" distractor; while the Gaffer does find Bucklanders "queer," his focus here is on the specific rumor of "pushing and pulling."
+- **E** misinterprets the Gaffer's dislike of Sandyman as the *cause* of the dismissal, rather than the *context* of the defense.
 
 ---
 
@@ -71,10 +74,12 @@ While his dislike of Sandyman is mentioned, his primary goal in the dialogue is 
 **Correct Answer: B. Gandalf anticipates that the consequences of the "joke" will be more somber than Bilbo intends.**
 
 **Why this is correct:**
-Gandalf "shakes his head" when he asks this. He knows the weight of the Ring and the gravity of Bilbo's departure. While Bilbo sees the disappearance as a lighthearted prank ("my little joke"), Gandalf perceives it as a significant and potentially dangerous turning point, suggesting that the "laughter" will be absent or hollow.
+Gandalf's "shaking his head" and his somber question provide a sharp contrast to Bilbo's levity. Gandalf understands the Ring's power and the gravity of a permanent departure, suggesting that the "joke" is actually a serious and potentially dangerous moment of transition.
 
-**Why C is incorrect** `[SL]`:
-This assumes the issue is the hobbits' intelligence, whereas the subtext is about the *nature* of the joke and its underlying seriousness (the Ring and Bilbo's "thinness").
+**Analysis of Distractors:**
+- **A** focuses on the hobbits' intelligence, which is a common theme but not the *subtext* of Gandalf’s specific warning here.
+- **C** is a "character-type" distractor; while Gandalf can be stern about magic, his concern here is specifically about the "laughter" (or lack thereof) resulting from this specific act.
+- **E** is a "plot-prediction" distractor that misses the immediate thematic weight of Gandalf's foreboding tone.
 
 ---
 
@@ -85,10 +90,12 @@ This assumes the issue is the hobbits' intelligence, whereas the subtext is abou
 **Correct Answer: C. Foreshadow the intrusion of dangerous, epic-scale realities into the parochial world of the Shire.**
 
 **Why this is correct:**
-The imagery—"embattled army," "silver spears," and a "terribly life-like" dragon—contrasts sharply with the domestic, peaceful setting of a birthday party. These are symbols of war and ancient danger (alluding to *The Hobbit*), signaling that the wider, more perilous world is beginning to press in on the Shire's isolation.
+The imagery of "embattled armies" and a "terribly life-like" dragon brings the language of war and ancient myth into the cozy, domestic setting of a birthday party. It serves as a narrative bridge between the Shire's peace and the epic dangers to come.
 
-**Why B is incorrect** `[CC]`:
-The fireworks don't symbolize "industry" (which would be more associated with Saruman later); they represent "magic" and "myth," which are outside the Shire's normal experience.
+**Analysis of Distractors:**
+- **B** is an "economic" misreading that ignores the specific *martial* imagery used in the description.
+- **D** is a "plot-based" distractor that describes Gandalf’s reputation but fails to analyze the *symbolic* function of the specific firework designs.
+- **E** is a "moralistic" misreading; the scene is about the *spectacle* and its foreshadowing, not a test of the hobbits' courage.
 
 ---
 
@@ -99,10 +106,12 @@ The fireworks don't symbolize "industry" (which would be more associated with Sa
 **Correct Answer: B. A performative social ritual where the appearance of listening is more important than the content.**
 
 **Why this is correct:**
-The hobbits are described as "reluctant to follow their own advice" (to hear) and "prepared to listen to anything, and to cheer at every full stop" because they are in a "tolerant mood" due to the food and drink. This indicates that the speech is a formality; they aren't engaged with Bilbo's words, but with the *event* of the speech as a precursor to more drinking.
+The narrator notes that the hobbits are "reluctant to follow their own advice" (to hear) and are in a "tolerant mood" due to the food. Their cheering is a habitual social response to the *form* of a speech, rather than an engagement with its *content*.
 
-**Why A is incorrect** `[AM]`:
-The text explicitly states they are in a "tolerant mood" because of "filling up the corners," not because of a deep emotional connection to Bilbo's specific words.
+**Analysis of Distractors:**
+- **A** is a "sentimental" misreading; the text emphasizes that their "tolerance" is a product of "filling up the corners" (eating) rather than genuine communal pride.
+- **C** is an "over-calculated" reading; the hobbits aren't that organized—their reaction is more of a reflexive, pavlovian response to a party atmosphere.
+- **E** is a "class-struggle" distractor that misinterprets a general festive habit as a specific sign of class deference.
 
 ---
 
@@ -113,10 +122,12 @@ The text explicitly states they are in a "tolerant mood" because of "filling up 
 **Correct Answer: B. They view Bilbo's past adventures as tedious and irrelevant to the current festivities.**
 
 **Why this is correct:**
-The text explicitly states they "feared that a song or some poetry was now imminent; and they were getting bored." The hobbits' "obstinate silence" is a form of passive-aggressive social pressure to get Bilbo to stop talking about his "absurd adventures" and move on to the toast.
+The text explicitly states the hobbits "feared that a song or some poetry was now imminent; and they were getting bored." Their silence is a collective effort to steer the evening back to the "proper" business of eating and drinking.
 
-**Why C is incorrect** `[SL]`:
-While they might not understand foreign places, their primary reaction here is *boredom* and *dread* of a long recitation, rather than active offense or confusion.
+**Analysis of Distractors:**
+- **A** is a "moralistic" misreading; the hobbits aren't offended by his friends, they are simply *bored* by his stories.
+- **C** is a "comedy" distractor; while hobbits are provincial, their primary reaction here is social dread (of poetry) rather than intellectual offense.
+- **D** is an "existential" over-reading that attributes too much self-reflection to the party guests.
 
 ---
 
@@ -127,10 +138,12 @@ While they might not understand foreign places, their primary reaction here is *
 **Correct Answer: B. A spiritual or existential depletion caused by an unnaturally extended life.**
 
 **Why this is correct:**
-Bilbo explains that he is "beginning to feel it in [his] heart of hearts" and uses the "stretched" metaphor to describe the sensation of his spirit being spread too thin over too many years. This is the first clear indication that the Ring's preservation of his body is coming at a cost to his internal self.
+This is the chapter's most famous metaphor. Bilbo distinguishes this feeling from mere physical tiredness, locating it in his "heart of hearts." It perfectly captures the "stretching" effect of the Ring—preserving the form of life while exhausting its essence.
 
-**Why A is incorrect** `[SL]`:
-Bilbo says "I don't look it, but I am beginning to feel it in my heart of hearts," distinguishing this feeling from mere physical tiredness from the party.
+**Analysis of Distractors:**
+- **A** is a "literalist" misreading; Bilbo isn't talking about his workload, but his very state of being.
+- **C** is a "physicalist" misreading; the "thinness" is a spiritual/internal sensation ("stretched"), not a literal change in his appearance (yet).
+- **D** is a "resentful" misreading that is not supported by Bilbo's generally affectionate, if weary, tone toward the Shire.
 
 ---
 
@@ -141,10 +154,12 @@ Bilbo says "I don't look it, but I am beginning to feel it in my heart of hearts
 **Correct Answer: B. The beginning of the ring's corrosive influence on Bilbo's character and trust.**
 
 **Why this is correct:**
-Bilbo's sudden "suspicion" of his long-time friend Gandalf is uncharacteristic and reveals how the Ring is exerting a defensive, possessive hold on him. The "hard" face and "angry light" are external symptoms of the Ring's power to isolate and corrupt the owner's perspective.
+The sudden shift from friendly banter to "suspicion" of his oldest friend is the "red flag" of the Ring's power. It shows the Ring's ability to create paranoia and prioritize its own "safety" over the owner's established relationships.
 
-**Why E is incorrect** `[PT]`:
-While Bilbo does mention that Gandalf hasn't bothered him about other things, the *cause* of the "suspicion and annoyance" is specifically the suggestion that he part with the Ring, which he now calls "My Precious."
+**Analysis of Distractors:**
+- **A** is a "conspiracy" misreading; while Gandalf *is* guiding events, Bilbo's reaction is an irrational, possessive impulse, not a logical realization.
+- **C** is a "social-norms" misreading; in a normal context, asking about a personal item might be overstepping, but the "curious change" in voice indicates something far more sinister and unnatural.
+- **D** connects back to the "thinness" correctly, but B is the *more specific* and primary cause of this particular emotional spike.
 
 ---
 
@@ -155,10 +170,12 @@ While Bilbo does mention that Gandalf hasn't bothered him about other things, th
 **Correct Answer: B. A bitter attempt to invalidate Frodo's claim to Bag End and make him feel like an outsider.**
 
 **Why this is correct:**
-Lobelia follows this by saying "You don't belong here; you're no Baggins—you—you're a Brandybuck!" Her remark is a final lash of resentment after being "foiled" in her 60-year quest to inherit Bag End. By suggesting Frodo should have left, she is expressing her desire for him to be gone so she could finally have the home she feels entitled to.
+Lobelia immediately follows her question by attacking Frodo's lineage ("you're no Baggins... you're a Brandybuck!"). Her goal is to strip Frodo of his sense of belonging and legitimacy, fueled by her own thwarted desire to own Bag End.
 
-**Why A is incorrect** `[AM]`:
-Lobelia's "face that would have curdled new milk" and her "wrath" make it clear that she has no genuine concern for Frodo; her words are purely malicious.
+**Analysis of Distractors:**
+- **A** is a "positive-intent" misreading; Lobelia’s "face that would have curdled new milk" makes it clear her words are purely malicious.
+- **C** is a "legalistic" distractor; while the property dispute is legal, her *words* here are a personal, emotional attack on Frodo’s identity.
+- **D** is a "superstitious" misreading that ignores the very concrete, material motive (the house) behind her anger.
 
 ---
 

@@ -8,121 +8,112 @@
 
 ### Question 1 `[CIM/ANT]` `[Advanced]`
 
-Merry’s feeling of being "borne down by the insupportable weight of Middle-earth" while looking at the mountains of Harrowdale reveals:
+Merry’s feeling of being "borne down by the insupportable weight of Middle-earth" reveals:
 
 > **Relevant Passage:**
 > "He loved mountains... but now he was borne down by the insupportable weight of Middle-earth. He longed to shut out the immensity in a quiet room by a fire."
 
-- **A.** His literal fear of being crushed by a rockfall.
-- **B.** A profound psychological "agoraphobia" of the spirit, where the vast, ancient, and indifferent scale of the mythic world becomes a source of existential exhaustion for a "small" creature accustomed to domestic proportions.
-- **C.** Evidence that Merry is suffering from physical altitude sickness.
-- **D.** His desire to find a better brand of ale in the mountains.
-- **E.** A sign that Merry is becoming as "lithic" as a Dwarf.
+- **A.** His literal fear that the tectonic plates of Rohan are about to shift.
+- **B.** A profound psychological agoraphobia, where the indifferent, mythic scale of the world becomes a source of existential exhaustion for a creature of domestic proportions.
+- **C.** Evidence that the "ent-draught" has made him too heavy for his own legs to support.
+- **D.** A sign that he is becoming "lithic" and is losing his biological hobbit-identity.
+- **E.** His desire to find a better brand of wine to help him cope with the altitude.
 
 ---
 
 ### Question 2 `[PIS/SCA]` `[Advanced]`
 
-Théoden’s rebuke to Éomer ("speak not the soft words of Wormtongue in my old ears!") when Éomer suggests he stay behind indicates that:
+Théoden’s rebuke to Éomer ("speak not the soft words of Wormtongue in my old ears!") indicates that:
 
 > **Relevant Passage:**
 > "'...Nay, my son, for so I will call you, speak not the soft words of Wormtongue in my old ears!' He drew himself up... 'never will I lean on a staff again.'"
 
-- **A.** Théoden still suspects Éomer of working for Saruman.
-- **B.** Théoden has developed an acute, defensive sensitivity to any counsel that resembles "prudence" or "safety," viewing it now as a spiritual pollutant that threatens his hard-won reclamation of heroic agency.
-- **C.** Evidence that Théoden is becoming senile and paranoid.
-- **D.** His belief that Éomer is actually more wise than Wormtongue was.
-- **E.** A sign that Théoden is planning to execute Éomer.
+- **A.** Théoden possesses a lingering, irrational suspicion that his own kin are secret spies.
+- **B.** He has developed a defensive sensitivity to any counsel of "prudence," viewing it as a spiritual pollutant that threatens his hard-won heroic agency.
+- **C.** Evidence that Théoden is regressing into a state of "dotage" where he can no longer distinguish between friends and enemies.
+- **D.** A plan to execute any commander who suggests a tactical retreat.
+- **E.** His belief that "Wormtongue" is actually a title of respect that he is no longer worthy of.
 
 ---
 
 ### Question 3 `[ACN/SCA]` `[Advanced]`
 
-The description of the "Pukel-men" at Dunharrow—"staring sadly at the passers-by" with "no power or terror... left in them"—serves to:
+The description of the "Pukel-men" at Dunharrow—"no power or terror was left in them"—serves to:
 
 > **Relevant Passage:**
 > "Some in the wearing of the years had lost all features save the dark holes of their eyes... The Pukel-men they called them, and heeded them little: no power or terror was left in them; but Merry gazed at them with wonder and a feeling almost of pity..."
 
-- **A.** Provide a detailed archaeological survey of the area.
-- **B.** Contrast the Rohirrim’s familiar, military focus with the "un-remembered" and mournful history of the land, using Merry’s "un-High" empathy to highlight the tragic transience of all human works.
-- **C.** Suggest that the statues are actually alive and waiting to attack.
-- **D.** Show that the ancient people were very poor at making durable art.
-- **E.** A humorous comparison to the garden gnomes of the Shire.
+- **A.** Portray the ancient history of Middle-earth as a series of failed artistic movements.
+- **B.** Contrast the Rohirrim’s narrow military focus with the "un-remembered" and mournful history of the land, using Merry’s empathy to highlight the tragedy of transience.
+- **C.** Hint that the statues are actually "batteries" of dark magic that have been drained by the White Rider.
+- **D.** Suggest that the "Men of the West" should have spent more time maintaining their public monuments.
+- **E.** A humorous comparison to the "statue-games" played by children in the Shire.
 
 ---
 
 ### Question 4 `[CIM/ANT]` `[Advanced]`
 
-Éowyn’s reaction to the news of Aragorn’s departure ("he has passed into the shadow from which none have returned") reveals:
+Éowyn’s reaction to Aragorn’s departure ("he has passed into the shadow") reveals:
 
 > **Relevant Passage:**
 > "'...No, he is gone,' said Eowyn turning away and looking at the mountains... 'And he has passed into the shadow... I could not dissuade him. He is gone.'"
 
-- **A.** Her joy that Aragorn is finally fulfilling his destiny.
-- **B.** A state of profound, internal "eclipse," where the loss of the "High" figure who represented her only hope for a wider, more heroic life has left her in a state of terminal, despairing resignation.
-- **C.** Evidence that she is angry at Aragorn for not taking her with him.
-- **D.** A sign that she is becoming a queen herself.
-- **E.** Her belief that the Dead are actually her friends.
+- **A.** A state of "terminal resignation," where the loss of the figure representing her hope for a mythic life has left her in a spiritual eclipse.
+- **B.** Her joy that she no longer has to pretend to be a "shieldmaiden" in his presence.
+- **C.** Evidence that she is already planning to lead a rebellion against Théoden in Aragorn’s name.
+- **D.** A sign that she is becoming a "Wraith" herself due to her grief.
+- **E.** Her belief that the "shadow" is actually a metaphor for Aragorn’s secret desire for Gondor.
 
 ---
 
 ### Question 5 `[PIS/SCA]` `[Advanced]`
 
-Théoden’s account of the "old man" at the Door of the Dead who says "The way is shut" until "the time comes" highlights the theme of:
+Théoden’s account of the "old man" at the Door of the Dead who says "The way is shut" highlights:
 
-> **Relevant Passage:**
-> "'...The way is shut. It was made by those who are Dead, and the Dead keep it, until the time comes. The way is shut.' ... 'Yet maybe at last the time foretold has come...'"
-
-- **A.** The high level of security at the entrance to the mountain.
-- **B.** The "apocalyptic" nature of the current hour, where the ancient, frozen locks of history are being unsealed by the absolute necessity of the War of the Ring.
-- **C.** That the old man was actually a very rude doorman.
-- **D.** Evidence that the Rohirrim are afraid of old people.
-- **E.** A sign that the Dead are planning to open a new road.
+- **A.** The high level of security and bureaucratic regulation at ancient Gondorian gateways.
+- **B.** The apocalyptic nature of the current hour, where the "frozen" locks of history are being unsealed by absolute necessity.
+- **C.** Evidence that the "Dead" are actually very rude hosts to the living.
+- **D.** A sign that the Rohirrim have forgotten the "Common Tongue" used by the mountain-men.
+- **E.** Portrayal of the "Paths of the Dead" as a public utility that has been poorly managed.
 
 ---
 
 ### Question 6 `[CIM/PIS]` `[Advanced]`
 
-The arrival of Hirgon with the "Red Arrow" and Théoden’s trembling hand signify:
+The arrival of the "Red Arrow" and Théoden’s trembling hand signify:
 
 > **Relevant Passage:**
 > "'The Red Arrow!' said Theoden, holding it, as one who receives a summons long expected and yet dreadful when it comes. His hand trembled."
 
-- **A.** Théoden’s fear of physical pain from the arrow.
-- **B.** The visceral, heavy weight of an ancient and absolute "blood-oath" being called in, marking the moment where national survival and personal destiny become one and the same.
-- **C.** A sign that the King is suffering from a return of his "dotage."
-- **D.** Evidence that the Men of Gondor are very good at archery.
-- **E.** His desire to find a better messenger than Hirgon.
+- **A.** His physical weakness and his inability to hold a heavy wooden missile.
+- **B.** The visceral weight of an ancient "blood-oath" being called in, marking the moment where personal destiny and national survival merge.
+- **C.** Evidence that the "Men of the South" are using biological weapons tipped with "red" poison.
+- **D.** A sign that the King is attempting to hide his "fear of arrows" from the messenger.
+- **E.** His realization that he has forgotten to send his own "Green Arrow" to Minas Tirith.
 
 ---
 
 ### Question 7 `[CIM/ANT]` `[Advanced]`
 
-The "dull" and "harsh" voices of the trumpets under the "Dawnless Day" cloud indicate:
+The "dull" and "harsh" voices of the trumpets under the cloud indicate:
 
-> **Relevant Passage:**
-> "Eomer went out, and presently the trumpets rang... but their voices no longer sounded clear and brave... Dull they seemed and harsh in the heavy air, braying ominously."
-
-- **A.** That the trumpeters are tired from the long night.
-- **B.** The atmospheric and spiritual "damping" of heroic hope by the Shadow, where the traditional symbols of martial courage are physically stifled by the encroaching "un-light" of the Enemy.
-- **C.** A sign that the trumpets are actually broken.
-- **D.** Evidence that the Rohirrim are losing their musical ability.
-- **E.** A humorous commentary on the quality of Rohirric instruments.
+- **A.** A lack of professional musical training among the recent draftees of the muster.
+- **B.** The atmospheric and spiritual "damping" of hope by the Shadow, where martial symbols are physically stifled by the "un-light" of the Enemy.
+- **C.** A sign that the trumpets are actually "melting" due to the heat of the approaching storm.
+- **D.** Evidence that the "Dawnless Day" is a literal vacuum that prevents sound waves from traveling.
+- **E.** A humorous commentary on the "unrefined" nature of Northern brass instruments.
 
 ---
 
 ### Question 8 `[CIM/PIS]` `[Advanced]`
 
-Merry’s "startling" observation of the young Rider (Dernhelm) as having "the face of one without hope who goes in search of death" suggests:
+Merry’s observation of the Rider (Dernhelm) as having "the face of one without hope who goes in search of death" suggests:
 
-> **Relevant Passage:**
-> "He caught the glint of clear grey eyes; and then he shivered, for it came suddenly to him that it was the face of one without hope who goes in search of death."
-
-- **A.** Merry’s lack of confidence in the Rider’s combat skills.
-- **B.** A profound, intuitive recognition of a kindred "Shadow" spirit, identifying the Rider as someone whose internal "cage" has forced them into a state of suicidal, heroic desperation.
-- **C.** That the Rider is actually a ghost from the Paths of the Dead.
-- **D.** Evidence that the Rider is suffering from a fever.
-- **E.** A sign that Merry is becoming as "fey" as Frodo.
+- **A.** His lack of confidence in the Rider’s ability to survive a direct charge.
+- **B.** An intuitive recognition of a kindred "Shadow" spirit, identifying the Rider as someone whose internal "cage" has forced them into suicidal desperation.
+- **C.** Evidence that the "Rider" is actually a ghost from the Dimholt in a human disguise.
+- **D.** A sign that Merry is becoming "psychic" due to his proximity to the King.
+- **E.** His belief that the "Rider" is actually looking for a better brand of ale.
 
 ---
 
@@ -130,26 +121,20 @@ Merry’s "startling" observation of the young Rider (Dernhelm) as having "the f
 
 The inclusion of the poem "From dark Dunharrow in the dim morning" serves to:
 
-> **Relevant Passage:**
-> "_From dark Dunharrow in the dim morning / with thane and captain rode Thengel's son... / Doom drove them on. Darkness took them..._"
-
-- **A.** Provide a colorful diversion for the reader during a long march.
-- **B.** Transform the immediate, "gritty" military movement into a timeless, legendary event, contextualizing the King’s ride as a final, mythic fulfillment of fealty and fate.
-- **C.** Show that the Rohirrim are actually very bad at keeping secrets.
-- **D.** Predict that none of the Riders will ever return.
-- **E.** Prove that the "songs tell us" more than the historians do.
+- **A.** Provide a colorful diversion to break the "boredom" of the march.
+- **B.** Transform the immediate military movement into a timeless, mythic event, contextualizing the ride as a final fulfillment of fate.
+- **C.** Show that the Rohirrim are actually very poor at maintaining a "secret" muster.
+- **D.** Predict that the "Morning" will never return to Rohan.
+- **E.** Evidence that "Thengel’s son" was actually a very bad poet.
 
 ---
 
 ### Question 10 `[CIM/PIS]` `[Advanced]`
 
-Dernhelm’s offer to bear Merry "under my cloak" because "such good will should not be denied" marks a moment of:
+Dernhelm’s offer to bear Merry "under my cloak" marks a moment of:
 
-> **Relevant Passage:**
-> "'You wish to go whither the Lord of the Mark goes: I see it in your face.' ... 'Then you shall go with me. ... Such good will should not be denied. Say no more... but come!'"
-
-- **A.** A reckless disregard for the King’s orders.
-- **B.** A secretive, "subversive" alliance between two marginalized and "excluded" characters, who use their shared status as "unimportant" to bypass the rigid logic of the Great and join the battle.
-- **C.** Evidence that Dernhelm is actually more powerful than the King.
-- **D.** A plan to use Merry as a shield in battle.
-- **E.** A sign that Dernhelm is planning to desert the army.
+- **A.** A reckless disregard for military law that endangers the whole army.
+- **B.** A secretive, subversive alliance between marginalized characters who use their shared "unimportance" to bypass the logic of the Great.
+- **C.** A sign that Dernhelm is planning to use Merry as a "good luck charm."
+- **D.** Evidence that the "cloak" is actually a magical invisibility tool.
+- **E.** His belief that the King is too old to notice a missing hobbit.

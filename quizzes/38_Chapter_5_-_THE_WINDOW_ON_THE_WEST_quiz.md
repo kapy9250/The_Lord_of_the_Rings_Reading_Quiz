@@ -13,11 +13,11 @@ Faramir’s statement that he would not "snare even an orc with a falsehood" pri
 > **Relevant Passage:**
 > "'Dead?' he said. 'Do you mean that he is dead, and that you knew it? You have been trying to trap me in words...?' 'I would not snare even an orc with a falsehood,' said Faramir."
 
-- **A.** An impractical idealist who is unable to use deception in war.
-- **B.** A man of absolute, uncompromising integrity whose commitment to "truth-speaking" is an ontological state rather than a mere tactical choice, marking him as a high-noble contrast to the "crooked" Saruman.
-- **C.** Evidence that Faramir is too soft-hearted to be a Captain.
-- **D.** His belief that Orcs are actually very intelligent.
-- **E.** A sign that he is hiding his own lies behind a mask of virtue.
+- **A.** A dangerously idealistic leader who is unable to use effective deception in a time of war.
+- **B.** A man of absolute, ontological integrity, whose commitment to "Truth" is a rejection of the "crooked" and manipulative logic that defines the Enemy’s power.
+- **C.** Evidence that the House of Denethor has lost its "military edge" through too much study of ancient lore.
+- **D.** His belief that Orcs are actually more susceptible to the "truth" than they are to "lies."
+- **E.** A sign that he is attempting to "goad" Frodo into a state of guilt-induced honesty.
 
 ---
 
@@ -28,26 +28,26 @@ Sam’s decision to confront Faramir squarely, addressing him like a "young hobb
 > **Relevant Passage:**
 > "He planted himself squarely in front of Faramir... and a look on his face as if he was addressing a young hobbit who had offered him 'sauce'... 'See here, Captain! ... If you think my master murdered this Boromir... say it, and have done!'"
 
-- **A.** Sam’s lack of respect for Gondorian military rank.
-- **B.** The irrepressible strength of his "Shire-justice," where his protective loyalty to Frodo allows him to bypass his own social class anxieties and treat a "great Man" as a mere neighbor in a dispute.
-- **C.** That Sam is actually more powerful than Faramir.
-- **D.** A sign that Sam is becoming as "proud" as Boromir was.
-- **E.** His belief that Faramir is actually a hobbit in disguise.
+- **A.** Sam’s total failure to grasp the geopolitical stakes of his current situation.
+- **B.** The strength of his domestic Shire-morality, which allows him to bypass social hierarchies and defend his master through an authentic, "neighborly" bluntness.
+- **C.** A sign that the "ent-draught" has permanently altered Sam’s perception of his own physical stature.
+- **D.** Evidence that Sam is becoming as "wild" and "dishevelled" as the land of Ithilien.
+- **E.** His belief that Faramir’s "Captain" status is actually an elaborate joke.
 
 ---
 
 ### Question 3 `[PIS/SCA]` `[Advanced]`
 
-Faramir’s account of seeing Boromir in the funeral boat—"Dreamlike it was, and yet no dream, for there was no waking"—suggests that his perception is:
+Faramir’s account of seeing Boromir in the funeral boat—"Dreamlike it was, and yet no dream"—suggests that his perception is:
 
 > **Relevant Passage:**
 > "'...I saw, or it seemed that I saw, a boat floating on the water... It was Boromir, my brother, dead. ... Dreamlike it was, and yet no dream, for there was no waking. And I do not doubt that he is dead...'"
 
-- **A.** A result of extreme grief and hallucination.
-- **B.** A high-order "visionary" clarity, common among those of Numenorean descent, which allows for the perception of spiritual and physical truths that cross the boundaries of the "Seen" world.
-- **C.** Evidence that the boat was actually a ghost ship.
-- **D.** A sign that the Elves were trying to trick him.
-- **E.** His belief that his brother is still alive in a dream-state.
+- **A.** A psychological byproduct of extreme dehydration and mourning.
+- **B.** A high-order visionary clarity that allows those of High Numenorean descent to perceive spiritual realities that exist beyond the "Seen" world.
+- **C.** Evidence that the Elven-boats possess a tracking device that broadcasts images to Gondor.
+- **D.** A sign that Faramir is being influenced by the "Mirror of Galadriel" from a distance.
+- **E.** His hope that by "dreaming" of death, he can somehow delay the physical reality of the battle.
 
 ---
 
@@ -58,41 +58,41 @@ Faramir’s realization that Boromir "died well, achieving some good thing" indi
 > **Relevant Passage:**
 > "'...Whether he erred or no, of this I am sure: he died well, achieving some good thing. His face was more beautiful even than in life.'"
 
-- **A.** Lack of concern for the details of his brother’s death.
-- **B.** Deep, intuitive understanding of the "moral arc" of Boromir’s life, recognizing that the beauty of his face in death is a spiritual sign of his successful final redemption.
-- **C.** His belief that all deaths in battle are beautiful.
-- **D.** A sign that he is glad Boromir is gone.
-- **E.** Evidence that Faramir is a better judge of beauty than Frodo.
+- **A.** Dismissal of the tactical importance of the Ring in Boromir’s final moments.
+- **B.** Intuitive understanding of the "spiritual economy" of Middle-earth, where physical defeat is redeemed by an internal moral triumph.
+- **C.** Belief that all members of the House of Húrin are naturally beautiful in death.
+- **D.** Fear that Aragorn will blame Gondor for the breaking of the Fellowship.
+- **E.** Evidence that he is attempting to "sanitize" the memory of his brother’s madness.
 
 ---
 
 ### Question 5 `[PIS/SCA]` `[Advanced]`
 
-Faramir’s description of Gondor as a "springless autumn" and a "failing people" reflects a theme of:
+Faramir’s description of Gondor as a "springless autumn" and a "failing people" reflects:
 
 > **Relevant Passage:**
 > "'What hope have we? ... The Enemy increases and we decrease. We are a failing people, a springless autumn. ... Gondor that brought about its own decay, falling by degrees into dotage...'"
 
-- **A.** A seasonal change in the climate of the South.
-- **B.** The "Long Defeat," where the high human civilization of the past is inevitably waning due to its own internal moral decay and the overwhelming, persistent growth of the Shadow.
-- **C.** Faramir’s own personal depression.
-- **D.** Evidence that the Numenoreans were bad at farming.
-- **E.** A sign that the White Tree is actually dead.
+- **A.** A scientific assessment of the impact of "Mordor-pollution" on the southern agriculture.
+- **B.** The profound sorrow of the "Long Defeat," where the high human culture of the past is waning due to its own internal moral stagnation.
+- **C.** A tactical plan to make Sauron believe that Gondor is already defeated and no longer worth attacking.
+- **D.** His belief that the "Men of Gondor" should have moved to the Shire many centuries ago.
+- **E.** A sign that the White Tree is actually a metaphor for Faramir’s own clinical depression.
 
 ---
 
 ### Question 6 `[CIM/ANT]` `[Advanced]`
 
-Sam’s poetic description of Galadriel ("Hard as di'monds, soft as moonlight... Proud and far-off... and as merry as any lass") suggests:
+Sam’s poetic description of Galadriel ("Hard as di'monds, soft as moonlight... as merry as any lass") suggests:
 
 > **Relevant Passage:**
 > "'...Beautiful she is, sir! Lovely! ... Hard as di'monds, soft as moonlight. Warm as sunlight, cold as frost in the stars. ... But that's a lot o' nonsense, and all wide of my mark.'"
 
-- **A.** That Sam has become a professional poet in Rivendell.
-- **B.** The profound and paradoxical impact of the "High" Elven presence on a "simple" hobbit, where the experience of mythic beauty forces him into a state of authentic, if "unpolished," linguistic creativity.
-- **C.** That Sam is actually in love with Galadriel.
-- **D.** A sign that Sam is losing his memory of the Shire.
-- **E.** His desire to prove he is more "learned" than Faramir.
+- **A.** That Sam is attempting to "woo" Faramir with Elven stories.
+- **B.** The transformative power of mythic beauty, which forces a "simple" mind into a state of authentic and sophisticated linguistic creativity.
+- **C.** Evidence that Sam is losing his grip on "Shire-sense" and becoming an Elven-addict.
+- **D.** A tactical distraction intended to keep Faramir from asking more questions about the Ring.
+- **E.** His belief that "nonsense" is the only appropriate language for discussing wizards and queens.
 
 ---
 
@@ -103,53 +103,47 @@ Faramir’s vow—"Not if I found it on the highway would I take it"—distingui
 > **Relevant Passage:**
 > "'...Not if I found it on the highway would I take it I said. Even if I were such a man as to desire this thing... still I should take those words as a vow, and be held by them.'"
 
-- **A.** Lack of ambition and his cowardice.
-- **B.** Intellectual and moral "clarity," where he recognizes the Ring's inherent evil and consciously chooses to remain within the "bounds" of his own character rather than reach for a corrupted power.
-- **C.** His belief that the Ring is actually worthless.
-- **D.** A plan to let Frodo keep the Ring until they reach Minas Tirith.
-- **E.** His fear of the Black Riders finding the Ring on him.
+- **A.** Lack of personal ambition and his failure to understand the military necessity of the Ring.
+- **B.** Intellectual and moral "clarity," where he recognizes the Ring’s inherent corruption and chooses to remain within the "bounds" of human integrity.
+- **C.** Fear that taking the Ring would lead to a direct legal challenge from Aragorn.
+- **D.** Belief that the "highway" is actually a more dangerous place than the "secret pool."
+- **E.** Evidence that he has already found a "better" weapon hidden in Ithilien.
 
 ---
 
 ### Question 8 `[ACN/ANT]` `[Advanced]`
 
-The image of Henneth Annûn, the "Window of the Sunset," where the waterfall is "curtained with threaded jewels of silver and gold," serves to:
+The image of Henneth Annûn, the "Window of the Sunset," where the waterfall is "curtained with threaded jewels," serves to:
 
-> **Relevant Passage:**
-> "But in front a thin veil of water was hung... curtained with threaded jewels of silver and gold, and ruby, sapphire and amethyst, all kindled with an unconsuming fire."
-
-- **A.** Show that the Rangers are using literal jewels to decorate their cave.
-- **B.** Provide a moment of high-aesthetic "reward" and mythic light that counteracts the "grey" and "desolate" reality of the war, reinforcing the "unseen" beauty that Gondor still defends.
-- **C.** Suggest that the waterfall is actually made of gemstones.
-- **D.** Predict that the hobbits will eventually find a treasure-trove.
-- **E.** Provide a tactical explanation for why the cave is so well-hidden.
+- **A.** Show that the Rangers are using actual gemstones to filter their water supply.
+- **B.** Provide a high-aesthetic "reward" that counteracts the "grey" and "desolate" reality of the war, reinforcing the beauty Gondor defends.
+- **C.** Suggest that the cave is actually an entrance to a lost Dwarven kingdom.
+- **D.** Predict that the "Sun" will eventually destroy Mordor through literal fire.
+- **E.** Provide a purely tactical explanation for the cave's invisibility to Orc-eyes.
 
 ---
 
 ### Question 9 `[CIM/PIS]` `[Advanced]`
 
-Sam’s comment that "you have an air too, sir, that reminds me of... Gandalf, of wizards" indicates that Faramir possesses:
+Sam’s comment that "you have an air too, sir, that reminds me of... wizards" indicates that Faramir possesses:
 
 > **Relevant Passage:**
 > "'...you have an air too, sir, that reminds me of, of - well, Gandalf, of wizards.' 'Maybe,' said Faramir. 'Maybe you discern from far away the air of Numenor.'"
 
-- **A.** Literal magical powers equal to Gandalf’s.
-- **B.** The surviving spiritual and ancestral "dignity" of High Numenor, where wisdom, self-restraint, and a connection to the "Old" world manifest as a presence that simpler folk perceive as "wizard-like."
-- **C.** A sign that Faramir is actually a wizard in disguise.
-- **D.** Sam’s own confusion caused by the wine.
-- **E.** Evidence that the Rangers are using Gandalf’s name to trick people.
+- **A.** A literal magical ability to change his physical appearance.
+- **B.** The surviving spiritual dignity of High Numenor, where wisdom and self-restraint manifest as a presence that simpler folk perceive as "wizard-like."
+- **C.** A sign that Faramir is secretly a member of the "Order of Wizards" masquerading as a Man.
+- **D.** Evidence that the Rangers use "wizard-smoke" to enhance their reputation.
+- **E.** Sam’s own confusion regarding the difference between "High Nobility" and "Magic."
 
 ---
 
 ### Question 10 `[CIM/SCA]` `[Advanced]`
 
-Faramir’s reaction to Frodo’s true mission—lifting him "gently" and carrying him to bed—characterizes his response to the Ring-bearer as one of:
+Faramir’s reaction to Frodo’s true mission—lifting him "gently" and carrying him to bed—characterizes his response as:
 
-> **Relevant Passage:**
-> "Faramir stared at him for a moment in grave astonishment. Then suddenly he caught him as he swayed, and lifting him gently, carried him to the bed..."
-
-- **A.** Annoyance that Frodo has collapsed in his cave.
-- **B.** Profound, empathetic "awe" and protective care, recognizing the staggering weight of the "doom" that has been laid upon a "little halfling" and choosing to act as his guardian rather than his master.
-- **C.** A plan to keep Frodo captive until Denethor arrives.
-- **D.** His belief that Frodo is actually dying.
-- **E.** Evidence that Faramir is actually much stronger than he looks.
+- **A.** A tactical move to ensure the Ring-bearer is kept under constant surveillance.
+- **B.** Profound, empathetic "awe" and protective care, recognizing the staggering weight of the "doom" laid upon a "little halfling."
+- **C.** His belief that Frodo is actually a "dying king" who needs to be treated with royal ceremony.
+- **D.** A sign that Faramir is attempting to "steal" Frodo’s loyalty from Aragorn.
+- **E.** Evidence that the "Rangers of Ithilien" are actually a specialized order of healers.

@@ -21,15 +21,18 @@
 
 ### Question 1 `[ACN/ANT]` `[Advanced]`
 
-**The condition of the *Book of Mazarbul*—"slashed and stabbed and partly burned" and "stained with black and other dark marks like old blood"—serves to:**
+**The condition of the *Book of Mazarbul* serves to:**
 
-**Correct Answer: B. Physically manifest the violent, desperate struggle of the Dwarves' final stand, turning the historical record into a literal artifact of the tragedy it describes.**
+**Correct Answer: B. Physically manifest the violent, desperate struggle of the final stand, turning the historical record into a literal artifact of the tragedy it describes.**
 
 **Why this is correct:**
-The book is not just a source of information; its physical state tells the story of Moria's fall. The "slashes," "stabs," and "blood" marks are historical records in themselves, showing that the room where it was found was a site of extreme violence. This turns the act of reading into an act of uncovering a crime scene, making the tragedy visceral for both the characters and the reader.
+The book’s physical state (slashes, bloodstains) tells the story of Moria's fall. The book is not just a source of info; it is a survivor of the violence. This turns the act of reading into an act of uncovering a crime scene, making the tragedy visceral.
 
-**Why A is incorrect** `[SL]`:
-While Orcs are violent, the specific description of the book's damage is used to build the "grim" atmosphere and to illustrate the *Dwarves'* end, rather than to make a statement about Orcish literacy.
+**Analysis of Distractors:**
+- **A** is an "Over-Interpretation" that suspects an "ideological hatred" for records.
+- **C** is a "Plausible Misreading" that suspects the Dwarves tried to destroy it.
+- **D** is an "Academic Over-Interpretation" using the parallel to the "Morgul-blade."
+- **E** is a "Moralistic Misreading" that blames the Dwarves for "neglecting archives."
 
 ---
 
@@ -37,134 +40,149 @@ While Orcs are violent, the specific description of the book's damage is used to
 
 **The final entry in the book—"drums, drums in the deep... they are coming"—conveys a tonal shift from:**
 
-**Correct Answer: B. A narrative of attempted colonization to an immediate, visceral record of existential dread and the psychological collapse of the writer in the face of inevitable death.**
+**Correct Answer: B. A narrative of attempted reconstruction to an immediate, visceral record of existential dread and psychological collapse in the face of inevitable death.**
 
 **Why this is correct:**
-The earlier parts of the book record years of progress ("taken the twentyfirst hall," "mithril"). The final entry, however, is a "trailing scrawl" that focuses on the sound of the drums and the certainty of the end. This shift from objective reporting to subjective terror reflects the transition from a period of hope to the moment of ultimate annihilation.
+The early parts record progress. The final "trailing scrawl" focuses on the sound of the drums and the certainty of the end. This shift reflects the transition from hope to ultimate annihilation.
 
-**Why E is incorrect** `[SL]`:
-The entry is not a "riddle"; it is a direct and terrifyingly clear observation of the enemy’s approach and the writer's own impending doom.
+**Analysis of Distractors:**
+- **A** is a "Lore-Trap" calling it a "riddle-game."
+- **C** is a "Surface-Level Literalism" about "geographical boundaries."
+- **D** is a "Plausible Misreading" about "formal history" vs. "private diary."
+- **E** is a "Moralistic Misreading" about Dwarves "learning to sing."
 
 ---
 
 ### Question 3 `[CIM/ANT]` `[Advanced]`
 
-**Frodo’s "hot wrath" and his decision to stab the troll’s foot with Sting primarily illustrate:**
+**Frodo’s "hot wrath" and his decision to stab the troll’s foot primarily illustrate:**
 
-**Correct Answer: B. The emergence of a dormant, fierce ancestral courage (the "hobbit's bite") that is triggered by the direct threat to his identity and home.**
+**Correct Answer: B. The emergence of a fierce, ancestral courage triggered by a direct threat to his core identity and homeland.**
 
 **Why this is correct:**
-Frodo cries out "The Shire!" as he strikes. This shows that his courage is fueled by his love for his homeland and his rejection of the "hideous" violation of his sanctuary. This "hot wrath" is a hallmark of the hobbit character—peaceful until pushed, and then capable of a "bite" that is "deep" and surprising even to warriors like Boromir.
+Frodo cries "The Shire!" as he strikes. This shows his courage is fueled by love for his homeland. This "hot wrath" is a hallmark of the hobbit character—peaceful until pushed, then capable of a surprising "bite."
 
-**Why C is incorrect** `[OI]`:
-The text presents this act as a heroic and positive manifestation of character ("One for the Shire!"), rather than a negative corruption by the Ring. It is an act of defense, not malice.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about choosing a "non-lethal" target.
+- **C** is an "Over-Interpretation" about a "warrior’s thirst for blood."
+- **D** is a "Plausible Misreading" about "proving himself to Boromir."
+- **E** is an "Academic Over-Interpretation" about "aesthetic offense."
 
 ---
 
 ### Question 4 `[CIM/ANT]` `[Advanced]`
 
-**Gimli’s behavior after the fight—being "dragged away" while he "lingered by Balin's tomb with his head bowed"—characterizes his grief as:**
+**Gimli’s behavior after the fight—being "dragged away" while he "lingered by Balin's tomb"—characterizes his grief as:**
 
-**Correct Answer: B. A profound, culturally-rooted reverence for his kin and history that momentarily overrides his survival instinct and the urgency of the flight.**
+**Correct Answer: B. A profound, culturally-rooted reverence for his kin and history that momentarily overrides his own survival instinct.**
 
 **Why this is correct:**
-Gimli is a Dwarf of the "mountain-race," and his identity is inextricably linked to the "halls of his fathers." His reluctance to leave Balin's tomb, even when "trapped," shows that for him, the honor of the dead and the sanctity of his history are more important than the immediate danger. It highlights the "rooted wisdom" and the "pride" of his people.
+Gimli is a Dwarf of the "mountain-race," and his identity is linked to the "halls of his fathers." His reluctance to leave the tomb shows that for him, the honor of the dead is more important than immediate danger.
 
-**Why E is incorrect** `[OI]`:
-There is no indication of greed; Gimli's "head was bowed" in a gesture of mourning and respect, not in search of loot.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that blames Gimli for "endangering the Company."
+- **C** is a "Plausible Misreading" about a "secret code."
+- **D** is a "Half-Truth" about a "vision of the way out."
+- **E** is an "Academic Over-Interpretation" about "personal responsibility for failure."
 
 ---
 
 ### Question 5 `[PIS/SCA]` `[Advanced]`
 
-**Gandalf’s account of his "counter-spell" struggle at the door—"I have met my match, and have nearly been destroyed"—indicates a shift in the conflict from:**
+**Gandalf’s account of his "counter-spell" struggle at the door indicates a shift in the conflict from:**
 
-**Correct Answer: A. A physical battle with Orcs to a high-level spiritual and ontological confrontation with a power equal to or greater than his own.**
+**Correct Answer: A. A physical battle with Orcs to a high-level spiritual and ontological confrontation with a power equal to his own.**
 
 **Why this is correct:**
-Gandalf describes a "challenge" and a "counter-spell" that "nearly broke me." This is not a sword fight; it is a battle of wills and metaphysical authority. The fact that he felt "spent" and had to use a "word of Command" signals that the Company is now dealing with an enemy that operates on the same mythic and angelic level as Gandalf himself.
+Gandalf describes a "challenge" and a "counter-spell" that "nearly broke me." This is a battle of wills and metaphysical authority. The "spent" feeling signals an enemy that operates on the same mythic level as Gandalf himself.
 
-**Why E is incorrect** `[PT]`:
-His role as a warrior *is* his role as a guide; he is leading them through the "dark road" by protecting them from the "devilry" they encounter. The shift is in the *nature of the opponent*, not in his own function.
+**Analysis of Distractors:**
+- **B** is a "Moralistic Misreading" about "professional reputation."
+- **C** is an "Academic Over-Interpretation" using the term "atonement."
+- **D** is an "Over-Interpretation" that Gandalf is "thinning" like Frodo.
+- **E** is a "Lore-Trap" about the "Doors being cursed."
 
 ---
 
 ### Question 6 `[ACN/ANT]` `[Advanced]`
 
-**The description of the Balrog as "a great shadow, in the middle of which was a dark form" and "a power and terror seemed to be in it" emphasizes its nature as:**
+**The description of the Balrog emphasizes its nature as:**
 
-**Correct Answer: B. A primal, elemental entity of shadow and flame that exists on a scale of being that transcends physical "shape" and enters the realm of mythic terror.**
+**Correct Answer: B. A primal, elemental entity of shadow and flame that exists on a scale of being that transcends physical "shape."**
 
 **Why this is correct:**
-The Balrog is not clearly "seen"; it is described through its effects ("light faded," "shadow... vast wings") and its elemental properties ("fire," "black smoke"). This lack of a concrete, mundane shape makes it more terrifying because it represents a primordial power from the world's "Black Years," a demonic force that the hobbits cannot even comprehend.
+The Balrog is not clearly "seen"; it is described through its effects ("light faded," "shadow"). This lack of a concrete shape makes it more terrifying because it represents a primordial power from the "Black Years."
 
-**Why A is incorrect** `[SL]`:
-The reaction of the Orcs (crowding away in fear) and Gandalf's recognition ("A Balrog!") make it clear that this is a being of a completely different order than a mere Orc.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about an "enhanced Orc."
+- **C** is an "Academic Over-Interpretation" calling it a "psychological hallucination."
+- **D** is a "Half-Truth" about the "Shadow in the North."
+- **E** is a "Plausible Misreading" about "hiding from white light."
 
 ---
 
 ### Question 7 `[CIM/ANT]` `[Advanced]`
 
-**Gandalf’s faltering and leaning "heavily on his staff" upon recognizing the Balrog ("Now I understand") reveals:**
+**Gandalf’s faltering upon recognizing the Balrog ("Now I understand") reveals:**
 
-**Correct Answer: B. The sudden, crushing weight of historical and cosmic recognition, knowing that the "nameless fear" of the Dwarves is an ancient, demonic peer that he must now face in his weakened state.**
+**Correct Answer: B. The sudden, crushing weight of cosmic recognition, knowing that he must face an ancient, demonic peer in his current weakened state.**
 
 **Why this is correct:**
-"Now I understand" refers to the "Durin's Bane" that destroyed the Dwarf-kingdom. Gandalf realizes that the shadow he fought at the door was a Balrog. His "faltering" is a rare moment of vulnerability, showing that even he is daunted by the prospect of facing such an "evil fortune" when he is already "spent."
+"Now I understand" refers to "Durin's Bane." Gandalf realizes the shadow he fought was a Balrog. His "faltering" is a moment of vulnerability, showing he is daunted by facing a peer while "already weary."
 
-**Why D is incorrect** `[AM]`:
-While he is "weary," he immediately "recalls his strength" and takes command again ("Fly! This is a foe beyond any of you"). His faltering is a moment of shock, not a loss of hope.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" about "annoyance" at wasting energy.
+- **C** is an "Over-Interpretation" that it is "more powerful than Sauron."
+- **D** is a "Lore-Trap" about "using the Ring."
+- **E** is an "Over-Interpretation" about the "Dwarves being in league with it."
 
 ---
 
 ### Question 8 `[PIS/SCA]` `[Advanced]`
 
-**Gandalf’s proclamation—"I am a servant of the Secret Fire, wielder of the flame of Anor"—is a statement of:**
+**Gandalf’s proclamation—"I am a servant of the Secret Fire"—is a statement of:**
 
-**Correct Answer: B. An ontological challenge, asserting his alignment with the divine, creative light of the world against the Balrog’s corrupt, destructive fire of the "Shadow."**
+**Correct Answer: B. An ontological challenge, asserting his alignment with the divine, creative light against the Balrog’s corrupt fire of the "Shadow."**
 
 **Why this is correct:**
-This is a ritualistic assertion of authority. The "Secret Fire" and "Anor" (Sun) are symbols of the good, unfallen creation. Gandalf is identifying himself as a representative of the true light, telling the Balrog ("flame of Udun" - hell) that its dark, stolen fire has no power over the divine flame he wields. It is a battle of light vs. shadow at its most fundamental level.
+This is a ritualistic assertion of authority. The "Secret Fire" and "Anor" are symbols of the good, unfallen creation. Gandalf is identifying as a representative of the true light, telling the Balrog ("flame of Udun") that its dark fire has no power over him.
 
-**Why E is incorrect** `[OI]`:
-Gandalf's statement is about his *source* of power (the Secret Fire) rather than a direct comparison of his own strength to Sauron's. He is acting as a "servant," which implies humility before the source of his authority.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "formal rank."
+- **C** is a "Lore-Trap" about "shared Maia heritage."
+- **D** is a "Plausible Misreading" about a "secret password."
+- **E** is a "Half-Truth" about the "Sun defeating the Balrog."
 
 ---
 
 ### Question 9 `[ACN/CIM]` `[Advanced]`
 
-**Gandalf’s final cry—"Fly, you fools!"—as he falls into the abyss primarily serves to:**
+**Gandalf’s final cry—"Fly, you fools!"—primarily serves to:**
 
-**Correct Answer: B. Reassert his role as the selfless, authoritative guide whose final act is to ensure the continuation of the quest, even at the cost of his own life.**
+**Correct Answer: B. Reassert his role as the selfless, authoritative guide whose final act is to ensure the quest continues at any cost.**
 
 **Why this is correct:**
-"Fly" is a command to run and escape. By calling them "fools," Gandalf uses his characteristic, sharp-tongued paternalism to break their "rooted horror" and force them into action. Even in death, he is managing their survival, making sure they "obey his last command" rather than wasting time grieving or jumping in after him.
+"Fly" is a command to flee. By calling them "fools," Gandalf uses his paternal tone to break their horror and force them into action. Even in death, he is managing their survival.
 
-**Why E is incorrect** `[SL]`:
-"Fly" in this context is an archaic term for "run" or "flee," not a literal command to take flight.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "final frustration."
+- **C** is a "Half-Truth" about the "Balrog being alive."
+- **D** is a "Plausible Misreading" about "warning them they were fools."
+- **E** is a "Surface-Level Literalism" about "Great Eagles."
 
 ---
 
 ### Question 10 `[CIM/ANT]` `[Advanced]`
 
-**The "dead darkness" and the subsequent "weeping long" of the Company once they reach the sky signify:**
+**The "dead darkness" and the subsequent "weeping long" of the Company signify:**
 
-**Correct Answer: B. The traumatic transition from the claustrophobic terror of the "under-world" to the bright, indifferent surface, and the sudden, overwhelming realization of the loss of their primary protector and guide.**
+**Correct Answer: B. The traumatic transition from the claustrophobic terror of the "under-world" to the realization of the absolute loss of their protector.**
 
 **Why this is correct:**
-The "golden light" of the sun provides a jarring contrast to the "doom" of the drum-beats still echoing from below. The grief "wholly overcame them" because the immediate adrenaline of the flight has passed, leaving them to face the reality of Gandalf's absence. The empty, quiet dale mirrors their own sense of abandonment and loss.
+The "golden light" provides a contrast to the "doom" of the drums. Grief overcame them because the adrenaline has passed, leaving them to face the reality of Gandalf's absence.
 
-**Why C is incorrect** `[AM]`:
-While they are out of the dark, the text emphasizes their "grief" and the "slow drum-beats," showing that their emotional state is one of mourning and trauma rather than joy.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 5 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 6 |
-| Pragmatic Implicature & Subtext (PIS) | 3 |
-| Situational & Contextual Awareness (SCA) | 3 |
-| Authorial Craft & Narrative Strategy (ACN) | 4 |
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "stuffy air."
+- **C** is a "Lore-Trap" about "Black Breath."
+- **D** is a "Plausible Misreading" about "finding the way to Mordor."
+- **E** is an "Over-Interpretation" about the "sun defeating the drums."

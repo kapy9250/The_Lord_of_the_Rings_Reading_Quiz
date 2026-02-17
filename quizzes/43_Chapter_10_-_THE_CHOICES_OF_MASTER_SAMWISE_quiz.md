@@ -8,148 +8,136 @@
 
 ### Question 1 `[CIM/ANT]` `[Advanced]`
 
-Sam’s charge against Shelob—described as a "fury... greater than any she had known in countless years"—primarily illustrates:
+Sam’s reaction to Frodo’s apparently dead body—"He's dead! ... And I have been with him all the time. O Master!"—characterizes his grief as:
 
 > **Relevant Passage:**
-> "No onslaught more fierce was ever seen in the savage world of beasts, where some desperate small creature armed with little teeth, alone, will spring upon a tower of horn and hide... almost before she was aware that a fury was upon her greater than any she had known..."
+> "'He's dead!' he said. 'Not asleep, dead! ...' Then he sat down and put his head in his hands. ... 'And I have been with him all the time. O Master!'"
 
-- **A.** Sam’s superior military training compared to the Men of Gondor.
-- **B.** The primal and overwhelming power of "unthinking" devotion, where the total erasure of self-concern in the face of a loved one’s peril creates a martial effectiveness that exceeds that of professional warriors.
-- **C.** A sign that Sam is becoming a "beast" himself due to the influence of Mordor.
-- **D.** His belief that Shelob is actually a very weak opponent.
-- **E.** Evidence that the Elven-sword Sting is doing all the work for him.
+- **A.** A rational assessment of his failure as a bodyguard.
+- **B.** A profound, spiritual "collapse" of his world-order, where the loss of the individual "Master" is experienced as the end of all meaning and the personal failure of his most sacred vocation.
+- **C.** Evidence that Sam is angry at Frodo for dying.
+- **D.** A sign that Sam is becoming as "hopeless" as Denethor.
+- **E.** His desire to find a better master in the future.
 
 ---
 
-### Question 2 `[ACN/SCA]` `[Advanced]`
+### Question 2 `[CIM/PIS]` `[Advanced]`
 
-The detail that Shelob’s hide was "ever thickened from within with layer on layer of evil growth" characterizes her existence as:
+Sam’s "stern" and "cold" logic as he considers his choice—"What am I to do? ... I can't leave him here. ... But I can't take him back"—illustrates:
 
-> **Relevant Passage:**
-> "Knobbed and pitted with corruption was her age-old hide, but ever thickened from within with layer on layer of evil growth. ... those hideous folds could not be pierced by any strength of men..."
-
-- **A.** A natural and healthy biological defense mechanism.
-- **B.** A physical manifestation of accumulated, self-centered malice, where her literal body is a cumulative record of centuries of "evil" consumption and spiritual isolation.
-- **C.** Evidence that Shelob is actually a type of dragon.
-- **D.** A sign that the Orcs have been trying to help her grow stronger.
-- **E.** A humorous commentary on her lack of physical beauty.
+- **A.** His inability to make a decision in a crisis.
+- **B.** The emergence of a "High" moral and strategic responsibility, where the "small" hobbit is forced to compartmentalize his personal love to fulfill the "un-pitying" demands of the Quest.
+- **C.** Evidence that Sam is becoming more "heartless" due to the Ring.
+- **D.** A sign that he is starting to doubt Gandalf’s wisdom.
+- **E.** His belief that he is actually smarter than Frodo.
 
 ---
 
-### Question 3 `[CIM/PIS]` `[Advanced]`
+### Question 3 `[PIS/SCA]` `[Advanced]`
 
-Sam’s use of the Phial and his cry in an unknown language ("A tiro nin, Fanuilos!") signifies:
+The detail that Sam "took the Ring" only after he "kissed his master’s hand" and "wept" signifies:
 
 > **Relevant Passage:**
-> "and then his tongue was loosed and his voice cried in a language which he did not know... And with that he staggered to his feet and was Samwise the hobbit... again."
+> "He took the hand... and kissed it. ... Then he took the Ring... and he put it on. ... and for a moment he saw the world through a new eye."
 
-- **A.** A literal, linguistic miracle where the spirit of the West speaks through Sam, validating his "indomitable spirit" and providing him with the celestial authority needed to blast Shelob’s mind with "unbearable pain."
-- **B.** Evidence that Sam has been secretly studying Elvish books.
-- **C.** A sign that Sam is suffering from a temporary mental breakdown.
-- **D.** His belief that shouting in any language will scare the monster.
-- **E.** A way to signal the Elves of Rivendell to come and help him.
+- **A.** A tactical move to avoid getting his fingerprints on the object.
+- **B.** A ritualistic transition of the "Burden" that is founded on a continuing act of love and fealty, distinguishing his "Mastery" as a sacrificial stewardship rather than a predatory theft.
+- **C.** Evidence that Sam is actually a "Ring-thief" like Gollum.
+- **D.** A sign that the Ring is "using" Sam's grief to seduce him.
+- **E.** His belief that the Ring is actually a very pretty piece of jewelry.
 
 ---
 
-### Question 4 `[CIM/ANT]` `[Advanced]`
+### Question 4 `[ACN/ANT]` `[Advanced]`
 
-Sam’s initial "black despair" and his subsequent "rage" against the stones reveal:
+The "new eye" Sam receives when putting on the Ring—seeing the world as "thinned and ghostly" while hearing becomes "sharp and clear"—symbolizes:
 
-> **Relevant Passage:**
-> "Then anger surged over him, and he ran about his master's body in a rage, stabbing the air, and smiting the stones... 'Dead!' he said. 'Not asleep, dead!'"
-
-- **A.** His inability to accept the reality of death.
-- **B.** The psychological "stages of grief" compressed into a moment of extreme trauma, where the sudden loss of his entire purpose for existence leads to a frantic, albeit futile, externalization of his internal pain.
-- **C.** A sign that Sam is becoming as "mad" as Denethor.
-- **D.** His desire to wake Frodo up by making a lot of noise.
-- **E.** Evidence that the Ring is starting to affect his mind.
+- **A.** His literal physical transformation into a wraith.
+- **B.** The "alien" and predatory perspective of the Ring, which devalues the material beauty of the world (the "Seen") while magnifying the auditory signals of "fear and motion" necessary for a hunter.
+- **C.** Evidence that Sam is suffering from a sensory processing disorder.
+- **D.** A sign that the Ring is trying to help Sam find the Orcs.
+- **E.** A humorous comparison to the "sharp ears" of the hobbits in the Shire.
 
 ---
 
-### Question 5 `[CIM/PIS]` `[Advanced]`
+### Question 5 `[CIM/ANT]` `[Advanced]`
 
-Sam’s "debate" with himself—answering his own doubts with "And the Council gave him companions... the errand must not fail"—indicates:
+Sam’s use of the Phial at the gate, crying "_A tiro nin, Fanuilos!_", represents:
 
 > **Relevant Passage:**
-> "'...Me take the Ring from him? The Council gave it to him.' But the answer came at once: 'And the Council gave him companions... The errand must not fail.'"
+> "He drew the Phial... and his voice rang out in the dark... '_A tiro nin, Fanuilos! / Le nallon si di''nguruthos!_'"
 
-- **A.** That Sam is suffering from multiple personality disorder.
-- **B.** The internal "Council of conscience," where his inherent common sense and his loyalty to the "Higher" mission override his personal humility and his social deference to his "master."
-- **C.** A sign that the Ring is trying to trick him into taking it.
-- **D.** Evidence that Sam is becoming more "wise" than Gandalf.
-- **E.** His desire to be the hero of the story.
+- **A.** A sophisticated display of his Elven-language education.
+- **B.** A spontaneous eruption of "High" spiritual authority, where the "un-Great" hobbit acts as a conduit for the unfallen power of the West, using the memory of the "Stars" to shatter the local "malice" of the tower.
+- **C.** Evidence that Sam is losing his "Shire-self" and becoming an Elf.
+- **D.** A sign that the Phial is actually a "voice-box" that speaks for him.
+- **E.** His desire to wake up the Orcs so he can fight them.
 
 ---
 
-### Question 6 `[CIM/ANT]` `[Advanced]`
+### Question 6 `[PIS/SCA]` `[Advanced]`
 
-Sam’s feeling that the Ring was "like a great stone... strung on him" but then "new strength grew in him" suggests:
+The overheard conversation between Shagrat and Gorbag regarding "the game" and "the big boss" reveals:
 
 > **Relevant Passage:**
-> "at once his head was bowed to the ground with the weight of the Ring... But slowly, as if the weight became less, or new strength grew in him, he raised his head..."
+> "'...it's the game, isn't it? ... If we had any luck we'd be off together... and have a little place of our own... but there's the big boss... and the eye.'"
 
-- **A.** The physical weight of the gold chain.
-- **B.** The immediate, spiritual "gravity" of the Ring's power, followed by a moment of psychological adaptation where Sam's own "stout" heart begins to provide the necessary counter-force to bear the burden.
-- **C.** That the Ring is trying to make him stronger so he can reach the Fire.
-- **D.** A sign that the Ring is becoming lighter as it nears its home.
-- **E.** Sam’s own confusion about the weight of the object.
+- **A.** A secret, shared desire for "peace" and domesticity even among the most "foul" creatures, highlighting that the Shadow’s own slaves experience its rule as a "tyranny" they wish to escape.
+- **B.** Evidence that the Orcs are actually very good friends with each other.
+- **C.** A sign that Saruman is planning to hire the Orcs for his new project.
+- **D.** A plan to open a restaurant in the mountains.
+- **E.** His belief that "the big boss" is actually a very kind person.
 
 ---
 
-### Question 7 `[PIS/SCA]` `[Advanced]`
+### Question 7 `[CIM/PIS]` `[Advanced]`
 
-The Ring’s effect on Sam’s perception—sharpening his hearing while "sight was dimmed"—characterizes the "Unseen" world as:
+Sam’s realization that "I've got it all wrong!" and his "wild fury" upon learning Frodo is alive indicates:
 
 > **Relevant Passage:**
-> "At once he was aware that hearing was sharpened while sight was dimmed... all things about him now were not dark but vague; while he himself was there... like a small black solid rock..."
+> "'He's alive!' he cried... 'I've got it all wrong! ... O you fool, Sam Gamgee! ...' And then a wild fury took him... 'I'm coming!'"
 
-- **A.** A superior and more accurate way of seeing the world.
-- **B.** A state of sensory distortion and isolation, where the physical beauty of the "Seen" world is replaced by a "vague" and "hazy" landscape of fear and surveillance.
-- **C.** Evidence that the Ring is broken.
-- **D.** A sign that Sam is catching a cold.
-- **E.** A way to make him feel more like an Elf.
+- **A.** His anger at Frodo for being alive and causing him so much trouble.
+- **B.** The devastating psychological impact of his own "logical" choice, where the act of "stewardship" is revealed as a catastrophic moral failure of trust in his own heart’s intuition.
+- **C.** Evidence that Sam is becoming more "violent" due to the Ring.
+- **D.** A sign that he is starting to hate the Orcs more than he loves Frodo.
+- **E.** His desire to find a better brand of "hope" in the future.
 
 ---
 
-### Question 8 `[CIM/PIS]` `[Advanced]`
+### Question 8 `[PIS/SCA]` `[Advanced]`
 
-Sam’s reaction to the Orcs' discovery of Frodo ("With a dreadful stroke Sam was wakened from his cowering mood") highlights:
+The Orcs’ description of Sam as a "large warrior loose... Elf most likely" demonstrates:
 
-> **Relevant Passage:**
-> "With a dreadful stroke Sam was wakened from his cowering mood. They had seen his master. ... He knew now where his place was... at his master's side..."
-
-- **A.** His realization that he has made a huge tactical error in taking the Ring.
-- **B.** The absolute priority of his personal, "domestic" bond over the "High" political or mythic requirements of the Quest, proving that his loyalty to the *person* of Frodo is the ultimate source of his courage.
-- **C.** His fear that the Orcs will take the Ring from him.
-- **D.** A sign that Sam is becoming as "reckless" as Pippin.
-- **E.** Evidence that Sam is planning to surrender to the Orcs.
-
----
-
-### Question 9 `[PIS/SCA]` `[Advanced]`
-
-The overheard conversation between Shagrat and Gorbag regarding the "large warrior loose" primarily serves to:
-
-> **Relevant Passage:**
-> "'...I'd say there's a large warrior loose, Elf most likely, with an elf-sword anyway... and he's loose in your bounds, too, and you've never spotted him.'"
-
-- **A.** Show that the Orcs are very poor at judging height.
-- **B.** Illustrate the "Shadow’s" own fear and lack of imagination, where the "un-Great" success of a single hobbit is misinterpreted as the presence of a "mighty Elf," creating a tactical advantage through the enemy's own paranoia.
+- **A.** The Orcs' poor eyesight and their inability to judge scale.
+- **B.** The "Shadow’s" own internal fear and lack of imagination, where the "un-Great" success of a single hobbit is misinterpreted through the lens of their own "heroic" nightmares of Elven power.
 - **C.** Evidence that Sam is actually becoming larger due to the Ring.
-- **D.** A sign that the Orcs are trying to recruit Sam.
-- **E.** His belief that the Orcs are actually his friends.
+- **D.** A plan to lure the "Elf" into a trap at the tower.
+- **E.** His belief that Sam is actually a secret agent for Gondor.
+
+---
+
+### Question 9 `[ACN/SCA]` `[Advanced]`
+
+The final image of the "Tower of Cirith Ungol" with its "iron gates" slamming shut signifies:
+
+> **Relevant Passage:**
+> "The great iron gates... were slammed to with a clang that echoed in the dark. ... Sam was left alone in the night... outside the land of Mordor."
+
+- **A.** The total failure of Sam’s attempt to enter the land.
+- **B.** The absolute "sealing" of the isolation between the Bearer and his Servant, marking the moment where the Fellowship is physically and symbolically "locked out," leaving the "Master" in the hands of the Enemy.
+- **C.** Evidence that the Orcs are very efficient at security.
+- **D.** A sign that the next chapter will be a "prison-break" story.
+- **E.** Portrayal of the "Gate" as a humorous obstacle.
 
 ---
 
 ### Question 10 `[CIM/ANT]` `[Advanced]`
 
-Sam’s reaction to the news that Frodo is alive ("Sam reeled... the whole dark world was turning upside down") reveals:
+Sam’s "grim" resolution at the end—"I'm coming, Mr. Frodo!"—marks his final evolution into:
 
-> **Relevant Passage:**
-> "Sam reeled, clutching at the stone. He felt as if the whole dark world was turning upside down. ... 'You fool, he isn't dead, and your heart knew it.'"
-
-- **A.** His anger at the Orcs for lying to him earlier.
-- **B.** The devastating psychological impact of his own "hope-less" choice, where the "logical" decision to take the Ring is revealed as a catastrophic moral failure of trust in his own heart’s intuition.
-- **C.** A sign that Sam is losing his mind due to the "Shadow."
-- **D.** His relief that he can now give the Ring back to Frodo.
-- **E.** Evidence that Sam is becoming a better thinker than Frodo.
+- **A.** A professional and cold-hearted soldier of Gondor.
+- **B.** A "High" hero of the spirit, whose commitment to the individual "bond" overrides all tactical hopelessness, choosing to face the absolute center of the Shadow out of a purely relational loyalty.
+- **C.** Evidence that Sam is becoming as "mad" as Gollum.
+- **D.** A sign that he has finally forgotten the "Shire" and is now only a "Ring-bearer."
+- **E.** His belief that he is actually going to win the war alone.

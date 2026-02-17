@@ -8,148 +8,133 @@
 
 ### Question 1 `[ACN/ANT]` `[Advanced]`
 
-The description of the light in Minas Morgul as a "corpse-light... that illuminated nothing" and "ailing in some slow eclipse" characterizes the city’s power as:
+The description of Minas Morgul, glowing with a "corrupt light" like a "corpse-candle," characterizes the city’s nature as:
 
 > **Relevant Passage:**
-> "Not the imprisoned moonlight welling through the marble walls of Minas Ithil long ago... corpse-light, a light that illuminated nothing. ... topmost course of the tower revolved slowly... a huge ghostly head leering into the night."
+> "A long-dead light... a corpse-light, a light that illuminated nothing. ... The walls and towers of Minas Morgul... were all of a dead white."
 
-- **A.** A successful and efficient lighting system for the night-guards.
-- **B.** An absolute, non-generative, and anti-luminous presence that exists only as a visual marker of spiritual decay and the negation of the "true" light of the moon.
-- **C.** Evidence that the Orcs are trying to save energy.
-- **D.** A sign that the city is actually underwater.
-- **E.** A humorous comparison to the bright lights of Minas Tirith.
+- **A.** A sign that the city is actually very energy-efficient.
+- **B.** An ontological perversion of light, where the city does not "shine" but rather "festers," reflecting a state of "un-dead" existence that mimics life only through the language of decay.
+- **C.** Evidence that the Orcs are using bioluminescent fungi to light their streets.
+- **D.** A plan to lure the hobbits toward the "dead white" walls so they can be captured.
+- **E.** A humorous comparison to the white-washed cottages of the Shire.
 
 ---
 
-### Question 2 `[CIM/ANT]` `[Advanced]`
+### Question 2 `[CIM/PIS]` `[Advanced]`
 
-Frodo’s "tottering forward" toward the bridge of Minas Morgul, with his "head lolling from side to side," suggests that he is:
+Frodo’s "dream-like" state as he approaches the bridge—seeming to "walk in a mist" while his hand goes to the Ring—reveal:
 
 > **Relevant Passage:**
-> "Frodo felt his senses reeling and his mind darkening. Then suddenly, as if some force were at work other than his own will, he began to hurry, tottering forward, his groping hands held out..."
+> "He felt his hand creeping towards the Ring... he was no longer master of his own limbs. ... he seemed to be walking in a mist, while a voice inside him was calling..."
 
-- **A.** Suffering from a sudden burst of heroic energy.
-- **B.** Experiencing a total, external takeover of his nervous system by the city’s malevolent psychic field, which draws the Ring-bearer toward its center like a moth to a "deadly" flame.
-- **C.** Trying to trick Gollum into following him into the city.
-- **D.** Evidence that he has forgotten the way to the stairs.
-- **E.** A sign that he is having a playful race with Sam.
+- **A.** His physical exhaustion and his need for a nap.
+- **B.** The escalating, external "Command" of the Witch-king, which seeks to override Frodo’s individual will and force a "revelation" of the Ring at the very threshold of the Enemy’s power.
+- **C.** Evidence that the "corrupt light" is actually a hallucination-inducing gas.
+- **D.** A sign that Frodo is becoming as "treacherous" as Gollum.
+- **E.** His belief that the Ring will actually help him cross the bridge safely.
 
 ---
 
-### Question 3 `[CIM/PIS]` `[Advanced]`
+### Question 3 `[CIM/ANT]` `[Advanced]`
 
-Frodo’s decision to reach for the "phial of Galadriel" instead of the Ring when confronted by the Wraith-lord represents:
+Sam’s decision to stay Frodo’s hand, saying "Master, master!" while "shaking like a leaf," reveals his role as:
 
-> **Relevant Passage:**
-> "It took his hand... [and] moved the hand inch by inch towards the chain upon his neck. Then his own will stirred; slowly it forced the hand back and set it to find another thing... the phial of Galadriel..."
-
-- **A.** A mistake caused by his confusion in the dark.
-- **B.** A supreme, internal act of "will" that actively chooses a source of unfallen, Elven light to counter the "outside" power of the Shadow, marking a decisive spiritual victory at the threshold of Mordor.
-- **C.** His belief that the phial is actually a more powerful weapon than the Ring.
-- **D.** A sign that the Ring is trying to protect itself from the Wraith-lord.
-- **E.** Evidence that Frodo has forgotten how to use the Ring.
+- **A.** A weak and frightened servant who is a liability to the mission.
+- **B.** The ultimate moral "anchor," whose simple, grounded loyalty provides the necessary external "shriek" of reality to break the Ring's hypnotic hold on Frodo’s mind.
+- **C.** Evidence that Sam is also being controlled by the Witch-king.
+- **D.** A tactical decision to prevent the Nazgûl from hearing them.
+- **E.** His desire to take the Ring for himself.
 
 ---
 
 ### Question 4 `[PIS/SCA]` `[Advanced]`
 
-Sam’s observation that the "Dawnless Day" is a "featureless, colourless gloom" that feels "stifling but not warm" highlights:
+The Witch-king’s "sudden halt" and his "piercing" look toward the hobbits’ hiding place, despite not seeing them, signifies:
 
 > **Relevant Passage:**
-> "Looking out from the covert he could see only a dun, shadowless world, fading slowly into a featureless, colourless gloom. It felt stifling but not warm."
+> "The Lord of the Nazgul halted... and he turned his head... piercing the shadows with his unseen eyes. ... A cold thought came to Frodo... He is searching for me!"
 
-- **A.** The high level of humidity in the Morgul Valley.
-- **B.** The spiritual and sensory "oppression" of Sauron’s sorcerous canopy, which removes the life-giving texture and "hope" of the day while maintaining a claustrophobic, "unnatural" weight on the air.
-- **C.** That Sam is losing his ability to distinguish between colors.
-- **D.** Evidence that the Orcs have started a very large barbecue.
-- **E.** A sign that the hobbits are entering a new, more comfortable dream-state.
+- **A.** Sauron’s high level of military discipline.
+- **B.** The spiritual "resonance" between the Ring and its Master’s primary agent, where the Witch-king "senses" the proximity of the "One" as a disturbance in the Unseen world, even when the "Seen" world remains hidden.
+- **C.** A sign that the Nazgûl are actually very good at playing hide-and-seek.
+- **D.** Evidence that the hobbits are making too much noise.
+- **E.** A plan to trick the hobbits into moving so they can be seen.
 
 ---
 
 ### Question 5 `[CIM/ANT]` `[Advanced]`
 
-The different characters of the two stairways—the "Straight Stair" (steep as a ladder) and the "Winding Stair" (crawling like a snake)—serve to:
+Frodo’s use of the Phial of Galadriel in the darkness of the stairs—feeling a "remembrance of light" that "quenched the shadow"—illustrates:
 
-> **Relevant Passage:**
-> "the stairway was almost as steep as a ladder... [then] the stairway did not delve into the mountain-side... the path like a snake wound to and fro across it."
-
-- **A.** Provide a detailed architectural guide for future climbers.
-- **B.** Manifest the physical and psychological "torture" of the ascent, where the landscape itself becomes a series of high-stakes, exhausting trials that strip the hobbits of their remaining strength.
-- **C.** Show that the Orcs were very bad at building stairs.
-- **D.** Suggest that the hobbits are actually getting smaller as they climb.
-- **E.** Provide a humorous contrast to the flat roads of the Shire.
+- **A.** His literal need for a better flashlight.
+- **B.** An act of spiritual "alignment," where the invocation of the West’s unfallen beauty provides a physical and psychological buffer against the "wraith-fear" of the Stairs.
+- **C.** Evidence that the Elves are using "Star-magic" to spy on the hobbits.
+- **D.** A sign that the Ring is "afraid" of the Phial.
+- **E.** His desire to attract the attention of the Orcs.
 
 ---
 
-### Question 6 `[CIM/PIS]` `[Advanced]`
+### Question 6 `[ACN/ANT]` `[Advanced]`
 
-Frodo’s feeling that "if once he could do that impossible thing... then somehow the errand would be accomplished" reveals:
+The description of the "Straight Stairs" and the "Winding Stairs" as "monstrous" and "climbing out of the world" emphasizes:
 
-> **Relevant Passage:**
-> "All his mind was bent on getting through or over this impenetrable wall and guard. If once he could do that impossible thing, then somehow the errand would be accomplished..."
-
-- **A.** His plan to stop the quest as soon as he reaches the top.
-- **B.** A psychological narrowing of focus, where the immediate, physical obstacle of the Ephel Duath has become a proxy for the entire Quest, allowing him to manage his despair by focusing on a single "impossible" task.
-- **C.** A sign that he is becoming overconfident.
-- **D.** Evidence that the Ring is helping him think more clearly.
-- **E.** His belief that the Black Tower is actually the end of the road.
+- **A.** The poor civil engineering standards of ancient Gondor.
+- **B.** The transition into a "High" mythic geography where the physical world is replaced by a landscape of symbolic and vertical trial, characterizing the journey as an ascent toward a final, spiritual "Doom."
+- **C.** Evidence that the hobbits are losing their sense of scale.
+- **D.** A plan to make the journey as long and boring as possible for the reader.
+- **E.** A humorous comparison to the stairs of Bag End.
 
 ---
 
-### Question 7 `[ANT/PIS]` `[Advanced]`
+### Question 7 `[CIM/PIS]` `[Advanced]`
 
-Sam’s realization that they are "in the same tale still" when he connects the light of the phial to Beren and the Silmarils signifies:
+The "fleeting moment" where Gollum looks like an "old weary hobbit" and touches Frodo with "almost a caress" reveals:
 
 > **Relevant Passage:**
-> "'...Beren now... why, sir, I never thought of that before! We've got - you've got some of the light of it in that star-glass... Why, to think of it, we're in the same tale still!'"
+> "A strange expression passed over his lean hungry face. ... he came back, and slowly putting out a trembling hand... touched Frodo's knee - but almost the touch was a caress."
 
-- **A.** Sam’s confusion between fiction and reality.
-- **B.** A moment of profound, mythic self-awareness, where Sam identifies their immediate suffering as a continuation of the world’s ancient, heroic narrative, dignifying their struggle through historical continuity.
-- **C.** A sign that Sam is getting bored with the current "tale."
-- **D.** Evidence that Sam is a better historian than Frodo.
-- **E.** His hope that they will meet Beren at the top of the stairs.
+- **A.** Gollum’s plan to poison Frodo through physical contact.
+- **B.** The final, tragic eruption of the original "Smeagol" soul, manifesting as a near-redemptive impulse of kinship and pity before it is permanently extinguished by Sam’s suspicion.
+- **C.** Evidence that Gollum is becoming a better guide through friendship.
+- **D.** A sign that Gollum is suffering from a literal physical seizure.
+- **E.** His desire to steal the hobbits' food while they are sleeping.
 
 ---
 
 ### Question 8 `[CIM/ANT]` `[Advanced]`
 
-Frodo’s "long clear laugh" in response to Sam’s talk of future stories is described as a sound "not heard in those places since Sauron came." This laugh represents:
+Sam’s "rough" intervention—calling Gollum a "sneak"—characterizes the "simple" heroism of the Shire as:
 
 > **Relevant Passage:**
-> "'It's saying a lot too much,' said Frodo, and he laughed, a long clear laugh from his heart. Such a sound had not been heard in those places since Sauron came... To Sam suddenly it seemed as if all the stones were listening..."
+> "'No food, no rest, nothing for Smeagol. He's a sneak.' ... 'Smeagol has to take what's given him,' answered Gollum. ... The fleeting moment had passed, beyond recall."
 
-- **A.** Frodo’s lack of respect for the seriousness of the situation.
-- **B.** A radical, momentary restoration of unfallen joy that acts as a spiritual "exorcism" of the valley’s gloom, asserting the survival of the hobbitic spirit even at the threshold of hell.
-- **C.** A sign that Frodo is losing his mind due to the "Shadow."
-- **D.** A way to signal the Orcs that they are happy.
-- **E.** Evidence that the air in the high places is making them light-headed.
+- **A.** A sign of Sam’s inherent cruelty and his desire to bully the weak.
+- **B.** A tragic limitation of the "common sense" perspective, which protects the hero through suspicion but also inadvertently seals the fate of the "wretched" by refusing to believe in the possibility of their redemption.
+- **C.** Evidence that Sam is actually more evil than Gollum.
+- **D.** A plan to make Gollum so angry that he leads them into a trap.
+- **E.** His belief that "sneak" is a term of endearment in the Shire.
 
 ---
 
-### Question 9 `[CIM/ANT]` `[Advanced]`
+### Question 9 `[PIS/SCA]` `[Advanced]`
 
-The "fleeting moment" where Gollum looks like an "old weary hobbit" and touches Frodo with a look that was "almost... a caress" suggests:
+Gollum’s response to Sam—"Smeagol has to take what's given him"—marks his final transition into:
 
-> **Relevant Passage:**
-> "A strange expression passed over his lean hungry face. ... he turned away, peering back up towards the pass... Then he came back, and slowly putting out a trembling hand... touched Frodo's knee - but almost the touch was a caress."
-
-- **A.** Gollum’s plan to strangle Frodo in his sleep.
-- **B.** The brief, final eruption of the original "Smeagol" soul, manifesting as a poignant, near-redemptive impulse of kinship and pity before it is permanently extinguished by the "green glint" of his corruption.
-- **C.** That Gollum is actually a very good person.
-- **D.** A sign that Gollum is losing his memory.
-- **E.** Evidence that the hobbits are having a shared hallucination.
+- **A.** A state of "Higher" humility and acceptance of his role as a servant.
+- **B.** The definitive, "black" identity of the victim-turned-villain, where the perceived "betrayal" by the "nice hobbits" justifies his own upcoming treachery as a form of self-defense.
+- **C.** Evidence that Gollum has finally found a better brand of fish.
+- **D.** A sign that Gollum is becoming a professional philosopher of despair.
+- **E.** His hope that the "Great" will eventually recognize his value.
 
 ---
 
-### Question 10 `[CIM/PIS]` `[Advanced]`
+### Question 10 `[CIM/SCA]` `[Advanced]`
 
-Gollum’s reaction to being called a "sneak" by Sam—saying he "has to take what's given him" and retreating into his "old manner"—marks:
+Frodo’s sleeping face, which Sam sees as "beautiful" and "shining with a light from within," reinforces the theme of:
 
-> **Relevant Passage:**
-> "'No food, no rest, nothing for Smeagol. He's a sneak.' ... 'Smeagol has to take what's given him,' answered Gollum. ... Sam's words... had been too much. ... The fleeting moment had passed, beyond recall."
-
-- **A.** Sam’s failure to be a more supportive friend.
-- **B.** The tragic "sealing" of Gollum’s fate, where a moment of potential connection is shattered by a lack of trust and a sharp word, forcing the creature back into the defensive, malicious identity of "Stinker."
-- **C.** A sign that Gollum is becoming a better guide.
-- **D.** Evidence that Sam is actually more evil than Gollum.
-- **E.** His belief that "sneak" is actually a very high-noble title.
+- **A.** The high quality of the soap available in Gondor.
+- **B.** The "transfiguration" of the Bearer, where the internal spiritual struggle has refined the physical body into a vessel of un-Shadowed nobility, marking him as a figure of mythic stature.
+- **C.** Evidence that Frodo is actually an Elf in disguise.
+- **D.** A sign that the Ring is "glowing" through his skin.
+- **E.** Sam’s own hallucinations caused by the "Morgul-light."

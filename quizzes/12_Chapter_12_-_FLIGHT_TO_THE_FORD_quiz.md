@@ -13,11 +13,11 @@ Strider’s explanation for why the Black Riders did not attack again immediatel
 > **Relevant Passage:**
 > "'They are only waiting, because they think that their purpose is almost accomplished, and that the Ring cannot fly much further. I fear, Sam, that they believe your master has a deadly wound that will subdue him to their will.'"
 
-- **A.** A dangerous warrior who has already been defeated.
-- **B.** A biological vessel for the Ring that is now undergoing an inevitable and predictable process of spiritual "wraithing."
-- **C.** A lucky thief who has finally run out of time.
-- **D.** A creature so insignificant that his death is of no concern to them.
-- **E.** A hostage they are keeping alive for Sauron to question.
+- **A.** A dangerous combatant whose morale has been broken by the Morgul-knife.
+- **B.** A biological vessel for the Ring undergoing an automated and predictable process of spiritual "wraithing."
+- **C.** A tactical asset being held in reserve for a future negotiation with Gandalf.
+- **D.** An insignificant obstacle whose physical death is the only desired outcome.
+- **E.** A "shadow-proxy" who will eventually lead them directly into the heart of Rivendell.
 
 ---
 
@@ -28,11 +28,11 @@ The "melting" and vanishing of the Morgul-knife blade in Strider’s hand primar
 > **Relevant Passage:**
 > "As Strider raised it they saw that near the end its edge was notched and the point was broken off. ... the blade seemed to melt, and vanished like a smoke in the air, leaving only the hilt in Strider's hand."
 
-- **A.** Show that the knife was made of low-quality materials.
-- **B.** Illustrate the supernatural, ephemeral, and purely malevolent nature of the Enemy’s weapons, which exist only to deliver their "poison" and then withdraw.
-- **C.** Suggest that Strider’s touch is powerful enough to destroy evil artifacts.
-- **D.** Indicate that the Black Riders are coming back to reclaim the hilt.
-- **E.** Provide a visual metaphor for Frodo’s own "fading" health.
+- **A.** Evidence that the workmanship of Mordor is physically inferior to Elven-steel.
+- **B.** Illustrate the supernatural, ephemeral nature of the Enemy’s tools, which exist only as vectors for spiritual "poison."
+- **C.** Signal that Strider’s inherent "King-power" is already actively purging evil artifacts.
+- **D.** Suggest that the knife is a sentient entity that has "fled" back to its master.
+- **E.** Provide a visual parallel to the "thinning" of Frodo’s own physical presence.
 
 ---
 
@@ -43,11 +43,11 @@ Frodo’s internal "reproach" for his "weakness of will" after learning the trut
 > **Relevant Passage:**
 > "He bitterly regretted his foolishness, and reproached himself for weakness of will; for he now perceived that in putting on the Ring he obeyed not his own desire but the commanding wish of his enemies."
 
-- **A.** A growing self-awareness of the Ring’s psychological mechanics and a transition from naive victimhood to a more burdened and responsible agency.
-- **B.** His belief that Gandalf will be angry with him when they meet.
-- **C.** A sign that he is becoming as arrogant as the Black Riders.
-- **D.** His desire to give the Ring to Strider so he doesn't have to worry about it anymore.
-- **E.** A misunderstanding of Strider's explanation regarding the "poison."
+- **A.** A transition from naive victimhood to a burdened, self-aware agency that recognizes the spiritual nature of the conflict.
+- **B.** A fear that Gandalf will strip him of his status as Ring-bearer due to his failure.
+- **C.** A psychological defense mechanism intended to distance himself from the pain of the wound.
+- **D.** His belief that the Ring has already "won" the battle for his soul.
+- **E.** A growing resentment toward Strider for not preventing the use of the Ring.
 
 ---
 
@@ -58,11 +58,11 @@ Strider’s description of *Athelas* as a plant that "grows now sparsely and onl
 > **Relevant Passage:**
 > "'It is fortunate that I could find it, for it is a healing plant that the Men of the West brought to Middle-earth. ... it is not known in the North, except to some of those who wander in the Wild.'"
 
-- **A.** The Men of the West were very poor gardeners.
-- **B.** The physical landscape of Middle-earth is a living archive of a fallen civilization, where remnants of ancient nobility persist only in hidden, "wild" places.
-- **C.** Rivendell is the only place in the world where medicine is still understood.
-- **D.** The Black Riders are allergic to the scent of sweet and pungent herbs.
-- **E.** Strider is trying to boast about his superior botanical knowledge.
+- **A.** The Rangers are attempting to restore the ecological balance of Arnor through secret cultivation.
+- **B.** The landscape of Middle-earth functions as a living archive of a fallen civilization, where nobility persists in hidden, "wild" remnants.
+- **C.** The knowledge of medicine has become a "forbidden science" in the towns of the North.
+- **D.** The Black Riders have been systematically destroying any flora that could counteract their poisons.
+- **E.** Strider is using "lore" to distract the hobbits from their physical exhaustion.
 
 ---
 
@@ -73,11 +73,11 @@ The "single pale-green jewel" (beryl) found on the Last Bridge functions in the 
 > **Relevant Passage:**
 > "He held out his hand, and showed a single pale-green jewel. ... 'It is a beryl, an elf-stone. ... I will take it as a sign that we may pass the Bridge; but beyond that I dare not keep to the Road...'"
 
-- **A.** A valuable treasure that the hobbits can use to pay for food.
-- **B.** A beacon of "light" and Elven-presence in a "sombre" and "sullen" land, providing a moment of hope that counteracts the "ominous" ruins of the North Kingdom.
-- **C.** A tracking device left by the Black Riders to follow Strider.
-- **D.** Evidence that Gandalf was recently kidnapped on the Bridge.
-- **E.** A sign that the trolls have been hoarding jewelry.
+- **A.** A material bribe intended to secure the hobbits' passage through troll-territory.
+- **B.** A beacon of Elven-presence and "light" that provides a spiritual counterpoint to the "ominous" and "sullen" ruins of the region.
+- **C.** A tracking device that allows the "Riders in the Night" to follow Strider’s movements.
+- **D.** A sign that the "High Kingdom" of the North is being magically rebuilt.
+- **E.** Evidence that Gandalf was taken prisoner at the Bridge and dropped a token.
 
 ---
 
@@ -88,11 +88,11 @@ Strider’s refusal to sit in peace "even in the fair house of Elrond" primarily
 > **Relevant Passage:**
 > "'Have you often been to Rivendell?' said Frodo. 'I have,' said Strider. 'I dwelt there once, and still I return when I may. There my heart is; but it is not my fate to sit in peace...'"
 
-- **A.** A deliberate choice to seek out danger for the sake of adventure.
-- **B.** A life defined by duty and a "fate" that requires the sacrifice of personal happiness and sanctuary for the sake of a wider, ongoing struggle.
-- **C.** A sign that he is unwelcome in Rivendell because of his "rascally" appearance.
-- **D.** Evidence that he is actually looking for his lost family in the Ettendales.
-- **E.** His belief that Rivendell is not as safe as the Elves claim.
+- **A.** A restless search for "adventure" that makes him unable to appreciate domestic comfort.
+- **B.** A life defined by an ancestral "fate" that demands the sacrifice of personal sanctuary for the sake of an unacknowledged guardianship.
+- **C.** A sign that he feels inferior to the Elven-lords and prefers the company of "wild" things.
+- **D.** Evidence that he is being "driven" by a secret oath to destroy the Black Riders at any cost.
+- **E.** His belief that Rivendell’s "peace" is a dangerous illusion that makes its inhabitants soft.
 
 ---
 
@@ -103,11 +103,11 @@ Frodo’s perception of the world becoming "ghostly grey" and his welcoming of t
 > **Relevant Passage:**
 > "Frodo's pain had redoubled, and during the day things about him faded to shadows of ghostly grey. He almost welcomed the coming of night, for then the world seemed less pale and empty."
 
-- **A.** Frodo is becoming more comfortable with the dark because he is tired of the sun.
-- **B.** The Morgul-wound is fundamentally altering his sensory perception, drawing him out of the "world of light" and into the "twilight" realm of the Wraiths.
-- **C.** Frodo believes the Black Riders cannot see him at night.
-- **D.** He is simply exhausted and wants to go to sleep.
-- **E.** The Ring is helping him see more clearly in the dark.
+- **A.** He is developing a "nocturnal" hunter's instinct similar to the Rangers.
+- **B.** The Morgul-wound is fundamentally shifting his alignment toward the "twilight" realm of the Wraiths, where the Shadow is the only reality.
+- **C.** He is subconsciously using the night to hide his "transparency" from his friends.
+- **D.** The Ring is granting him "power" to see through the deceptions of the sunlight.
+- **E.** He is suffering from a sensory deprivation that makes him fear any form of vivid color.
 
 ---
 
@@ -118,11 +118,11 @@ The discovery of the stone trolls from Bilbo's story serves a narrative purpose 
 > **Relevant Passage:**
 > "Frodo laughed. 'Well!' he said. 'We are forgetting our family history! These must be the very three that were caught by Gandalf...'"
 
-- **A.** Providing a humorous and nostalgic "full circle" moment that validates Bilbo's legends while offering a brief, morale-boosting respite for the characters.
-- **B.** Warning the hobbits that they are about to be eaten by live trolls.
-- **C.** Proving that Gandalf is a much more powerful wizard than Strider.
-- **D.** Showing that the path they are on is a "museum" of past failures.
-- **E.** Indicating that they have accidentally crossed back into the Shire.
+- **A.** Validating the "small" legends of the past to provide a vital, morale-boosting bridge between childhood tales and the current epic struggle.
+- **B.** Warning the characters that the "wild" is reclaiming the landmarks of the Shire.
+- **C.** Showing that Gandalf’s magic is "static" and leaves permanent, unchangeable marks on the world.
+- **D.** Demonstrating that the "Enemy" has been present in the North for much longer than the hobbits realized.
+- **E.** Providing a moment of "absurdist" comedy to distract from the reality of Frodo’s wound.
 
 ---
 
@@ -130,14 +130,11 @@ The discovery of the stone trolls from Bilbo's story serves a narrative purpose 
 
 Frodo’s "strange reluctance" to ride forward at the Ford and his feeling that the Riders were "silently commanding him to wait" illustrate:
 
-> **Relevant Passage:**
-> "He did not obey at once, for a strange reluctance seized him. ... Suddenly he knew in his heart that they were silently commanding him to wait. Then at once fear and hatred awoke in him."
-
-- **A.** Frodo’s lack of physical strength to hold the bridle.
-- **B.** The final, direct confrontation between Frodo’s will and the psychic "command" of the Nine, showing the extreme spiritual pressure exerted by the Enemy at the threshold of safety.
-- **C.** His belief that he should wait for his friends to catch up.
-- **D.** A sign that the elf-horse Asfaloth is actually a spy for the Riders.
-- **E.** Frodo’s realization that he has forgotten his sword on the other side of the river.
+- **A.** A lack of physical coordination caused by the "poison" affecting his motor skills.
+- **B.** The final, direct confrontation between Frodo’s internal will and the external "command" of the Nine at the threshold of safety.
+- **C.** His suspicion that the river Bruinen is actually a trap set by Elrond.
+- **D.** A desire to surrender so that he can finally be free of the Ring’s weight.
+- **E.** A sign that he has become "addicted" to the presence of the Wraiths.
 
 ---
 
@@ -148,8 +145,8 @@ The "plumed cavalry of waves" and the "white riders upon white horses" that swee
 > **Relevant Passage:**
 > "Dimly Frodo saw the river below him rise, and down along its course there came a plumed cavalry of waves. White flames seemed to Frodo to flicker on their crests..."
 
-- **A.** A natural flood caused by the recent heavy rain in the hills.
-- **B.** The active, protective agency of the Elven-lords (Elrond and Gandalf), who can command the elements of the natural world to defend the borders of their sanctuary.
-- **C.** A visual hallucination caused by Frodo’s "failing senses."
-- **D.** The arrival of the Eagles to rescue Frodo once again.
-- **E.** A sign that the river itself is sentient and hates the Black Riders.
+- **A.** A purely natural flood event that the Elves have "mythologized" through storytelling.
+- **B.** The active, elemental protection of the Elven-sanctuary, where the environment itself acts as a moral and physical barrier to evil.
+- **C.** A psychological hallucination projected by the Ring to trick Frodo into thinking he is safe.
+- **D.** The literal arrival of the "Host of the West" from across the Sea.
+- **E.** A sign that the river has been corrupted by the "Black Breath" and is lashing out.

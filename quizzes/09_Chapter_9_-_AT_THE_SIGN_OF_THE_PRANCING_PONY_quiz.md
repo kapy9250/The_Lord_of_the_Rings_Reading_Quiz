@@ -13,11 +13,11 @@ The description of Bree as a place where Men and Hobbits live together in a "pec
 > **Relevant Passage:**
 > "The Big Folk and the Little Folk... were on friendly terms... both rightly regarding themselves as necessary parts of the Bree-folk. Nowhere else in the world was this peculiar (but excellent) arrangement to be found."
 
-- **A.** Criticize the Shire for its exclusionary and isolationist policies toward other races.
-- **B.** Establish Bree as a rare model of cross-cultural integration and mutual dependence, contrasting with the more segregated societies found elsewhere.
-- **C.** Suggest that the Men of Bree are actually just very tall hobbits.
-- **D.** Explain why the Black Riders chose Bree as their primary base of operations.
-- **E.** Provide a humorous example of how small-town politics work in Middle-earth.
+- **A.** Implicitly critique the Shire’s isolationism by presenting Bree as a more "civilized" and integrated alternative.
+- **B.** Establish Bree as a rare model of cross-cultural symbiosis, emphasizing that its peace is an anomaly in a world of growing segregation.
+- **C.** Suggest that the proximity of Men has caused the Bree-hobbits to lose their "authentic" Shire-born instincts.
+- **D.** Explain why the "Outsiders" from the south found it so easy to infiltrate the town’s social structure.
+- **E.** Highlight the narrator’s bias toward the "Little Folk" as the true intellectual heart of any mixed community.
 
 ---
 
@@ -28,11 +28,11 @@ Sam’s reaction to the "tall houses" and his feeling that his "heart sink" upon
 > **Relevant Passage:**
 > "Sam stared up at the inn with its three storeys and many windows, and felt his heart sink. ... he was finding his first sight of Men and their tall houses quite enough, indeed too much for the dark end of a tiring day."
 
-- **A.** His literal fear of heights and architectural complexity.
-- **B.** A profound culture shock and a realization of the intimidating scale of the world outside the "tame" and diminutive Shire.
-- **C.** His suspicion that the innkeeper is charging too much for the rooms.
-- **D.** Annoyance that he has to carry the heavy packs up three storeys of stairs.
-- **E.** A belief that the "Big Folk" are naturally more evil than the "Little Folk."
+- **A.** A fear of height and structural instability common to those who live in holes.
+- **B.** A profound psychological displacement, where the intimidating scale of human architecture signals the end of his "tame" world.
+- **C.** A tactical suspicion that an inn with "many windows" is impossible to defend against a midnight raid.
+- **D.** Resentment toward Bilbo for leading him into a world that is aesthetically "un-hobbit-like."
+- **E.** An instinctive belief that "Big Folk" build large structures to overawe and dominate the "Little Folk."
 
 ---
 
@@ -43,11 +43,11 @@ Barliman Butterbur’s "endless stream of talk" and his constant tapping of his 
 > **Relevant Passage:**
 > "'Well now, what was I going to say?' said Mr. Butterbur, tapping his forehead. 'One thing drives out another, so to speak. I'm that busy tonight, my head is going round. ... It's hard work for two legs, but I don't get thinner.'"
 
-- **A.** A calculated facade of incompetence designed to hide his intelligence.
-- **B.** An overwhelmed but fundamentally well-meaning individual whose mind is a chaotic reflection of the busy "meeting of ways" that he manages.
-- **C.** A sign that he is suffering from early-onset memory loss caused by too much beer.
-- **D.** A distraction tactic to keep the hobbits from noticing the spies in his common-room.
-- **E.** Evidence that he is being controlled by a wizard who is erasing his memories.
+- **A.** A calculated performance of scatterbrained behavior intended to disarm suspicious travellers.
+- **B.** An overwhelmed but fundamentally well-meaning individual whose mind is a chaotic reflection of the busy "crossroads" he manages.
+- **C.** A sign that the influx of "queer folk" is causing a genuine psychological breakdown in the local population.
+- **D.** A narrative device used to contrast the "busy-ness" of the world of Men with the "steadiness" of the Rangers.
+- **E.** Evidence that Butterbur is being subconsciously manipulated by the "shadow" to forget important messages.
 
 ---
 
@@ -58,11 +58,11 @@ The introduction of Strider—sitting in the shadows, mud-caked boots, and "keen
 > **Relevant Passage:**
 > "Suddenly Frodo noticed that a strange-looking weather-beaten man, sitting in the shadows near the wall, was also listening intently to the hobbit-talk. ... in a pale stern face a pair of keen grey eyes."
 
-- **A.** Introduce a secondary antagonist who will compete with the Black Riders for the Ring.
-- **B.** Create a sense of ambiguous threat and expertise, contrasting the "weather-beaten" reality of the Wild with the naive cheerfulness of Pippin and Sam.
-- **C.** Provide a romantic interest for the Shire-hobbits to admire.
-- **D.** Show that the inn is poorly lit and needs more lamps.
-- **E.** Hint that the Rangers are actually working for the "squint-eyed southerner."
+- **A.** Provide a visual parallel to the Black Riders, suggesting that "good" can be as unsettling as "evil."
+- **B.** Create a sense of ambiguous threat and superior competence, contrasting the harsh reality of the Wild with the hobbits' naive cheerfulness.
+- **C.** Foreshadow that the Rangers of the North are actually a fallen and untrustworthy remnant of a dead kingdom.
+- **D.** Signal a shift in the genre from "adventure" to "espionage" by introducing a character whose primary tool is observation.
+- **E.** Suggest that Frodo’s "Baggins-sense" is failing him, as he finds the man "strange" rather than "fair."
 
 ---
 
@@ -73,11 +73,11 @@ Strider’s warning to Frodo ("stop your young friends from talking too much") r
 > **Relevant Passage:**
 > "'Well, Master Underhill,' said Strider, 'if I were you, I should stop your young friends from talking too much. Drink, fire, and chance-meeting are pleasant enough, but, well - this isn't the Shire.'"
 
-- **A.** The financial cost of the ale being consumed by Pippin.
-- **B.** The danger of the hobbits' parochial innocence exposing them to the sophisticated and malevolent surveillance present in Bree.
-- **C.** His own desire to be the center of attention in the common-room.
-- **D.** A belief that hobbits are naturally too loud and annoying for Men.
-- **E.** A fear that Pippin will accidentally reveal Strider's true identity.
+- **A.** The social embarrassment caused by Pippin’s loud and unrefined "Shire-talk."
+- **B.** The danger of the hobbits' parochial innocence exposing them to the sophisticated surveillance present in Bree.
+- **C.** His own professional reputation, which would be ruined if his association with "vanishing hobbits" became public.
+- **D.** A belief that the "Bree-folk" are inherently treacherous and are only waiting for a slip of the tongue.
+- **E.** A tactical fear that Gandalf’s name will be used as a "joke" by the common-room crowd.
 
 ---
 
@@ -88,11 +88,11 @@ Frodo’s decision to jump on the table and speak "a few suitable words" is moti
 > **Relevant Passage:**
 > "Frodo was annoyed. ... It would bring the name of Baggins to their minds... 'You had better do something quick!' whispered Strider in his ear. Frodo jumped up and stood on a table, and began to talk."
 
-- **A.** A sudden desire for public validation and applause.
-- **B.** A desperate, social "diversion" intended to stop Pippin from revealing the catastrophic truth of Bilbo’s disappearance.
-- **C.** His belief that he is a better public speaker than Pippin.
-- **D.** The influence of the Ring, which wants him to be noticed by the whole room.
-- **E.** A need to explain his "Underhill" alias to the Bree-hobbits.
+- **A.** A sudden, uncontrollable impulse triggered by the Ring’s desire for a public spectacle.
+- **B.** A desperate, social "diversion" intended to stop Pippin from revealing the catastrophic truth of Bilbo’s departure.
+- **C.** A need to assert his authority as the "Master" of the group in front of the Big Folk.
+- **D.** A belief that his "Underhill" alias can only be maintained through active, performative charm.
+- **E.** A realization that the Bree-hobbits will only trust a stranger who can provide them with entertainment.
 
 ---
 
@@ -103,11 +103,11 @@ The "desire to slip on the Ring" that comes over Frodo while he is on the table,
 > **Relevant Passage:**
 > "Quite unaccountably the desire came over him to slip it on and vanish... It seemed to him, somehow, as if the suggestion came to him from outside, from someone or something in the room."
 
-- **A.** Frodo is suffering from stage fright and wants to hide.
-- **B.** The Ring is sensitive to the presence of external malevolence or surveillance and is attempting to "reveal" itself to its master’s agents.
-- **C.** Strider is using magic to force Frodo to use the Ring.
-- **D.** The "wine-like" water from Tom Bombadil is having a delayed effect.
-- **E.** Frodo has forgotten Gandalf’s advice because of the noise in the room.
+- **A.** A temporary lapse in resolve caused by the social pressure of the "staring faces."
+- **B.** The Ring’s sensitivity to external malevolence and its attempt to "reveal" its location to the master’s agents through a staged "accident."
+- **C.** That Strider is using a form of "Ranger-magic" to force Frodo into a situation where his secret must be told.
+- **D.** A symptom of the "Black Breath" which has already begun to affect Frodo's internal monologue.
+- **E.** An ironic twist where Frodo’s "secret" becomes his own greatest temptation to show off.
 
 ---
 
@@ -115,14 +115,11 @@ The "desire to slip on the Ring" that comes over Frodo while he is on the table,
 
 The inclusion of the full text of Bilbo’s "Man in the Moon" song serves primarily to:
 
-> **Relevant Passage:**
-> "_[There is an inn], a merry old inn... with a ping and a pong the fiddle-strings broke! the cow jumped over the Moon..._"
-
-- **A.** Provide a colorful example of hobbit folklore and Bilbo's specific linguistic creativity.
-- **B.** Signal to the reader that the narrative is about to transition into a fairytale.
-- **C.** Delay the plot to build tension for the upcoming disappearance.
-- **D.** Characterize the Bree-landers as being easily entertained by simple rhymes.
-- **E.** Show that Frodo is trying to mock the seriousness of his own quest.
+- **A.** Anchor the scene in the specific, whimsical culture of the Shire, making the subsequent "disappearance" more jarringly supernatural.
+- **B.** Demonstrate that the "common" folklore of Middle-earth is actually a secret language used by hobbits to identify each other.
+- **C.** Show that Bilbo’s linguistic genius was actually a byproduct of the Ring’s influence on his creativity.
+- **D.** Provide a moment of "filler" to allow the Black Riders time to reach the inn.
+- **E.** Portray the Bree-landers as a population that values "nonsense" over the "high tales" of the Rangers.
 
 ---
 
@@ -133,11 +130,11 @@ Frodo’s feeling of being a "fool" after his disappearance and his suspicion of
 > **Relevant Passage:**
 > "Frodo felt a fool. ... He began to suspect even old Butterbur's fat face of concealing dark designs."
 
-- **A.** A growing paranoia and loss of social trust caused by the combination of the Ring’s influence and the genuine danger of his situation.
-- **B.** His realization that he is not as good a singer as he thought.
-- **C.** His anger at Strider for not helping him when he fell.
-- **D.** A belief that Butterbur is secretly a Black Rider in disguise.
-- **E.** His embarrassment at having broken the landlord's "crocks."
+- **A.** A growing paranoia and loss of social trust caused by the combination of the Ring’s influence and extreme psychological stress.
+- **B.** His frustration that his "vanishing trick" did not receive the same applause as Bilbo’s did.
+- **C.** A rational conclusion that any "friendly" face in Bree is likely a deceptive mask for a spy.
+- **D.** His anger at the Ring for "failing" to hide him effectively from the swarthy Men.
+- **E.** A sign that he is already beginning to regret his decision to trust Strider.
 
 ---
 
@@ -148,8 +145,8 @@ The departure of the "swarthy Bree-lander" and the "squint-eyed southerner" imme
 > **Relevant Passage:**
 > "But there was one swarthy Bree-lander, who stood looking at them with a knowing and half-mocking expression... Presently he slipped out of the door, followed by the squint-eyed southerner..."
 
-- **A.** That they were bored with the entertainment and wanted to find another inn.
-- **B.** That they have recognized the "magical" nature of the event and are moving to report it to their masters (the Black Riders).
-- **C.** That they are afraid of Frodo’s "travelling magician" powers.
-- **D.** That they are planning a prank to play on Sam and Pippin.
-- **E.** That they were the ones who actually tripped Frodo and caused his fall.
+- **A.** Their boredom with the "silly" hobbit-talk and their desire to find a more "adult" tavern.
+- **B.** Their recognition of the Ring’s specific signature and their focused mission to report this "proof" to their masters.
+- **C.** A tactical retreat, fearing that the "magician" hobbit will use his powers against them.
+- **D.** Evidence that the "peculiar arrangement" of Bree is already being dismantled by outside agents.
+- **E.** A plan to ambush the hobbits in the hallway before they can reach their rooms.

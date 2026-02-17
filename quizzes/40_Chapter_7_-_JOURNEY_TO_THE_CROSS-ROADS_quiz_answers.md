@@ -6,165 +6,123 @@
 
 | # | Answer | Dimension | Difficulty |
 |---|--------|-----------|------------|
-| 1 | B | PIS/SCA | Advanced |
+| 1 | B | ACN/ANT | Advanced |
 | 2 | B | CIM/ANT | Advanced |
-| 3 | B | CIM/SCA | Advanced |
-| 4 | B | ACN/ANT | Advanced |
-| 5 | B | CIM/PIS | Advanced |
+| 3 | B | PIS/SCA | Advanced |
+| 4 | B | CIM/ANT | Advanced |
+| 5 | B | PIS/SCA | Advanced |
 | 6 | B | CIM/ANT | Advanced |
-| 7 | B | PIS/SCA | Advanced |
-| 8 | B | CIM/PIS | Advanced |
-| 9 | B | ACN/SCA | Advanced |
-| 10 | B | CIM/SCA | Advanced |
+| 7 | B | ACN/SCA | Advanced |
+| 8 | B | CIM/SCA | Advanced |
+| 9 | B | PIS/SCA | Advanced |
+| 10 | B | CIM/ANT | Advanced |
 
 ---
 
-### Question 1 `[PIS/SCA]` `[Advanced]`
+### Question 1 `[ACN/ANT]` `[Advanced]`
 
-**Faramir’s warning about the "waiting silence" above the Nameless Land suggests that:**
+**The description of the "Dawnless Day" serves to:**
 
-**Correct Answer: B. A state of high-level military and supernatural preparation is underway, where the lack of overt activity signals the "calm before the storm" of a massive, pre-planned offensive by the Enemy.**
+**Correct Answer: B. Physically and symbolically manifest the "total" nature of Sauron's reach, where the erasure of light acts as a psychological weapon intended to stifle the soul’s capacity for hope.**
 
 **Why this is correct:**
-Faramir notes that his scouts find the land "empty" and the roads silent. He interprets this not as peace, but as a "portend" of a "great conclusion." This "waiting silence" characterizes Sauron's strength as one that is coordinated and imminent. The "storm is coming" metaphor reinforces the idea that the silence is a deliberate part of the Enemy's timing for a final, overwhelming strike.
-
-**Why E is incorrect** `[AM]`:
-Faramir's tone is one of gravity and urgency ("Hasten while you may!"). He views the silence as a "dreadful" sign of the "time [drawing] swiftly" to a potentially catastrophic climax.
+The "odour of cold decay" and the "grey light" characterize Mordor’s onset as an atmospheric poison. This isn't just bad weather; it’s the "first touch" of the land of Shadow. It erases the natural cycles of the world, replacing them with a singular, oppressive reality that mirrors the "suffocating" nature of Sauron’s will.
 
 ---
 
 ### Question 2 `[CIM/ANT]` `[Advanced]`
 
-**Frodo’s response to Elrond’s advice—that finding Faramir "turns evil to great good"—reveals his:**
+**Frodo’s "strange reluctance" to leave Ithilien indicates:**
 
-**Correct Answer: B. Recognition of the "providential" nature of his setbacks, where the "evil" of his capture by the Rangers resulted in the "good" of Faramir’s counsel and aid, validating a belief in an unseen ordering of the world.**
+**Correct Answer: B. The tragic awareness of his own "diminishing" state, where the beauty of the un-Shadowed world is experienced as a painful reminder of the "High" life he is currently sacrificing.**
 
 **Why this is correct:**
-Frodo explicitly links the event to Elrond's earlier prediction. This reflects a recurring theme: the "chance" meetings are not random but part of an "unlooked for" design. Frodo's ability to see the "good" within the "evil" of his arrest shows his spiritual resilience and his alignment with the "High" wisdom that accepts the unfolding path of the Quest.
-
-**Why A is incorrect** `[SL]`:
-While Faramir is a better guide, the quote is specifically about the *moral and providential* significance of the encounter ("turns evil to great good"), rather than a simple tactical comparison of Faramir and Gollum.
+Frodo says "I shall not see this fair land again." His reluctance is a sign of his deep aesthetic and moral love for the "Light" he is defending. His feeling of "peace in the shadows" is a somber realization: as he moves closer to Mordor, the beauty of Ithilien becomes a source of "anguish" because he knows it belongs to a world he is being forced to leave forever.
 
 ---
 
-### Question 3 `[CIM/SCA]` `[Advanced]`
+### Question 3 `[PIS/SCA]` `[Advanced]`
 
-**Gollum’s "joking" response to Frodo’s rebuke ("Smeagol was only joking. Always forgives...") characterizes his behavior as:**
+**Gollum’s distress at the "Cross-roads" reveals:**
 
-**Correct Answer: B. A form of manipulative, psychological "gaslighting" where he uses performative friendliness and the language of forgiveness to deflect legitimate moral criticism and maintain his "mask" of submission.**
+**Correct Answer: B. An ontological dread of the un-corrupted human authority represented by the "Stone-folk," whose "sight" (even in stone) acts as a spiritual judgment on his own "sneaking" and fragmented nature.**
 
 **Why this is correct:**
-Gollum was just "scrabbling in the mould" and speaking ill of the Rangers. When Frodo rebukes him, he immediately pivots to "Nice Master!" and claims he was "only joking." His use of "Always forgives" is particularly ironic, as it reverses the power dynamic, suggesting *he* is the one being merciful. This is a classic defensive tactic to avoid further consequences while staying close to the "Precious."
-
-**Why C is incorrect** `[AM]`:
-The text notes that Frodo and Sam "did not answer" and that Sam felt "suspicion" later in the chapter. Gollum's behavior is presented as an unreliable performance ("Slinker") rather than a genuine moral transformation.
+Gollum wails "They see us!" while looking at the statues of the ancient kings. This emphasizes his "Wraith-like" guilt. To a creature who exists through "sneaking" and "betrayal," the stony, unblinking eyes of ancient human dignity are an intolerable moral pressure. He fears their "judgment" because he has lost his own place in the human/hobbit order.
 
 ---
 
-### Question 4 `[ACN/ANT]` `[Advanced]`
+### Question 4 `[CIM/ANT]` `[Advanced]`
 
-**The "stifling" and "heavy" air in the forest, and the feeling that "thunder was brewing," serves to:**
+**Sam’s observation regarding the "heavy blanket" illustrates:**
 
-**Correct Answer: B. Physically manifest the atmospheric and psychological pressure of the approaching conflict, where the environment itself feels "oppressed" by the mounting power of the Shadow.**
+**Correct Answer: B. The "numbing" effect of the Enemy's direct psychological pressure, which seeks to erase the individual’s internal intellectual and imaginative vitality before the actual battle begins.**
 
 **Why this is correct:**
-The "heaviness" and "stifling" quality of the air mirror the hobbits' own internal state of "weariness" and "dread." The weather is acting as a narrative "pathetic fallacy," where the physical world reflects the moral and military "tension" of the "last stage" of the Quest. It heightens the reader's sense of an inescapable and mounting crisis.
-
-**Why E is incorrect** `[AM]`:
-The environment is described as "silent," "forsaken," and "evil," the opposite of peaceful. The birds have "flown away or... fallen dumb," indicating an atmosphere of extreme tension and threat.
+The "Shadow" is described as something that "weighs down the heart" and makes the "head feel empty." This is tactical despair. By stripping Sam of his "Shire-vitality" and his ability to think clearly, the Shadow attempts to reduce him to a state of mindless "crawling," proving that Mordor’s primary weapon is the destruction of the mind’s resilience.
 
 ---
 
-### Question 5 `[CIM/PIS]` `[Advanced]`
+### Question 5 `[PIS/SCA]` `[Advanced]`
 
-**Frodo’s shudder at the "voice" of the Morgulduin river ("cold and cruel") indicates that his perception is now tuned to:**
+**The transition of the landscape into a vessel of malice represents:**
 
-**Correct Answer: B. The spiritual "pollution" of the landscape, where he can now detect the malevolent and "wraith-like" quality of things that have been corrupted by proximity to Minas Morgul.**
+**Correct Answer: B. A colonizing act of desecration, where the linguistic and symbolic presence of the Enemy "over-writes" the historical dignity of the West, turning the environment itself into a vessel of malice.**
 
 **Why this is correct:**
-The narrator explicitly calls it the "polluted stream that flowed from the Valley of the Wraiths." Frodo's "shudder" is a visceral reaction to this spiritual taint. His "sharpened" senses (as noted by Galadriel) allow him to perceive the "cold and cruel" character of the water, marking his entry into the "liminal" territory of the Enemy.
-
-**Why A is incorrect** `[SL]`:
-While the water is likely cold, the use of the word "cruel" and the context of the "Valley of the Wraiths" points toward a moral and spiritual quality rather than a simple physical measurement.
+The "marring" of the road-marks with "foul symbols" is a symbolic conquest. Sauron is not just taking territory; he is erasing the memory of Gondor. By replacing the "old characters" with the "mark of the Eye," he asserts that the land now speaks only his language of "fear and hatred."
 
 ---
 
 ### Question 6 `[CIM/ANT]` `[Advanced]`
 
-**Sam’s dream of the Bag End garden, which he finds "weedy and rank" and "invading," reveals:**
+**Frodo’s "quiet voice" and "distant eyes" characterize his state as:**
 
-**Correct Answer: B. The psychological "invasion" of his domestic sanctuary by the corruption he is witnessing in the wild, where even his most hopeful memories are being tainted by the reality of the Shadow's "over-growing."**
+**Correct Answer: B. A spiritual "narrowing," where the proximity of Mordor has forced his consciousness into a state of intense, inward-turning focus on the "burden," separating him from mundane conversation.**
 
 **Why this is correct:**
-Sam's "dream" is not a peaceful one. The weeds and thorns are "invading" the beds. This mirrors what he has seen in Ithilien and what he fears for the Shire. It shows that the "Shadow" is now present even in Sam's subconscious, making his former "job of work" feel like an exhausting struggle against a spreading decay.
-
-**Why A is incorrect** `[OI]`:
-There is no mention of the Gaffer in this dream; the focus is entirely on the *plants* and the "rank" nature of the weeds, symbolizing the encroachment of evil into his internal world.
+Frodo is described as being "in a dream." This is the effect of the Ring's "Mastery." He is no longer fully "present" in the material world because his spirit is occupied with the titanic struggle against the Ring's weight. This "distance" marks his final transition from "Master Underhill" into the solitary and tragic "Ring-bearer."
 
 ---
 
-### Question 7 `[PIS/SCA]` `[Advanced]`
+### Question 7 `[ACN/SCA]` `[Advanced]`
 
-**Frodo’s observation that "the day is getting darker instead of lighter" despite it being midday, signals:**
+**The "huge sitting figure" of the king symbolizes:**
 
-**Correct Answer: B. The unleashing of the "Dawnless Day"—a deliberate, sorcerous canopy of smoke and cloud from Mordor designed to protect Sauron's light-hating armies and demoralize his enemies.**
+**Correct Answer: B. The total, mocking victory of the Shadow over the High human past, where the representative of legitimate kingship is "de-capitated" and replaced by the grotesque and absolute sovereignty of the Eye.**
 
 **Why this is correct:**
-Frodo notes the day is "getting darker... darker and darker." He describes a "dull red glare" and "great vapours [that] rose in the East and crawled above them." This is the beginning of the "unnatural" night that will cover the world during the final assault on Minas Tirith. It signifies that Sauron has "shuttered" the sun to begin his war in the darkness.
-
-**Why A is incorrect** `[CC]`:
-A natural eclipse is brief; the text describes a persistent and increasing "colourless gloom" and "fume" that "crawled," indicating a man-made (or Sauron-made) environmental phenomenon.
+The "round rough-hewn stone" with the "red eye" is a literal replacement of human wisdom with Orcish mockery. This visual desecration summarizes the "Shadow’s" goal: to turn the "High" into the "Low" and to replace the dignity of the person with the singular, predatory "will" of the Eye.
 
 ---
 
-### Question 8 `[CIM/PIS]` `[Advanced]`
+### Question 8 `[CIM/SCA]` `[Advanced]`
 
-**Gollum’s frantic "no time to lose!" and his "frightened or excited" state upon returning to the hobbits suggest that:**
+**Frodo’s cry—"The king has got a crown again!"—signifies:**
 
-**Correct Answer: B. He has witnessed or sensed the "beginning of the end"—the mobilization of Sauron’s forces—and his "excitement" is a mixture of fear for his own life and a predatory anticipation of his plan's final stage.**
+**Correct Answer: B. A profound, defiant moment of "Eucatastrophe" in miniature, where the un-Great persistence of nature (the flowers) acts as a restorative force that reclamation the king’s dignity, validating Frodo’s faith.**
 
 **Why this is correct:**
-Gollum is "peering... with gleaming eyes" and is in a "tremendous hurry." He has likely seen the "Men of Harad" or other armies on the move. His urgency is two-fold: he needs to avoid the "Red Eye" that is now wide awake, and he needs to lead the hobbits toward the "other way" (Shelob’s lair) while the distraction of war provides him with an opportunity.
-
-**Why E is incorrect** `[SL]`:
-The text uses words like "frightened," "hiss," and "clawed," characterizing his state as one of intense, survival-based anxiety and focused malice rather than a random physiological burst of energy.
+The flowers are "white and golden." Their presence on the stone-head is a sign that the beauty of the world "honours" the king even when the Orcs mock him. For Frodo, this is a sign that the "Shadow" is not absolute. It provides the "heart's ease" needed to face the "black night" ahead, asserting the endurance of "Light" over "mockery."
 
 ---
 
-### Question 9 `[ACN/SCA]` `[Advanced]`
+### Question 9 `[PIS/SCA]` `[Advanced]`
 
-**The description of the "huge sitting figure" of the king, whose head has been replaced by a "grin-ning face with one large red eye," represents:**
+**The "ominous fire" of the sunset represents:**
 
-**Correct Answer: B. The systematic, "mocking" desecration of Gondor's noble past by the "maggot-folk," where the symbols of ancient human dignity are replaced by the grotesque and absolute sovereignty of the Eye.**
+**Correct Answer: B. A final, sacrificial "glint" of the world's original Light, providing a moment of visual and spiritual resistance that punctures the "absolute" gloom of the Shadow before the onset of the final night.**
 
 **Why this is correct:**
-The narrator uses the word "mockery" and "savage hands." The "grinning face" and the "red eye" are Orcish vandalism intended to humiliate the memory of the "Kings of Old." It visualizes the conflict as one of culture vs. anti-culture—where the Enemy seeks not just to defeat his opponents, but to defile and replace their history with his own "foul symbols."
-
-**Why E is incorrect** `[SL]`:
-While the statue is *at* the Cross-roads, the description focuses on its *state of desecration* and its symbolic meaning as a "fallen king," rather than its function as a navigational landmark.
+The sun "breaks through" for a moment before the "last night" falls. This "fire" is a symbol of the West’s unyielding nature. It characterizes the world as a place where the "Light" still fights to be seen, even in the heart of the Enemy’s "Darkness." It is a visual parallel to the Phial of Galadriel.
 
 ---
 
-### Question 10 `[CIM/SCA]` `[Advanced]`
+### Question 10 `[CIM/ANT]` `[Advanced]`
 
-**Frodo’s cry—"The king has got a crown again!"—at the sight of the flowered head of the statue, marks a moment of:**
+**Gollum’s "trembling" reveals:**
 
-**Correct Answer: B. A profound, defiant moment of hope, where the "un-Great" persistence of nature (the flowers) acts as a restorative and reverent force that reclamation the king's dignity, validating Frodo's faith in the eventual defeat of the Shadow.**
+**Correct Answer: B. The intense, biological and spiritual "terror" of a creature who has been broken by the Enemy before, where the physical location triggers a visceral memory of his previous "questioning."**
 
 **Why this is correct:**
-Frodo’s exclamation "They cannot conquer for ever!" is his final word before "black night fell." The "coronal of silver and gold" made of flowers is a sign that the beauty and life of the world still honor the "High" tradition of the past, even when Men cannot. This small, natural "crown" provides Frodo with the spiritual strength to enter the darkness of Mordor.
-
-**Why E is incorrect** `[PT]`:
-While the flowers are a "sign," they are a "trailing plant... with small white stars," distinct from the specific mythic "White Tree" of Gondor. The "crown" is a symbolic victory of nature over the Orcs' mockery.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 7 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 5 |
-| Pragmatic Implicature & Subtext (PIS) | 4 |
-| Situational & Contextual Awareness (SCA) | 5 |
-| Authorial Craft & Narrative Strategy (ACN) | 2 |
+Gollum knows the "way" because he has been dragged along it before. His "hissing" and "trembling" are signs of post-traumatic stress. He is "shaking" because he is entering the gravitational pull of the Master who "questioned" him. This underscores the horror of Mordor—it is a place of permanent spiritual scarring for those who have entered it.

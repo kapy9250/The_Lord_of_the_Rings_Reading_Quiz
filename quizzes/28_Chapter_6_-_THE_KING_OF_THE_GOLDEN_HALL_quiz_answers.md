@@ -21,150 +21,168 @@
 
 ### Question 1 `[SCA/ANT]` `[Advanced]`
 
-**Aragorn’s recitation of the poem "Where now the horse and the rider?" serves to:**
+**Aragorn’s recitation of the poem serves to:**
 
-**Correct Answer: B. Evoke the specific cultural "mood" of Rohan: a heroic but elegiac sensibility that recognizes the beauty of life while being profoundly aware of its transience and the inevitable "shadow" of time.**
+**Correct Answer: B. Evoke the specific cultural "mood" of Rohan: a heroic but elegiac sensibility that defines identity through the memory of transience and the inevitability of the "shadow."**
 
 **Why this is correct:**
-The poem (known as the *Lament for the Rohirrim*) is a classic of Anglo-Saxon-style poetry. It focuses on the loss of the physical world ("the horn," "the hauberk," "the corn"). By reciting it, Aragorn identifies Rohan as a culture that finds its highest expression in "song" and "memory" of past greatness, even as it faces its own "fading." It sets the tonal stage for the "resurrection" of Théoden.
+The poem focuses on the loss of the physical world ("the horse and the rider"). By reciting it, Aragorn identifies Rohan as a culture that finds its highest expression in "song" and "memory" of past greatness, even as it faces its own "fading." It sets the tonal stage for the "resurrection" of the King.
 
-**Why A is incorrect** `[AM]`:
-The text says "so men still sing in the evening," indicating that this elegiac focus is a core, living part of their identity rather than a failing. Aragorn uses the poem to *honor* their culture, not to criticize it.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that labels a core cultural value as a "failing."
+- **C** is a "Lore-Trap" about "secret spies."
+- **D** is a "Surface-Level Literalism" about the hall "physically vanishing."
+- **E** is an "Over-Interpretation" about "magically influencing gates."
 
 ---
 
 ### Question 2 `[CIM/ANT]` `[Advanced]`
 
-**The guard’s observation that Gandalf looks "old and weary... and yet you are fell and grim beneath" captures:**
+**The guard’s observation that Gandalf looks "fell and grim beneath" captures:**
 
-**Correct Answer: B. The fundamental discrepancy between Gandalf’s "Grey" exterior and his newly revealed "White" spiritual intensity, which the common man can sense as a hidden, formidable power.**
+**Correct Answer: B. The fundamental discrepancy between Gandalf’s "Grey" exterior and his newly revealed "White" spiritual intensity, which even a common man can intuit as a formidable power.**
 
 **Why this is correct:**
-The guard perceives the "White Rider" beneath the "Greyhame" disguise. This reflects the recurring theme of "gold that does not glitter." Gandalf’s physical appearance is a mask for a being who has passed through "fire and death." The guard's intuitive recognition of this "fell and grim" core prepares the reader for Gandalf's subsequent unmasking of Wormtongue.
+The guard perceives the "White Rider" beneath the "Greyhame" mask. This reflects the theme of "gold that does not glitter." Gandalf’s physical appearance is a mask for a being who has passed through "fire and death." The guard's recognition prepares the reader for the unmasking of Wormtongue.
 
-**Why E is incorrect** `[OI]`:
-The guard's tone is one of wonder and insight ("Well do you see and speak," says Gandalf), rather than a generalized, negative suspicion. He is describing a specific, unsettling quality he sees in this particular old man.
+**Analysis of Distractors:**
+- **A** is a "Comedy" distractor about "secret Orcs."
+- **C** is a "Plausible Misreading" about the guard being "wiser than the King."
+- **D** is an "Over-Interpretation" about a "deceptive act."
+- **E** is a "Surface-Level Literalism" about "dirty robes."
 
 ---
 
 ### Question 3 `[PIS/SCA]` `[Advanced]`
 
-**Aragorn’s refusal to lay down Andúril and his subsequent "command" to Hama ("I command you not to touch it... Death shall come to any man that draws Elendil's sword save Elendil's heir") represent:**
+**Aragorn’s refusal to lay down Andúril represent:**
 
-**Correct Answer: B. The re-assertion of an ancient, absolute royal sovereignty that exists independently of local laws, marking Aragorn's transition from a "stranger" to a king who issues his own "commands."**
+**Correct Answer: B. The re-assertion of an ancient, absolute royal sovereignty that exists independently of local laws, marking Aragorn's transition to a King who issues his own "commands."**
 
 **Why this is correct:**
-Aragorn explicitly questions whether the will of "Theoden son of Thengel... should prevail over the will of Aragorn son of Arathorn." This is a high-stakes moment of political theology. Aragorn is not just being stubborn; he is asserting his status as "Elendil’s heir." Hama recognizes this ("wings of song out of the forgotten days"), showing that Aragorn’s authority is becoming "Seen" even in Rohan.
+Aragorn explicitly questions whether the will of Théoden should prevail over the will of "Elendil’s heir." This is a moment of political theology. Aragorn is asserting his status as a peer (or superior) to the Lord of the Mark, using his "commands" to establish his rank publicly.
 
-**Why D is incorrect** `[SL]`:
-While he undoubtedly wants to protect the sword, his "command" is a public declaration of his identity and his rank, intended to establish his peerage with (or superiority to) the Lord of the Mark.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "treasonous arrogance."
+- **C** is a "Comedy" distractor about the "Sackville-Bagginses."
+- **D** is a "Lore-Trap" about the sword being "cursed."
+- **E** is an "Academic Over-Interpretation" using the "metal vs diplomacy" contrast.
 
 ---
 
 ### Question 4 `[CIM/ANT]` `[Advanced]`
 
-**The condition of Théoden in his gilded chair—"so bent with age that he seemed almost a dwarf"—characterizes his initial state as:**
+**The condition of Théoden in his chair characterizes his initial state as:**
 
-**Correct Answer: B. A spiritual and physical "atrophy" caused by the corrosive, inward-turning despair fostered by Wormtongue’s "whispering," where the King has become a prisoner within his own body and throne.**
+**Correct Answer: B. A spiritual and physical "atrophy" caused by the corrosive despair of Wormtongue’s whispering, where the King has become a prisoner within his own throne.**
 
 **Why this is correct:**
-Gandalf later confirms this: "Your leechcraft ere long would have had me walking on all fours like a beast." Théoden’s "age" is not entirely natural; it is a manifestation of his psychological surrender. He is "bent" by the weight of the "twisted tales" he has believed. His physical shrunkenness mirrors his shrunken horizons and his lost will to rule.
+Théoden’s "age" is not entirely natural; it is a manifestation of his psychological surrender. He is "bent" by the weight of the "twisted tales." His physical shrunkenness mirrors his shrunken horizons. The subsequent "resurrection" proves this was an unnatural state.
 
-**Why A is incorrect** `[OI]`:
-The subsequent "resurrection" where he stands "tall and straight" proves that his initial state was an *unnatural* condition caused by despair, rather than a healthy, inevitable part of aging.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that accepts his state as "noble aging."
+- **C** is a "Plausible Misreading" about "disguising height."
+- **D** is a "Lore-Trap" about "magical chairs."
+- **E** is a "Half-Truth" about "physical injuries."
 
 ---
 
 ### Question 5 `[PIS/SCA]` `[Advanced]`
 
-**Wormtongue’s use of the name "Stormcrow" and his description of Gandalf as a "meddler in other men's sorrows" illustrates his rhetorical strategy of:**
+**Wormtongue’s rhetorical strategy is:**
 
-**Correct Answer: B. Systematically isolating the King from external help by framing all "outside" news and wisdom as inherently predatory and malicious, thereby maintaining his own psychological monopoly over Théoden.**
+**Correct Answer: B. Systematically isolating the King from external wisdom by framing all "outside" help as inherently parasitic and predatory, maintaining his own psychological monopoly.**
 
 **Why this is correct:**
-Wormtongue uses "Stormcrow" and "Lathspell" to link Gandalf's arrival with "woe." By defining Gandalf as a "carrion-fowl," he encourages the King to view his only true ally as a parasite. This is a classic tactic of gaslighting and manipulation: convincing the victim that those who offer help are actually their enemies, thus keeping the victim dependent on the manipulator.
+Wormtongue uses "Stormcrow" to link Gandalf with "ill-news." By defining Gandalf as a "carrion-fowl," he encourages the King to view his only true ally as a parasite. This is a classic tactic of gaslighting: keeping the victim dependent on the manipulator by discrediting outsiders.
 
-**Why E is incorrect** `[SL]`:
-"Stormcrow" is a metaphor intended to damage Gandalf's reputation; Wormtongue knows he is a wizard but uses the bird-imagery to discredit his "news" as "ill-news."
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that accepts the " Stormcrow" label as a "historical account."
+- **C** is a "Comedy" distractor about "shapeshifters."
+- **D** is a "Plausible Misreading" about "entertaining the court."
+- **E** is an "Over-Interpretation" about "Saruman’s orders."
 
 ---
 
 ### Question 6 `[ACN/ANT]` `[Advanced]`
 
-**Gandalf’s use of his staff to cause "a roll of thunder" and "a flash as if lightning had cloven the roof" serves to:**
+**Gandalf’s use of his staff serves to:**
 
-**Correct Answer: B. Visually and auditorily manifest the higher, divine authority he now represents, forcibly clearing the "shadows" of Wormtongue’s influence through an elemental "unmasking."**
+**Correct Answer: B. Visually and auditorily manifest the higher, divine authority he now represents, forcibly clearing the "shadows" of manipulation through an elemental unmasking.**
 
 **Why this is correct:**
-Gandalf "not pass[ed] through fire and death to bandy crooked words." The thunder and darkness physically silence Wormtongue's "hiss." It is an act of exorcism. By controlling the light and sound in the hall, Gandalf reclaims the space for truth and forces Théoden to look toward the "shining sky" of the high window, symbolizing his spiritual awakening.
+Gandalf refuses to "bandy words." The thunder and lightning physically silence Wormtongue. It is an act of exorcism. By controlling light and sound, Gandalf reclaims the space for truth and forces Théoden to look toward the "shining sky."
 
-**Why D is incorrect** `[CC]`:
-The thunder and lightning are described as originating from Gandalf’s staff ("He raised his staff. There was a roll of thunder"), characterizing them as a magical projection of his will rather than a natural storm.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "raw, dark magic."
+- **C** is a "Lore-Trap" about "signaling the Ents."
+- **D** is an "Over-Interpretation" comparing him to "Sauron."
+- **E** is a "Comedy" distractor about "stealing the King’s sword."
 
 ---
 
 ### Question 7 `[CIM/SCA]` `[Advanced]`
 
-**Éowyn’s "cool pity" and her look at the King as she leads him from the hall reveal her character as:**
+**Éowyn’s "cool pity" reveal her character as:**
 
-**Correct Answer: B. A repressed, formidable spirit who possesses the strength and pride of her lineage but is currently confined by the "shadow" of her uncle’s despair and the rigid gender roles of her society.**
+**Correct Answer: B. A formidable, repressed spirit who possesses the pride of her lineage but is currently trapped by the "shadow" of her uncle’s despair and restrictive social roles.**
 
 **Why this is correct:**
-Éowyn is described as "stern as steel" and a "daughter of kings." Her "cool pity" shows her emotional distance from the "bent" Théoden; she recognizes his weakness but is herself unable to act because of her position. Her immediate awareness of Aragorn ("tall heir of kings") shows her hunger for a different, more heroic reality than the one she is currently guarding.
+Éowyn is "stern as steel." Her "cool pity" shows her distance from the "bent" Théoden; she recognizes his weakness but is unable to act. Her reaction to Aragorn ("tall heir of kings") shows her hunger for a more heroic reality.
 
-**Why A is incorrect** `[SL]`:
-While she is "waiting upon the king," the text emphasizes her "stern" and "strong" quality, suggesting she is a warrior at heart who is only "submissive" out of duty, not nature.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" calling her a "submissive servant."
+- **C** is a "Plausible Misreading" about being a "secret ally of Wormtongue."
+- **D** is a "Lore-Trap" about "fading transparency."
+- **E** is an "Over-Interpretation" about "joining the Grey Company."
 
 ---
 
 ### Question 8 `[CIM/ANT]` `[Advanced]`
 
-**Théoden’s reaction upon casting aside his "prop"—standing "tall and straight" with eyes "blue as he looked into the opening sky"—signifies:**
+**Théoden’s reaction upon casting aside his "prop" signifies:**
 
-**Correct Answer: B. The psychological and spiritual "resurrection" of his true, heroic self, once the "black staff" of external manipulation and internal despair is removed.**
+**Correct Answer: B. The spiritual "resurrection" of his true, heroic self, reclaiming his identity as a king of the "free days" once the psychological "black staff" is removed.**
 
 **Why this is correct:**
-The staff was his "prop," both physically and metaphorically (Wormtongue’s counsel). Casting it aside is an act of liberation. The change in his eyes to "blue" (matching the sky) indicates that he has re-connected with the "world of light" and has reclaimed his identity as a king of the "free days of old." He is no longer "walking on all fours" but is "new-awakened."
+Casting aside the staff is an act of liberation. The change in his eyes to "blue" indicates he has re-connected with the "world of light." He is no longer "walking on all fours" but is "new-awakened."
 
-**Why A is incorrect** `[SL]`:
-While his physical posture improves, the text presents this as a *return to form* ("as a man that is stiff from long bending") and a spiritual clarity ("feel as one new-awakened"), rather than a magical de-aging.
+**Analysis of Distractors:**
+- **A** is a "Lore-Trap" about "magical de-aging."
+- **C** is a "Surface-Level Literalism" about "physical weight."
+- **D** is an "Over-Interpretation" about being "enchanted by the wizard."
+- **E** is a "Comedy" distractor about "favorite props."
 
 ---
 
 ### Question 9 `[PIS/SCA]` `[Advanced]`
 
-**Gandalf’s warning to Wormtongue ("I have not passed through fire and death to bandy crooked words with a serving-man") emphasizes:**
+**Gandalf’s warning to Wormtongue emphasizes:**
 
-**Correct Answer: B. The vast, ontological distance between his new "White" identity and the petty deceits of a mortal "worm," where he no longer tolerates the "crooked" language of betrayal.**
+**Correct Answer: B. The vast ontological distance between his new "White" identity and the petty deceits of a "worm," where he no longer tolerates the "crooked" language of betrayal.**
 
 **Why this is correct:**
-Gandalf the White is less patient and more direct than Gandalf the Grey. He refuses to "bandy" words. He addresses Wormtongue not as an intellectual equal but as a "witless worm." This highlights his new, angelic focus on his "task." He sees the "crooked" for what it is and chooses to bypass it with the "lightning" of absolute truth.
+Gandalf the White addresses Wormtongue not as an equal but as a "witless worm." This highlights his new, angelic focus. He sees the "crooked" for what it is and bypasses it with the "lightning" of absolute truth.
 
-**Why C is incorrect** `[SL]`:
-While he is "in haste," the "fire and death" reference points to his spiritual transformation, characterizing his "impatience" as a result of his new, higher-level perspective rather than a mere personality flaw.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" about "fighting Balrogs."
+- **C** is a "Lore-Trap" about "losing Shire-politeness."
+- **D** is a "Moralistic Misreading" about "destroying the hall."
+- **E** is an "Over-Interpretation" about "relative danger."
 
 ---
 
 ### Question 10 `[ACN/SCA]` `[Advanced]`
 
-**The image of Éowyn at the end of the chapter, standing "alone before the doors... the sword was set upright before her," serves to:**
+**The final image of Éowyn serves to:**
 
-**Correct Answer: B. Symbolically identify her as the new, "shining" defender of Rohan’s domestic heart, while simultaneously highlighting her isolation and her readiness for a more active, "silver" role in the coming conflict.**
+**Correct Answer: B. Symbolically identify her as the "shining" defender of Rohan’s domestic heart, while highlighting her isolation and her readiness for a more active, "silver" role.**
 
 **Why this is correct:**
-Éowyn is left to "lead" those who remain. Her posture—hand on the hilt, sword upright—is that of a sentinel. She "shines like silver," contrasting with the "darkness" of the house she is protecting. This final image emphasizes her unique tragedy: she is a "warrior" who must stay behind, her "lust for battle" (as implied by her reaction to Aragorn) currently constrained by her duty.
+Éowyn is left to "lead" those who remain. Her posture is that of a sentinel. She "shines like silver," contrasting with the "darkness" of the house. This image emphasizes her tragedy: she is a warrior who must stay behind.
 
-**Why E is incorrect** `[OI]`:
-She is the *leader* of the people left behind ("Let the Lady Eowyn lead them!"). She isn't abandoned; she is the one left to *prevent* abandonment, despite her own desire to ride to war.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 6 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 5 |
-| Pragmatic Implicature & Subtext (PIS) | 4 |
-| Situational & Contextual Awareness (SCA) | 5 |
-| Authorial Craft & Narrative Strategy (ACN) | 3 |
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" calling her a "professional door-ward."
+- **C** is a "Moralistic Misreading" about being "forgotten."
+- **D** is an "Over-Interpretation" about "becoming the new King."
+- **E** is a "Plausible Misreading" about "keeping the peace."

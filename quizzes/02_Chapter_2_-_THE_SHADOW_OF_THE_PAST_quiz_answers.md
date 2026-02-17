@@ -26,10 +26,13 @@
 **Correct Answer: B. The Shire community tends to domesticate and simplify disruptive events into safe, fictionalized narratives.**
 
 **Why this is correct:**
-The text notes that "Mad Baggins" became a "favourite character of legend" long after the "true events were forgotten." This suggests that the Shire-folk prefer a colorful, mythic version of reality that doesn't challenge their comfortable, parochial existence, effectively neutralizing the unsettling truth of Bilbo's departure by turning it into a "fireside-story."
+The text notes that "Mad Baggins" became a "favourite character" long after the "true events were forgotten." This indicates that the Shire-folk prefer a colorful, mythic version of reality that doesn't challenge their comfortable, parochial existence. By turning a confusing and potentially threatening event (a disappearance) into a "fireside-story," they neutralize its power to disturb the peace.
 
-**Why E is incorrect** `[OI]`:
-While the Shire values conformity, the text describes the "Mad Baggins" legend as a "favourite character," implying it's a source of entertainment rather than a tool for social control or a warning.
+**Analysis of Distractors:**
+- **A** uses "collective trauma" as a plausible but unsupported psychological explanation for the forgetting of facts.
+- **C** is a "Plausible Misreading" that treats the legend as a tool for social control (propaganda), which overstates the intentionality of the hobbits.
+- **D** is a "Half-Truth"; while they may use stories for instruction, the text emphasizes the *forgetting* of truth in favor of *legend* as a social comfort.
+- **E** is an "Over-Interpretation" that projects the reader's knowledge of the "restless" Bagginses onto the entire population without textual evidence.
 
 ---
 
@@ -42,8 +45,11 @@ While the Shire values conformity, the text describes the "Mad Baggins" legend a
 **Why this is correct:**
 Frodo is described as being "quite happy" as "the Mr. Baggins of Bag End." The "Not yet" represents the inertia of a comfortable life. While he has inherited Bilbo's restlessness, his identity is still firmly rooted in the Shire's social and physical comforts, creating a psychological barrier to action.
 
-**Why A is incorrect** `[SL]`:
-The text focuses on his "regret" and "wandering," suggesting the hesitation is an internal, emotional state of being "unready" rather than a specific calculation of external dangers.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that interprets "Not yet" as a tactical delay (waiting for an omen) rather than an emotional hesitation.
+- **C** is a "Plausible Misreading" that uses Frodo’s known family ties to create a "duty-based" reason for staying that isn't in this passage.
+- **D** is an "Over-Interpretation" about "fear of disappointment" that moves beyond the text's focus on "happiness" and "comfort."
+- **E** is an "Academic Over-Interpretation" using the concept of a "legacy" to frame the conflict as one of resentment.
 
 ---
 
@@ -54,10 +60,13 @@ The text focuses on his "regret" and "wandering," suggesting the hesitation is a
 **Correct Answer: B. A representative of the Shire's willful ignorance and refusal to acknowledge the encroaching outside world.**
 
 **Why this is correct:**
-Ted Sandyman shuts down any "queer" news as "fireside-tales" and "moonshine." His insistence that what was seen "was an elm tree" despite evidence to the contrary reflects a defensive parochialism. He represents the segment of hobbit society that chooses to mock or ignore anything that might disturb their sense of safety.
+Ted Sandyman shuts down any "queer" news as "moonshine" and "fireside-tales." His insistence that what was seen "was an elm tree" despite evidence to the contrary reflects a defensive parochialism. He represents the segment of hobbit society that chooses to mock or ignore anything that might disturb their sense of safety.
 
-**Why A is incorrect** `[AM]`:
-Ted's skepticism is not "scientific"; it is dismissive and mocking. He isn't looking for proof; he is looking to close the conversation and maintain the status quo.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that frames his skepticism as "intellectualism," whereas the text shows it is actually born of a desire to ignore the unknown.
+- **C** attributes "good intent" (preventing panic) to Ted, but his tone is dismissive and mocking, not protective.
+- **D** is a "Half-Truth"; while there is class friction in the Shire, the specific dismissal of the tree is about the *content* of the news, not Sam's job.
+- **E** is a "Conspiracy-style" distractor that misses the broader social point about the Shire's insulation.
 
 ---
 
@@ -68,10 +77,13 @@ Ted's skepticism is not "scientific"; it is dismissive and mocking. He isn't loo
 **Correct Answer: B. Gandalf has been burdened by the weight of the discoveries he has made during his long absence.**
 
 **Why this is correct:**
-Gandalf's physical change and his initial refusal to discuss his business suggest he has been engaged in a difficult, perhaps distressing, search for truth (his "dark journeys"). His appearance reflects the gravity of the "tidings" he eventually delivers, which cast a "dark shadow" over the morning.
+Gandalf's physical change and his initial refusal to discuss his business suggest he has been engaged in a difficult, perhaps distressing, search for truth. His appearance reflects the gravity of the "tidings" he eventually delivers, which cast a "dark shadow" over the morning.
 
-**Why D is incorrect** `[OI]`:
-While he is careworn, there is no evidence he has "lost faith." In fact, his return to the Shire and his testing of the Ring show he is actively working to address the danger.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that interprets physical tiredness as a "physical ailment" or illness.
+- **C** is an "Over-Interpretation" that suggests Frodo's own feelings are causing a visual hallucination/misperception.
+- **D** is a "Plausible Misreading" based on the Ring's known effects, but Gandalf does not possess the Ring, so this is a "Lore-Trap."
+- **E** suggests a "strained relationship," but the text shows they are still close; the weight is in the *news*, not the *friendship*.
 
 ---
 
@@ -84,8 +96,11 @@ While he is careworn, there is no evidence he has "lost faith." In fact, his ret
 **Why this is correct:**
 What Elves consider a mere "essay" or "trifle" can still "utterly overcome anyone of mortal race." This emphasizes that Elven power exists on a scale that mortals (and even Gandalf, who warns about it) find overwhelming. It underscores the vulnerability of hobbits and humans in the face of ancient, high-magic crafts.
 
-**Why D is incorrect** `[OI]`:
-Gandalf doesn't accuse the Elves of "negligence." He is explaining the nature of the objects themselves and the inherent danger they pose to those with shorter lifespans and different psychological makeups.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that frames Elven craftsmanship as "negligent," which misinterprets Gandalf's objective description of the disparity.
+- **C** is an "Over-Interpretation" that suggests Gandalf has a general prejudice against "mortal discipline."
+- **D** is a "Half-Truth"; while the Great Rings *were* crafted with malice, the question is about the *lesser* rings and the theme of disparity.
+- **E** uses academic-sounding language ("catastrophic unintended consequences") to overstate the "artistic" aspect.
 
 ---
 
@@ -98,8 +113,11 @@ Gandalf doesn't accuse the Elves of "negligence." He is explaining the nature of
 **Why this is correct:**
 Gandalf notes that the "lies were too much alike for my comfort," comparing Bilbo's story to Gollum's "birthday-present" lie. This pattern shows that the Ring exerts an "unwholesome power" that forces its keeper to invent a legitimate "claim" to it, signaling the Ring's early psychological grip on the owner.
 
-**Why C is incorrect** `[PT]`:
-While he may have been defensive, the key point Gandalf makes is that the *nature* of the lie (inventing a "present" or a "win") is a specific symptom of the Ring's influence, seen in both Bilbo and Gollum.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that blames Bilbo's character rather than the Ring's influence.
+- **C** is a "Plausible Misreading" that focuses on the friendship (fear of Gandalf's judgment) rather than the Ring's specific manipulation pattern.
+- **D** is a "Lore-Trap" that suggests a genealogical or mystical connection that isn't supported by the text.
+- **E** is an "Academic Over-Interpretation" that reframes the lie as a "psychological coping mechanism" for trauma.
 
 ---
 
@@ -110,10 +128,13 @@ While he may have been defensive, the key point Gandalf makes is that the *natur
 **Correct Answer: B. A realization of the Ring’s vast, ancient, and utterly alien nature.**
 
 **Why this is correct:**
-The "quavering voice" indicates fear, but the description of the letters as "remote" and "out of a great depth" suggests a spiritual or existential awe. Frodo is perceiving for the first time that the Ring is not just a "beautiful" trinket but a historical artifact of immense, dark power that connects him to a "Black Years" he barely understands.
+The "quavering voice" indicates fear, but the description of the letters as "remote" and "out of a great depth" suggests a spiritual or existential awe. Frodo is perceiving for the first time that the Ring is not just a trinket but a historical artifact of immense, dark power that connects him to a "Black Years" he barely understands.
 
-**Why D is incorrect** `[SL]`:
-He has already seen the fire-writing; the "disbelief" phase has passed, replaced by the "terrifying" reality Gandalf is explaining.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that reduces the emotion to a "physiological revulsion" (like being grossed out).
+- **C** is a "Plausible Misreading" that focuses on Frodo's "scholarly" background but misses the emotional weight of the moment.
+- **D** is an "Over-Interpretation" that suggests Frodo is already looking for a way to procrastinate or hope the danger is "far in the future."
+- **E** is a "Plausible Misreading" based on the Ring's later sentience, but at this moment, Frodo's focus is on the *letters* and their *depth*.
 
 ---
 
@@ -126,22 +147,11 @@ He has already seen the fire-writing; the "disbelief" phase has passed, replaced
 **Why this is correct:**
 Gandalf explicitly states that Bilbo "took so little hurt from the evil... because he began his ownership of the Ring... With Pity." This introduces the idea that the character of the bearer and their initial moral choices determine how quickly and deeply the Ring can corrupt them.
 
-**Why C is incorrect** `[SL]`:
-Gandalf frames it as a positive "Mercy" and "Pity," a strength of character, rather than a lack of courage. He calls it a "reward."
-
----
-
-### Question 9 `[CIM/ANT]` `[Advanced]`
-
-**When Gandalf refuses to take the Ring, crying "Do not tempt me!", his reaction primarily reveals:**
-
-**Correct Answer: B. A profound self-awareness of how even his noble desires could be corrupted into tyranny by the Ring's power.**
-
-**Why this is correct:**
-Gandalf admits that the "way of the Ring to my heart is by pity... and the desire of strength to do good." He recognizes that the Ring would use his altruism to turn him into something "terrible," like the Dark Lord himself. His outburst is a defensive reaction against his own internal potential for corruption.
-
-**Why E is incorrect** `[CC]`:
-The issue isn't whether the Ring is "more powerful" than Gandalf in a combat sense, but that its *influence* would exploit Gandalf's specific personality and power to create a new, perhaps worse, Dark Lord.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that frames the speech as a critique of Frodo specifically, rather than a lesson about Bilbo.
+- **C** is a "Surface-Level Literalism" that interprets "Pity" as simple "fear" or "hesitation."
+- **D** is an "Over-Interpretation" that suggests "Pity" is a magical "nullifier" of the Ring's power, which is too strong a claim.
+- **E** is a "Lore-Trap" that brings in the concept of "Providence" (higher power), which is a theme in Tolkien, but not the *primary* point Gandalf is making about Bilbo's *choice*.
 
 ---
 
@@ -152,19 +162,10 @@ The issue isn't whether the Ring is "more powerful" than Gandalf in a combat sen
 **Correct Answer: B. A complex mixture of perceived moral duty and a long-suppressed personal longing for escape and connection.**
 
 **Why this is correct:**
-The text shows Frodo weighing the "exile" and "flight from danger" against the "firm foothold" of the Shire. However, it also mentions that a "great desire to follow Bilbo flamed up in his heart." His decision is not purely a selfless sacrifice; it is also a fulfillment of the "restless" side of his nature that has been "approaching fifty" and dreaming of mountains.
+The text shows Frodo weighing the "exile" and "flight from danger" against the "firm foothold" of the Shire. However, it also mentions that a "great desire to follow Bilbo flamed up in his heart." His decision is not purely a selfless sacrifice; it is also a fulfillment of the "restless" side of his nature.
 
-**Why A is incorrect** `[PT]`:
-While he does want to "save the Shire," the text explicitly highlights his personal desire to follow Bilbo as a "strong" motivator that "overcame his fear."
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 7 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 5 |
-| Pragmatic Implicature & Subtext (PIS) | 6 |
-| Situational & Contextual Awareness (SCA) | 4 |
-| Authorial Craft & Narrative Strategy (ACN) | 1 |
+**Analysis of Distractors:**
+- **A** is a "Moralistic Over-Interpretation" using terms like "martyrdom" and "atonement" that are too extreme for Frodo's current mindset.
+- **C** is a "Plausible Misreading" that ignores the "save the Shire" motivation and focuses only on "adventure."
+- **D** is a "Half-Truth"; he wants to follow Bilbo, but not to "bring him back to face consequences."
+- **E** is an "Academic Over-Interpretation" that reframes the hero's call as "psychological manipulation" by the mentor figure.

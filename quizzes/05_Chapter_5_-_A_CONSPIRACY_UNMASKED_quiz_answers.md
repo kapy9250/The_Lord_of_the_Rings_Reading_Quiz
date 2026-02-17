@@ -26,10 +26,13 @@
 **Correct Answer: B. Establish Buckland as a liminal space that is both part of and distinct from the Shire, reflecting its status as a buffer zone.**
 
 **Why this is correct:**
-The text emphasizes that Bucklanders are regarded as "peculiar, half foreigners" and live between the river and the Old Forest, behind a High Hay and locked doors. Their comfort with water ("fond of boats") further separates them from the "old Shire" mindset. This characterizes Buckland as a transition point—more prepared and less isolated than Hobbiton, making it a fitting setting for the "unmasking" of the conspiracy.
+The text emphasizes that Bucklanders are regarded as "peculiar, half foreigners" and live between the river and the Old Forest, behind a High Hay and locked doors. Their comfort with water ("fond of boats") further separates them from the "old Shire" mindset. This characterizes Buckland as a transition point—more prepared and less isolated than Hobbiton.
 
-**Why E is incorrect** `[SL]`:
-While it mentions the "peculiarity" of swimming, the primary purpose is to define the cultural and geographical boundaries of Buckland as a unique territory within the larger hobbit world.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that interprets cultural differences as "higher education."
+- **C** is a "Lore-Trap" that invents a genealogical cause for their behavior.
+- **D** is a "Moralistic Misreading" that projects a "superiority" onto the old Shire that the narrator is actually gently mocking.
+- **E** is a "Surface-Level Literalism" that ignores the broader cultural characterization of the space.
 
 ---
 
@@ -40,10 +43,13 @@ While it mentions the "peculiarity" of swimming, the primary purpose is to defin
 **Correct Answer: B. A profound, internal realization that he has crossed a point of no return, both geographically and spiritually.**
 
 **Why this is correct:**
-For Sam, crossing the river is not just a trip to a new place; it is a crossing into "dark adventure." The "mists" covering his "old life" symbolize the loss of the safety and certainty of his role as a gardener in Hobbiton. This moment marks Sam’s internal commitment to the "long road" ahead.
+For Sam, crossing the river is not just a trip to a new place; it is a crossing into "dark adventure." The "mists" covering his "old life" symbolize the loss of the safety and certainty of his role in Hobbiton. This moment marks Sam’s internal commitment to the "long road" ahead.
 
-**Why D is incorrect** `[PT]`:
-While he does want to see the "wide world," the text focuses on the "strange feeling" and the "dark adventure," suggesting a more somber and weighty realization than mere excitement.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that frames the transition as "mourning" for a gardener's life, whereas the text suggests a more forward-looking "strange feeling."
+- **C** is a "Plausible Misreading" that reduces a spiritual moment to a tactical "anxiety" about navigation.
+- **D** is a "Half-Truth"; while he wants to see the world, the tone here is somber and "dark," not celebratory.
+- **E** is an "Over-Interpretation" that grants the "mists" a magical agency not supported by the text.
 
 ---
 
@@ -54,10 +60,13 @@ While he does want to see the "wide world," the text focuses on the "strange fee
 **Correct Answer: B. Creating a final, intense image of domestic comfort and Shire-normality before it is shattered by the quest’s reality.**
 
 **Why this is correct:**
-The bath scene is full of joy, splashing, and song. It represents the pinnacle of hobbit luxury and companionship. By placing this lighthearted scene immediately before the serious "conspiracy" talk and the decision to enter the Old Forest, the author highlights exactly what the hobbits are leaving behind and the "peace" they are fighting to protect.
+The bath scene represents the pinnacle of hobbit luxury and companionship. By placing this lighthearted scene immediately before the serious "conspiracy" talk and the decision to enter the Old Forest, the author highlights exactly what the hobbits are leaving behind—the "peace" they are fighting to protect.
 
-**Why E is incorrect** `[SL]`:
-While it does show Merry’s hospitality, the scene’s broader narrative function is to provide a tonal contrast to the "deadly peril" discussed in the next room.
+**Analysis of Distractors:**
+- **A** is an "Over-Interpretation" that tries to make a symbolic moral case about "cleanliness" that isn't in the text.
+- **C** is a "Plausible Misreading" that frames the scene as "indulgent" or "Westernized."
+- **D** is a "Half-Truth" about "delaying the plot," but it misses the primary *thematic* function of the scene.
+- **E** is a "Plausible Misreading" about "foreshadowing" that treats a domestic moment as a mystical trope.
 
 ---
 
@@ -70,8 +79,11 @@ While it does show Merry’s hospitality, the scene’s broader narrative functi
 **Why this is correct:**
 Frodo "opened his mouth and shut it again," speechless that his "careful and clever" planning was transparent to his friends. This reaction underlines the theme of friendship—Frodo thought he was protecting them by lying, but they were protecting him by watching. It deflates his attempt at a "solitary hero" narrative.
 
-**Why E is incorrect** `[PT]`:
-While he *is* relieved, the "comical" surprise is specifically about his realization that he hadn't "thrown dust in all our eyes," highlighting his own naive estimation of his friends' perceptiveness.
+**Analysis of Distractors:**
+- **A** is an "Over-Interpretation" that frames his surprise as "intellectual humiliation."
+- **C** is a "Plausible Misreading" that interprets his speechlessness as "sudden realization" of their "danger."
+- **D** is a "Half-Truth"; while he *is* relieved, the "comical" surprise is specifically about his realization that he hadn't fooled them.
+- **E** is a "Half-Truth" about "absurdity," but it misses the primary point about the *restoration* of friendship.
 
 ---
 
@@ -82,10 +94,13 @@ While he *is* relieved, the "comical" surprise is specifically about his realiza
 **Correct Answer: B. Even the most "careful" hobbits were subject to the keen observation and persistent curiosity of their close-knit community.**
 
 **Why this is correct:**
-Merry’s story of seeing Bilbo vanish and then spying on his "secret book" shows that in a community like the Shire, privacy is almost impossible to maintain among "inquisitive" friends. It suggests that the "secret" of the Ring was always partially compromised by the very social bonds Frodo was trying to use to hide it.
+Merry’s story shows that in a community like the Shire, privacy is almost impossible to maintain among "inquisitive" friends. It suggests that the "secret" of the Ring was always partially compromised by the very social bonds Frodo was trying to use to hide it.
 
-**Why A is incorrect** `[SL]`:
-The text says Merry "happened to be walking along the road" and then "confess[ed] that I spied." It was Merry’s own initiative and curiosity, not Bilbo’s training, that led to the discovery.
+**Analysis of Distractors:**
+- **A** is an "Over-Interpretation" that grants Bilbo a subconscious "desire to be caught."
+- **C** is a "Moralistic Misreading" that blames Merry's "naturally suspicious" nature.
+- **D** is a "Lore-Trap" that grants the Ring "sentience" in drawing attention, which isn't evidenced in this specific dialogue.
+- **E** is a "Half-Truth" about "underestimating," but it misses the primary point about the *social environment* of the Shire.
 
 ---
 
@@ -93,13 +108,16 @@ The text says Merry "happened to be walking along the road" and then "confess[ed
 
 **Sam’s scarlet face and his explanation of being the "collector of information" primarily characterize his loyalty as:**
 
-**Correct Answer: B. A practical, proactive devotion that prioritizes Frodo’s safety over the strict adherence to his orders.**
+**Correct Answer: B. A proactive, protective devotion that prioritizes Frodo’s safety over the strict, literal adherence to his orders.**
 
 **Why this is correct:**
-Sam was the "investigator" for the conspiracy, reporting back to Merry and Pippin despite being told by Frodo to keep things secret. He justifies this by citing Gandalf’s advice to "take someone as you can trust." This shows Sam's loyalty is not passive obedience, but an active effort to ensure Frodo has the support he needs, even if Frodo himself doesn't think he wants it.
+Sam was the "investigator" for the conspiracy. He justifies this by citing Gandalf’s advice to "take someone as you can trust." This shows Sam's loyalty is not passive obedience, but an active effort to ensure Frodo has the support he needs, even if Frodo himself doesn't think he wants it.
 
-**Why A is incorrect** `[AM]`:
-Sam's "scarlet face" and "begging your pardon" show he feels the weight of the "deceit," but the narrative frames it as a positive act of friendship ("Merry and I are coming with you") rather than a malicious betrayal.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that frames his act as a "cynical betrayal."
+- **C** is a "Plausible Misreading" that frames his motivation as "fear of Gandalf."
+- **D** is a "Surface-Level Literalism" that interprets his act as a "misunderstanding" of instructions.
+- **E** is a "Half-Truth" about the Gaffer, but it misses the primary *positive* driver of Sam's loyalty to Frodo.
 
 ---
 
@@ -107,13 +125,16 @@ Sam's "scarlet face" and "begging your pardon" show he feels the weight of the "
 
 **Frodo’s change from "amazement" to feeling "happier than I have felt for a long time" after the conspiracy is unmasked indicates:**
 
-**Correct Answer: B. The psychological relief of no longer having to carry the burden of his secret and his impending departure in isolation.**
+**Correct Answer: B. The intense psychological relief of no longer having to carry the burden of his secret and his impending departure in isolation.**
 
 **Why this is correct:**
-Frodo had "dreaded this evening" because he thought he would have to break his friends' hearts and leave alone. Finding out they already know and are coming with him removes the crushing weight of loneliness. His happiness stems from the restoration of his support system, even in the face of "deadly peril."
+Frodo had "dreaded this evening" because he thought he would have to leave alone. Finding out they already know and are coming with him removes the crushing weight of loneliness. His happiness stems from the restoration of his support system.
 
-**Why C is incorrect** `[SL]`:
-The text says "If the danger were not so dark, I should dance for joy. Even so, I cannot help feeling happy." He is aware the danger is still great, but the *shared* nature of the danger makes it psychologically "happier."
+**Analysis of Distractors:**
+- **A** is an "Over-Interpretation" that frames his relief as "shifting moral weight."
+- **C** is a "Surface-Level Literalism" that suggests he thinks they have "neutralized the threat."
+- **D** is a "Plausible Misreading" that focuses on the "house" rather than the "friends."
+- **E** is an "Over-Interpretation" that reframes his relief as "pride" in their "queerness."
 
 ---
 
@@ -121,13 +142,16 @@ The text says "If the danger were not so dark, I should dance for joy. Even so, 
 
 **Merry’s assessment of the Buckland gate-guards and their potential reaction to the Black Riders suggests:**
 
-**Correct Answer: B. The Shire’s defenses are based more on social suspicion and "dislike" than on actual military strength.**
+**Correct Answer: B. The Shire’s defenses are based more on cultural "dislike" and social exclusion than on actual strategic capability.**
 
 **Why this is correct:**
-Merry says the guards "would not like the look of the Riders" and would be "frightened by them." Their defense is a matter of closing the gate to "funny customers." He acknowledges that "Buckland cannot resist a determined attack for long," emphasizing that the Shire is a land of peace that is physically unprepared for a true military threat.
+Merry says the guards "would not like the look of the Riders" and would be "frightened." Their defense is a matter of closing the gate to "funny customers." He acknowledges that Buckland cannot resist a "determined attack," emphasizing that the Shire is physically unprepared for a true military threat.
 
-**Why E is incorrect** `[SL]`:
-Merry specifically says the Riders "might break through," indicating he does not believe the gates are a permanent deterrent, but merely a delay.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that views Buckland as "militarized."
+- **C** is a "Plausible Misreading" that invents a fear of "peculiar Bucklanders" as the primary driver.
+- **D** is a "Plausible Misreading" about Merry's "optimism."
+- **E** is a "Surface-Level Literalism" about the Riders' power being "defeated by simple barriers."
 
 ---
 
@@ -135,13 +159,16 @@ Merry specifically says the Riders "might break through," indicating he does not
 
 **The decision to enter the Old Forest, despite Fredegar’s horror, primarily highlights:**
 
-**Correct Answer: B. The group's recognition that an unpredictable, natural danger is preferable to the targeted, relentless pursuit of the Black Riders.**
+**Correct Answer: B. The group's recognition that an unpredictable, natural peril is preferable to the targeted, relentless pursuit of the Black Riders.**
 
 **Why this is correct:**
-Frodo argues that the only way to escape is to go in a "quite unexpected direction." Merry agrees it's the only way to get a "considerable start." They are choosing a general peril (the "nightmare" Forest) over a specific, intelligent enemy (the Black Riders) who they know are already watching the Bridge and the Road.
+Merry says the forest is "as dangerous as Black Riders," but he agrees with Frodo that it's the only way to get a "considerable start." They are choosing a general, "wild" peril over a specific, intelligent enemy who they know is already watching the Road.
 
-**Why D is incorrect** `[SL]`:
-The narrative treats Fredegar’s fear as legitimate and his role (staying behind to keep up the pretence) as a "dangerous part." He isn't a coward; he just has a different role to play in the "conspiracy."
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that frames the choice as "illogical."
+- **C** is an "Over-Interpretation" that grants them a sense of "ownership" over the forest.
+- **D** is a "Half-Truth" about "traditionalist," but it misses the primary *tactical* reason for the choice.
+- **E** is a "Plausible Misreading" about "tactical error."
 
 ---
 
@@ -149,22 +176,13 @@ The narrative treats Fredegar’s fear as legitimate and his role (staying behin
 
 **Frodo’s dream at the end of the chapter—hearing the "sound of the Sea far-off" and seeing a "tall white tower"—serves to:**
 
-**Correct Answer: B. Symbolize his deep-seated, perhaps ancestral, longing for the West and the ultimate destination of his journey beyond the Shire’s borders.**
+**Correct Answer: B. Symbolize his deep-seated, perhaps ancestral, longing for the West and the ultimate, transcendental destination of his journey.**
 
 **Why this is correct:**
-The Sea and the White Tower (Elostirion) are recurring symbols in Tolkien’s work representing the connection to the Undying Lands and the world beyond Middle-earth. Frodo hearing the Sea "in his dreams" even though he has never seen it indicates a spiritual destiny and a pull toward a horizon that is much larger than his current struggle in the Shire.
+The Sea and the White Tower are recurring symbols in Tolkien’s work representing the connection to the Undying Lands. Frodo hearing the Sea "in his dreams" even though he has never seen it indicates a spiritual pull toward a horizon that is much larger than his current struggle.
 
-**Why D is incorrect** `[PT]`:
-While the Ring might be involved in his "vague dream" of "crawling and snuffling," the Sea and the Tower are distinct, luminous symbols that suggest a higher purpose or a final rest, rather than the Ring's own desire to return to its master.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 6 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 5 |
-| Pragmatic Implicature & Subtext (PIS) | 4 |
-| Situational & Contextual Awareness (SCA) | 4 |
-| Authorial Craft & Narrative Strategy (ACN) | 3 |
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that treats the dream as a "topographical map."
+- **C** is a "Plausible Misreading" about "foreshadowing imprisonment."
+- **D** is an "Over-Interpretation" that grants the Ring "sentience" in projecting images of power.
+- **E** is an "Academic Over-Interpretation" using the term "dissociation" to explain a mystical dream.

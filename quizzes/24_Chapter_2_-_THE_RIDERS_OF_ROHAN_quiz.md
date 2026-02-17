@@ -13,11 +13,11 @@ Aragorn’s deduction regarding the "dispute about the road" among the dead Orcs
 > **Relevant Passage:**
 > "'I think that the enemy brought his own enemy with him. ... There was a quarrel, I guess: it is no uncommon thing with these foul folk. Maybe there was some dispute about the road.'"
 
-- **A.** Aragorn’s ability to use magic to talk to the dead.
-- **B.** His deep, cynical understanding of the inherent instability of evil alliances, which are undermined by internal competition, racial hatred, and a lack of unified moral purpose.
-- **C.** A sign that the Orcs are actually beginning to turn against Sauron.
-- **D.** His belief that the Orcs are simply very bad at navigating the Emyn Muil.
-- **E.** Evidence that the Orcs were trying to rescue the hobbits themselves.
+- **A.** A tactical assessment that the Orcs' logistics were compromised by poor navigational tools.
+- **B.** A deep, cynical understanding of the inherent instability of evil, which lacks a unified moral center and inevitably collapses into internal racial and factional violence.
+- **C.** Evidence that the "Northern Orcs" were secretly attempting to sabotage Saruman’s mission to help the West.
+- **D.** His belief that the Orcs were being influenced by a "confusion-spell" cast by Galadriel.
+- **E.** A sign that the Orcs’ "foul" nature makes them incapable of any form of organized military movement.
 
 ---
 
@@ -28,11 +28,11 @@ Aragorn’s song for Gondor ("Gondor! Gondor, between the Mountains and the Sea!
 > **Relevant Passage:**
 > "'Gondor! Gondor!' cried Aragorn. 'Would that I looked on you again in happier hour! ... _O proud walls! White towers! O winged crown and throne of gold!_ ... Now let us go!' he said, drawing his eyes away from the South..."
 
-- **A.** Provide a distracting diversion for Gimli and Legolas.
-- **B.** Psychologically anchor his current "vain pursuit" in the mythic and ancestral importance of his ultimate goal, creating a moment of emotional centering before turning back to the "hard" reality of the chase.
-- **C.** Show that he has a better singing voice than Boromir had.
-- **D.** Predict that the White Tree will never bloom again.
-- **E.** Signal his decision to abandon the hobbits and head south immediately.
+- **A.** Act as a formal signal to any Rangers who might be listening in the hills of Rohan.
+- **B.** Psychologically anchor his identity in his ultimate royal destiny, providing a moment of emotional fortitude before returning to the "vain" and grueling task of the hunt.
+- **C.** Demonstrate that the "broken" status of the Sword is mirrored in the "broken" poetry of its wielder.
+- **D.** Predict the physical destruction of the "White Towers" by the fire of Mordor.
+- **E.** Portray Aragorn as a character who is increasingly distracted by his own ambitions at the expense of the hobbits' safety.
 
 ---
 
@@ -43,11 +43,11 @@ The discovery of the Elven-brooch and Aragorn’s comment that "Not idly do the 
 > **Relevant Passage:**
 > "He held up a thing that glittered in the sunlight. ... 'Not idly do the leaves of Lorien fall,' said Aragorn. 'This did not drop by chance: it was cast away as a token to any that might follow.'"
 
-- **A.** A realization that the hobbits are losing their clothing during the march.
-- **B.** An affirmation of the hobbits’ resourcefulness and agency, recognizing that even in captivity, they are actively communicating and maintaining hope through symbolic gestures.
-- **C.** His anger at Pippin for breaking a gift from the Lady.
-- **D.** A belief that the brooch has magical tracking powers.
-- **E.** A sign that the Elves are currently hiding in the grass of Rohan.
+- **A.** His anger at the hobbits for their "careless" treatment of Elven heirlooms.
+- **B.** An affirmation of the hobbits’ resilient agency, recognizing that they are using their wits to actively participate in their own rescue through symbolic communication.
+- **C.** A belief that the brooch possesses an inherent "gravity" that forces it to fall in the direction of the hunters.
+- **D.** Evidence that the Orcs are systematically stripping the prisoners of their "High Elven" status.
+- **E.** A sign that the Lady Galadriel is following the Company in a "cloaked" form.
 
 ---
 
@@ -58,11 +58,11 @@ Aragorn’s internal struggle with his "ill choices" since the Argonath indicate
 > **Relevant Passage:**
 > "'You give the choice to an ill chooser,' said Aragorn. 'Since we passed through the Argonath my choices have gone amiss.' ... 'A vain pursuit from its beginning, maybe, which no choice of mine can mar or mend.'"
 
-- **A.** A total surrender of his leadership role to Gimli.
-- **B.** The psychological burden of the "Return of the King" narrative, where every setback is interpreted as a failure of his own providential worthiness and a sign of a dark, inescapable fate.
-- **C.** His belief that the Orcs are actually smarter than he is.
-- **D.** A sign that he is suffering from physical exhaustion and needs to sleep.
-- **E.** His desire to blame Gandalf for being late.
+- **A.** A rational realization that Gandalf’s death has removed all possibility of successful navigation.
+- **B.** The psychological weight of the "Chosen One" archetype, where any tactical failure is interpreted as a sign of personal unworthiness and spiritual "ill fortune."
+- **C.** His suspicion that Legolas and Gimli are judging his leadership and are waiting for an opportunity to mutiny.
+- **D.** A sign that he is suffering from a "Black Breath" induced depression that is clouding his tactical judgment.
+- **E.** Evidence that the "fate" of the Ring-bearer is now being controlled entirely by Saruman’s will.
 
 ---
 
@@ -73,11 +73,11 @@ The "red dawn" and Legolas’s comment that "strange things await us... we are c
 > **Relevant Passage:**
 > "'Awake! Awake!' he cried. 'It is a red dawn. Strange things await us by the eaves of the forest. Good or evil, I do not know; but we are called. Awake!'"
 
-- **A.** A sense of impending rain and bad weather.
-- **B.** A heightened, supernatural urgency where the environment itself (the "red dawn") signals a shift into a new phase of the quest where the normal laws of the world are suspended.
-- **C.** A sign that the Orcs have started a fire in the forest.
-- **D.** Legolas’s excitement at finally seeing some trees again.
-- **E.** A warning that the Sun is becoming hostile to the Company.
+- **A.** A purely naturalistic weather forecast predicting a storm from the East.
+- **B.** A heightened, mythic urgency where the environment itself signals a transition into a realm where the normal boundaries between "legend" and "reality" are dissolved.
+- **C.** A sign that the Orcs have successfully completed their mission and are celebrating with a massive bonfire.
+- **D.** Legolas’s personal excitement at the prospect of a "fair fight" in the daylight.
+- **E.** A warning that the Sun has become "corrupted" by its passage over Mordor.
 
 ---
 
@@ -88,11 +88,11 @@ Aragorn’s description of the Rohirrim as "proud and wilful... bold but not cru
 > **Relevant Passage:**
 > "'They are proud and wilful, but they are true-hearted... wise but unlearned, writing no books but singing many songs, after the manner of the children of Men before the Dark Years.'"
 
-- **A.** An uncivilized and dangerous barbarian tribe.
-- **B.** A "heroic age" society that preserves a noble, uncorrupted human vitality through oral tradition and martial ethics, standing in contrast to the more "learned" but waning Gondor.
-- **C.** A people who are easily manipulated because they do not read.
-- **D.** A sign that the Rohirrim are actually related to the hobbits.
-- **E.** A group of warriors who are too "wilful" to follow a king.
+- **A.** A dangerous and unpredictable group of "wild men" who are a threat to any structured government.
+- **B.** A "Heroic Age" society that maintains a vigorous, uncorrupted human spirit through oral tradition, standing in contrast to the fading, "learned" culture of Gondor.
+- **C.** A people whose lack of literacy makes them inherently susceptible to the "Voice" of Saruman.
+- **D.** Evidence that the Men of Rohan are actually a "degenerate" branch of the Numenorean race.
+- **E.** A group of warriors who value "song" more than they value "victory" in battle.
 
 ---
 
@@ -103,11 +103,11 @@ Aragorn’s description of the Rohirrim as "proud and wilful... bold but not cru
 > **Relevant Passage:**
 > "'Halflings! ... But they are only a little people in old songs and children's tales... Do we walk in legends or on the green earth in the daylight?' 'A man may do both,' said Aragorn."
 
-- **A.** The scientific inaccuracy of Rohirric folklore.
-- **B.** The collision between the mundane, "daylight" world of political reality and the resurfacing of mythic history, where the characters find themselves literally "walking in legends."
-- **C.** Éomer’s lack of education compared to the hobbits.
-- **D.** That the hobbits are actually much larger than the songs suggest.
-- **E.** A sign that the people of Rohan have forgotten how to sing.
+- **A.** The scientific skepticism of the Rohirric military mind.
+- **B.** The collision between the mundane world of "daylight" politics and the resurfacing of mythic history, where the protagonists are forced to "walk in legends."
+- **C.** Éomer’s own lack of imagination, which prevents him from seeing the "Small" as being potentially important.
+- **D.** That the hobbits have been "shrunk" by the Elves into a purely mythic status.
+- **E.** A sign that the "Old Songs" of Rohan are actually propaganda used to control the population.
 
 ---
 
@@ -118,11 +118,11 @@ Aragorn’s revelation of himself and Andúril to Éomer, where he seems to "gro
 > **Relevant Passage:**
 > "Aragorn threw back his cloak. ... the bright blade of Anduril shone like a sudden flame... Gimli and Legolas looked at their companion in amazement... He seemed to have grown in stature while Eomer had shrunk..."
 
-- **A.** A magical illusion used to intimidate the Riders.
-- **B.** The spiritual and psychological manifestation of his innate royal authority, which overwhelms the local authority of Éomer through the sheer force of his "unmasked" identity.
-- **C.** A sign that Aragorn is becoming as tall as the stone kings of Argonath.
-- **D.** His anger at Éomer for questioning his name.
-- **E.** A way to show off the craftsmanship of the Elven smiths.
+- **A.** A sophisticated use of "staged drama" and lighting to psychologically dominate a local commander.
+- **B.** The manifestation of his innate royal authority, which overwrites his "Strider" persona through the sheer ontological force of his revealed identity.
+- **C.** A literal physical transformation caused by the "Flame of Anor" hidden within the sword.
+- **D.** His anger at the Riders for daring to question the word of an Elf and a Dwarf.
+- **E.** Evidence that the "cloak of Lorien" was actually a magical suppressor of his true height.
 
 ---
 
@@ -133,11 +133,11 @@ Aragorn’s revelation of himself and Andúril to Éomer, where he seems to "gro
 > **Relevant Passage:**
 > "'This is my choice. You may go; and what is more, I will lend you horses. ... In this I place myself, and maybe my very life, in the keeping of your good faith. Do not fail.'"
 
-- **A.** A reckless disregard for the laws of Rohan.
-- **B.** An intuitive and high-stakes recognition of Aragorn’s character, where the bond of individual "good faith" between noble Men supersedes the rigid, paranoid laws of a state in crisis.
-- **C.** That Éomer is secretly planning to desert the King’s service.
-- **D.** His belief that the horses will eventually run back to him on their own.
-- **E.** A sign that Éomer is afraid of Legolas’s bow.
+- **A.** A reckless disregard for the "Law of the King" that borders on treasonous insanity.
+- **B.** An intuitive recognition of Aragorn’s nobility, where the bond of "good faith" between individuals supersedes the rigid laws of a state under the influence of "evil counsel."
+- **C.** His belief that the horses are actually better judges of character than he is.
+- **D.** A plan to use the "Three Hunters" as a distraction to allow him to desert his post.
+- **E.** A sign that the Rohirrim are more afraid of "Rangers" than they are of "Orcs."
 
 ---
 
@@ -148,8 +148,8 @@ The appearance of the "old bent man" at the edge of the fire, who disappears wit
 > **Relevant Passage:**
 > "there just on the edge of the firelight stood an old bent man... Aragorn and Legolas... sat up and stared. The old man did not speak or make a sign. ... strode forward, but the old man was gone."
 
-- **A.** Provide a helpful warning about the missing horses.
-- **B.** Introduce a moment of profound ambiguity and dread, manifesting the "peril" of Fangorn and the suspected reach of Saruman’s "many guises" into the Company's camp.
-- **C.** Show that Gandalf has returned to help them.
-- **D.** Signal that the hobbits are hiding nearby.
-- **E.** Provide a humorous ending to a long day of walking.
+- **A.** Provide a helpful, if silent, confirmation that the hobbits are safe within the forest.
+- **B.** Introduce a moment of profound ambiguity and dread, manifesting the "peril" of Fangorn and the suspected reach of Saruman’s "many guises."
+- **C.** Show that the "Sun" is no longer the only source of light in the world.
+- **D.** Signal a shift in the narrative toward a "horror" genre where the characters are being watched by an unseen killer.
+- **E.** Portray the "Wild" as a place where the distinction between "Man" and "Tree" is becoming blurred.

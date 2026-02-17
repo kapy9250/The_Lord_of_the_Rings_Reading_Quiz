@@ -8,148 +8,130 @@
 
 ### Question 1 `[ACN/ANT]` `[Advanced]`
 
-The description of the darkness in Shelob's Lair as a "black vapour wrought of veritable darkness" that brings "blindness not only to the eyes but to the mind" characterizes the tunnel as:
+The "blackness" of the tunnel—described as "not a darkness... but a palpable thing" that "strangles memory"—characterizes the environment as:
 
 > **Relevant Passage:**
-> "They walked as it were in a black vapour wrought of veritable darkness itself that, as it was breathed, brought blindness not only to the eyes but to the mind, so that even the memory of colours and of forms... faded out of thought."
+> "It was not a darkness... it was a palpable thing, a weight that could be felt. It choked the breath and strangled memory. ... they were lost in a night that had no end."
 
-- **A.** A simple cave with very little oxygen.
-- **B.** A place of ontological negation, where the environment is not just an absence of light but an active, psychological contaminant that erases the victim's internal connection to the "Seen" world.
-- **C.** Evidence that the hobbits are suffering from physical blindness.
-- **D.** A sign that the Orcs have been using chemical weapons.
-- **E.** A humorous comparison to the dark holes of the Shire.
+- **A.** A simple lack of light due to being underground.
+- **B.** An active, malevolent "Nothingness" that represents the absolute negation of existence and the erasure of individual identity, serving as a physical manifestation of the Shadow's "ultimate" victory.
+- **C.** Evidence that the hobbits are suffering from a biological sensory deprivation.
+- **D.** A plan to lure the hobbits into a state of "memory-loss" so they can be enslaved.
+- **E.** A humorous comparison to the "dark closets" of Bag End.
 
 ---
 
 ### Question 2 `[CIM/ANT]` `[Advanced]`
 
-Sam’s memory of Galadriel and the subsequent "light in his mind" during the moment of total darkness suggests:
+Frodo’s feeling that he is "one small fly... struggling in a vast web" reveals his:
 
-> **Relevant Passage:**
-> "darkness about him and a blackness of despair... he saw a light: a light in his mind... Far off, as in a little picture drawn by elven-fingers, he saw the Lady Galadriel standing on the grass in Lorien..."
-
-- **A.** A literal, telepathic message from the Elven Queen.
-- **B.** The psychological resilience of "High" Elven influence, where the memory of beauty and friendship acts as a spiritual emergency-light that can survive and ignite even in the heart of absolute despair.
-- **C.** A sign that Sam is losing his grip on reality.
-- **D.** His belief that Galadriel is actually hiding in the tunnel.
-- **E.** Evidence that Sam is becoming a wizard.
+- **A.** Fear of spiders common to all hobbits.
+- **B.** Realization of the ontological "littleness" of his mission before the ancient, indifferent horrors of the world, which view his Quest as nothing more than a biological "nourishment" for their own hunger.
+- **C.** Evidence that the tunnel is actually a giant spiderweb.
+- **D.** A sign that he is becoming as "mad" as Gollum.
+- **E.** His desire to find a better brand of "bug-repellent" in Mordor.
 
 ---
 
-### Question 3 `[ACN/PIS]` `[Advanced]`
+### Question 3 `[PIS/SCA]` `[Advanced]`
 
-The comparison of the Phial’s light to "Earendil had himself come down... with the last Silmaril upon his brow" elevates the conflict to:
+The description of Shelob as "the last child of Ungoliant" who "serves no one but her own hunger" establishes her as:
 
 > **Relevant Passage:**
-> "...it began to burn, and kindled to a silver flame... as though Earendil had himself come down from the high sunset paths with the last Silmaril upon his brow."
+> "She served no one but her own hunger. ... she was there before Sauron, and before the first stone of Barad-dur; and she served no one but herself, drinking the blood of Elves and Men..."
 
-- **A.** A minor skirmish with a large spider.
-- **B.** A direct, mythic confrontation between the highest light of the ancient world and the primal darkness of the abyss, contextualizing the hobbits' struggle within the epic history of the Silmarils.
-- **C.** Evidence that Frodo is actually related to Eärendil.
-- **D.** A sign that the Phial is actually a Silmaril.
-- **E.** A humorous exaggeration by the narrator.
+- **A.** A faithful and highly-disciplined officer in the Mordor army.
+- **B.** A primal, nihilistic force of pure consumption that predates the current political conflict, representing a "High" evil that is independent of, and even superior to, the Dark Lord’s "Mastery."
+- **C.** Evidence that Sauron is actually afraid of spiders.
+- **D.** A sign that the "Shadow" has a female leader.
+- **E.** A plan to use Shelob as a biological weapon against Gondor.
 
 ---
 
 ### Question 4 `[CIM/PIS]` `[Advanced]`
 
-Frodo’s decision to walk "steadily down to meet the eyes" with Sting advanced primarily reveals:
+Gollum’s "sniggering" and his comment that "She gets them... She gets the nice hobbits" reveals his plan to be:
 
-> **Relevant Passage:**
-> "Then holding the star aloft and the bright sword advanced, Frodo, hobbit of the Shire, walked steadily down to meet the eyes. ... No brightness so deadly had ever afflicted them before."
-
-- **A.** His overconfidence and lack of fear.
-- **B.** The transformation of his character into a proactive, mythic hero who uses the "deadly brightness" of his own moral clarity and the Elven-light to repel a primal evil that has never been challenged in its own lair.
-- **C.** His belief that he can easily kill the monster with a sword.
-- **D.** A sign that the Ring is protecting him from the eyes.
-- **E.** His desire to find out what the monster actually is.
+- **A.** A sincere attempt to warn the hobbits about the danger.
+- **B.** A "bitter" act of sacrificial betrayal, where he uses the ancient horror of the lair to "cleanse" himself of the hobbits' presence and regain the "Precious" from their corpse, effectively delegating his malice to a superior predator.
+- **C.** Evidence that Gollum has become a worshiper of Shelob.
+- **D.** A sign that he is losing his mind due to the "blackness."
+- **E.** His belief that Shelob is actually a very nice person.
 
 ---
 
-### Question 5 `[PIS/SCA]` `[Advanced]`
+### Question 5 `[CIM/ANT]` `[Advanced]`
 
-Shelob’s nature as a being that "served none but herself" and whose "vomit [was] darkness" characterizes her evil as:
+Frodo’s invocation—"_Aiya Eärendil Elenion Ancalima!_"—while holding the Phial, signifies:
 
-> **Relevant Passage:**
-> "...she served none but herself, drinking the blood of Elves and Men... weaving webs of shadow; for all living things were her food, and her vomit darkness."
-
-- **A.** A political alliance with Sauron.
-- **B.** A purely nihilistic and self-consuming appetite that exists outside of any moral or political structure, representing a chaotic, "ancient" malice that even Sauron cannot fully command.
-- **C.** Evidence that Shelob is actually a very lonely person.
-- **D.** A sign that she is more powerful than the Dark Lord.
-- **E.** His belief that Shelob is actually a misunderstood creature.
+- **A.** A literal distress signal to the Elven-navy.
+- **B.** The explosive reclamation of "High" spiritual authority, where the "Light of the Star" acts as an ontological repellent to the "Blackness," forcing the ancient horror to confront the reality of the unfallen world.
+- **C.** Evidence that Frodo is becoming a wizard himself.
+- **D.** A sign that the Phial is actually a magical weapon.
+- **E.** His desire to show off his linguistic skills to Sam.
 
 ---
 
-### Question 6 `[CIM/PIS]` `[Advanced]`
+### Question 6 `[PIS/SCA]` `[Advanced]`
 
-Gollum’s internal thought—"when She throws away the bones... we shall find it, we shall get it"—reveals his betrayal to be:
+The narrator’s description of Sauron’s "joy" in Shelob’s presence—calling her his "cat" who "tends the back-door"—characterizes their relationship as:
 
 > **Relevant Passage:**
-> "'...It may well be... that when She throws away the bones and the empty garments, we shall find it, we shall get it, the Precious...'"
+> "And sometimes he would send her prisoners... but little he cared if she ate them or no. ... She was his cat, and he found her very useful; she was the best guard he could have."
 
-- **A.** A sign of his genuine loyalty to Shelob.
-- **B.** A secondary, parasitic treachery that uses the "primal" evil of Shelob as a tool to bypass his own "fear of cold iron" and reclaim the Ring from the remains of his "nice Master."
-- **C.** Evidence that Gollum has become a vegetarian.
-- **D.** His belief that Shelob will actually give him the Ring as a reward.
-- **E.** A sign that Gollum is becoming a better provider for his friends.
+- **A.** A loving and domestic friendship between master and pet.
+- **B.** A cynical and predatory strategic alliance based on mutual convenience, where the Dark Lord exploits the monster’s "hunger" to maintain his own security through a shared indifference to the value of life.
+- **C.** Evidence that Sauron is actually a cat-person.
+- **D.** A plan to move his capital to the tunnel.
+- **E.** His belief that Shelob is more reliable than the Nazgûl.
 
 ---
 
-### Question 7 `[ACN/ANT]` `[Advanced]`
+### Question 7 `[CIM/ANT]` `[Advanced]`
 
-The "vast web" that blocks the tunnel’s end, which "gave a little and then sprang back like a plucked bowstring," symbolizes:
+Sam’s reaction to Shelob’s eyes—seeing them as "the very focus of the blackness"—illustrates:
 
-> **Relevant Passage:**
-> "Across the width and height of the tunnel a vast web was spun... it gave a little and then sprang back like a plucked bowstring, turning the blade and tossing up both sword and arm."
-
-- **A.** The high technical skill of the spiders of Mordor.
-- **B.** The suffocating, "impervious" nature of Shelob’s entrapment, where conventional weapons and strength are neutralized by a resilient and ancient malice that absorbs opposition.
-- **C.** Evidence that the Orcs are using the webs as musical instruments.
-- **D.** A sign that the hobbits are actually getting weaker.
-- **E.** A humorous comparison to the cobwebs in Bag End.
+- **A.** His literal visual impairment in the cave.
+- **B.** The visceral encounter with a "Will" that is purely and absolute malevolent, where the monster's perception is experienced as a physical weight of loathing that "pins" the soul.
+- **C.** Evidence that Sam is becoming more "sensitive" to Orc-magic.
+- **D.** A sign that the "blackness" is actually coming from the spider’s eyes.
+- **E.** His desire to find a better pair of sunglasses.
 
 ---
 
-### Question 8 `[CIM/SCA]` `[Advanced]`
+### Question 8 `[ACN/SCA]` `[Advanced]`
 
-Frodo’s "wild joy" and his feeling that his head "whirled as with a draught of potent wine" upon breaking the web indicates:
+The detail that the Phial "flared up like a sudden star" when Frodo drew it from his breast signifies:
 
-> **Relevant Passage:**
-> "Wild joy at their escape from the very mouth of despair suddenly filled all his mind. His head whirled as with a draught of potent wine. ... 'The pass, Sam!' he cried..."
-
-- **A.** A moment of genuine, well-earned celebration.
-- **B.** A dangerous, "fey" intoxication of hope that leads to a momentary loss of caution, leaving him vulnerable to Shelob’s "many exits" and the relentless nature of her pursuit.
-- **C.** Evidence that Frodo has actually been drinking wine in the tunnel.
-- **D.** A sign that the Ring is making him feel happy.
-- **E.** His belief that the mission is now completely finished.
+- **A.** A technical malfunction in the Elven-divination tool.
+- **B.** The "Eucatastrophic" breakthrough of the spiritual "High" world into the deepest "Low" pit of despair, marking the moment where the power of the "Evenstar" protects the "unimportant" hobbit.
+- **C.** Evidence that the Phial is actually a "battery" that has been fully charged.
+- **D.** A sign that Galadriel is following them telepathically.
+- **E.** A humorous comparison to the fireflies of the Shire.
 
 ---
 
-### Question 9 `[CIM/ANT]` `[Advanced]`
+### Question 9 `[CIM/PIS]` `[Advanced]`
 
-Gollum’s "spiteful" error—speaking and gloating before he had both hands on Sam’s neck—demonstrates:
+Sam’s cry of "Galadriel!" and his memory of the "Sunlight" in the middle of the horror represents:
 
-> **Relevant Passage:**
-> "But this time, misled by spite, he had made the mistake of speaking and gloating before he had both hands on his victim's neck. ... This fight was not for him."
-
-- **A.** Gollum’s lack of experience in hand-to-hand combat.
-- **B.** The self-defeating nature of individual malice, where the desire for "pleasure" in the victim's suffering creates a tactical delay that allows the "sturdy" and loyal spirit to prevail.
-- **C.** Evidence that Sam is actually much smarter than Gollum.
-- **D.** A sign that Gollum is becoming too old for murder.
-- **E.** His belief that Sam would never fight back.
+- **A.** A tactical plan to lure the spider toward the light.
+- **B.** The psychological preservation of the "Light of memory," where the internal sanctuary of his past experiences provides the moral fortitude needed to withstand the "Total Nothingness" of the lair.
+- **C.** Evidence that Sam is becoming as "High" as an Elf-lord.
+- **D.** A sign that he has forgotten the Gaffer.
+- **E.** His belief that Galadriel is actually inside the Phial.
 
 ---
 
-### Question 10 `[ACN/SCA]` `[Advanced]`
+### Question 10 `[ACN/ANT]` `[Advanced]`
 
-The final image of Sam rushing "wildly up the path" and being "too late" marks a narrative transition from:
+The final image of Frodo "running... wildly" toward the light of the exit, unaware of the "Shadow" behind him, marks a narrative shift to:
 
 > **Relevant Passage:**
-> "He spun round, and rushed wildly up the path, calling and calling his master's name. He was too late. So far Gollum's plot had succeeded."
+> "He ran wildly. ... He forgot everything else... but the light. He did not see the Shadow that was coming up behind him... the Shadow was Shelob."
 
-- **A.** A successful rescue mission to a total victory for the hobbits.
-- **B.** A moment of focused, individual victory (Sam over Gollum) to a catastrophic, collective failure, leaving the "servant" in a state of absolute isolation and the Quest in its darkest hour.
-- **C.** A sign that the next chapter will be much more cheerful.
-- **D.** Evidence that Sam is becoming a better sprinter than Frodo.
-- **E.** The conclusion of the entire story of the Ring.
+- **A.** A successful and final escape from all danger.
+- **B.** The tragic irony of "hope-blindness," where the intense focus on the "Daylight" creates a tactical vulnerability that allows the "Ancient Malice" to strike at the moment of perceived victory.
+- **C.** Evidence that Frodo has lost his mind.
+- **D.** A sign that the next chapter will be much more cheerful.
+- **E.** The conclusion of the entire story of the hobbits.

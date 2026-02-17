@@ -21,150 +21,168 @@
 
 ### Question 1 `[SCA/ACN]` `[Advanced]`
 
-**The description of Caras Galadhon as a city where more lights spring forth "until all the hill seemed afire with stars" serves to:**
+**The description of Caras Galadhon as being "afire with stars" serves to:**
 
-**Correct Answer: B. Reinforce the theme of Lothlórien as a celestial reflection on earth, where the "stars" of Elbereth find a physical sanctuary amid the "green cloud" of the forest.**
+**Correct Answer: B. Reinforce the theme of Lothlórien as a terrestrial reflection of the celestial realm, where the "stars" symbolize a sanctuary of un-dimmed mythic beauty.**
 
 **Why this is correct:**
-The imagery of "stars" and "light" is consistently associated with Elbereth and the Elves' connection to the Blessed Realm. By describing the city as being "afire with stars," the author emphasizes that Lorien is a place of un-dimmed light and mythic beauty, acting as a beacon against the encroaching darkness. It elevates the city from a mere fortification to a spiritual center.
+The imagery of "stars" is consistently associated with Elbereth and the Elves' connection to the West. By describing the city as being "afire with stars," the author emphasizes that Lorien is a place of mythic light acting as a beacon against the darkness. It elevates the city from a mere fortification to a spiritual center.
 
-**Why E is incorrect** `[OI]`:
-The text presents the lights as a source of "joy" and "wonder" rather than a tactical vulnerability. The city's primary defense is its "secret power," not its darkness.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "light-craft" and "defense."
+- **C** is a "Plausible Misreading" about the "artificial" vs "natural" divide, which doesn't apply to Elven craft.
+- **D** is an "Over-Interpretation" about "drawing the Dark Lord's attention."
+- **E** is a "Lore-Trap" about "unnatural activity."
 
 ---
 
 ### Question 2 `[CIM/ANT]` `[Advanced]`
 
-**Galadriel’s initial silence and her "long look" upon Frodo’s face, before any words are spoken, primarily suggest:**
+**Galadriel’s initial silence and her "long look" primarily suggest:**
 
-**Correct Answer: B. An intense, spiritual "testing" and a profound intuitive assessment of Frodo’s character and the weight of the burden he carries.**
+**Correct Answer: B. An intense, spiritual "weighing" of the Ring-bearer, where she uses her intuitive power to gauge the integrity of the soul behind the "plain hobbit" exterior.**
 
 **Why this is correct:**
-The text notes that "she said no word but looked long upon his face." This non-verbal interaction is clarified later when the hobbits describe her "looking inside" them. Galadriel is using her vast "knowledge" and "thought" to gauge the strength of the Ring-bearer and his companions, establishing her as a figure of high authority and mystical insight.
+This non-verbal interaction is clarified later when the hobbits describe her "looking inside" them. Galadriel is using her vast knowledge to gauge the strength of the Ring-bearer, establishing her authority and mystical insight.
 
-**Why E is incorrect** `[AM]`:
-Galadriel later tells Frodo "I perceive the Dark Lord and know his mind," and she welcomes the Company as "friend[s]." Her look is not one of suspicion, but of deep, evaluative scrutiny.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that suspects "aloofness."
+- **C** is a "Surface-Level Literalism" about "seeing a hobbit with a wound."
+- **D** is a "Plausible Misreading" about "preventing the Ring from sensing her."
+- **E** is a "Lore-Trap" about "telepathy with the Ring."
 
 ---
 
 ### Question 3 `[PIS/SCA]` `[Advanced]`
 
-**Galadriel’s defense of Gandalf against Celeborn’s criticism ("Needless were none of the deeds of Gandalf in life") reveals:**
+**Galadriel’s defense of Gandalf reveals:**
 
-**Correct Answer: B. A deeper understanding of the "higher" wisdom that governs the Istari’s actions, which recognizes that what appears as "folly" to others is often a necessary sacrifice.**
+**Correct Answer: B. A "higher" wisdom that recognizes Gandalf’s fall not as a failure of planning, but as a necessary submission to a providential and tragic fate.**
 
 **Why this is correct:**
-Celeborn views the entry into Moria as a tactical "folly." Galadriel, who "first summoned the White Council," understands that Gandalf operated on a different level of foresight. She recognizes that his deeds were "not needless," implying that even his "fall" had a purpose or was a result of a path forced by a higher necessity. This highlights Galadriel's intellectual and spiritual peerage with Gandalf.
+Galadriel understands that Gandalf operated on a different level of foresight. She recognizes that his deeds were "not needless," implying his "fall" had a purpose or was forced by a higher necessity. This highlights Galadriel's spiritual peerage with Gandalf.
 
-**Why D is incorrect** `[OI]`:
-The text says "Those that followed him knew not his mind," including Galadriel. Her defense is based on her trust in Gandalf's *character* and his *wisdom* as an Istari, rather than on a secret shared plan.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "marital tension."
+- **C** is an "Academic Over-Interpretation" about "true leadership of the White Council."
+- **D** is a "Plausible Misreading" about Celeborn being "influenced by the Shadow."
+- **E** is a "Lore-Trap" about a "secret record."
 
 ---
 
 ### Question 4 `[CIM/ANT]` `[Advanced]`
 
-**Sam’s feeling of being "uncovered" and "as if I hadn't got nothing on" during Galadriel’s searching glance indicates:**
+**Sam’s feeling of being "uncovered" indicates:**
 
-**Correct Answer: B. The psychological "unmasking" power of Galadriel, who forces each individual to confront their most hidden desires and the potential for their own betrayal.**
+**Correct Answer: B. The psychological "stripping" power of the Lady, who forces each individual to confront their most private temptations and the possibility of their own betrayal.**
 
-**Why this correct:**
-Sam explains that she was "looking inside me and asking me what I would do." This confirms that Galadriel's "glance" was an internal challenge. The feeling of nakedness represents the total lack of psychological defense before her insight. She exposes the hobbits to their own hearts, which is both a "test" and a form of spiritual preparation for the road ahead.
+**Why this is correct:**
+Sam explains she was "asking me what I would do." This confirms Galadriel's glance was an internal challenge. The feeling of nakedness represents the total lack of psychological defense before her insight. She exposes the hobbits to their own hearts.
 
-**Why A is incorrect** `[SL]`:
-Sam's "blushing" and his subsequent explanation ("nothing worse than a wicked plot") prove that the embarrassment is moral and internal (the "garden of my own"), rather than physical.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "social embarrassment."
+- **C** is an "Over-Interpretation" about "physical sensitivity."
+- **D** is a "Plausible Misreading" about "secret service."
+- **E** is a "Comedy" distractor about "transparency."
 
 ---
 
 ### Question 5 `[PIS/SCA]` `[Advanced]`
 
-**Boromir’s reaction to Galadriel’s testing—calling it a "test" where she "pretended to have the power to give"—suggests that his primary internal conflict is:**
+**Boromir’s reaction to Galadriel’s testing suggests that his primary internal conflict is:**
 
-**Correct Answer: B. A defensive rationalization of his own temptation, where he dismisses the Lady’s spiritual challenge by framing it as a manipulative or "pretend" offer.**
+**Correct Answer: B. A defensive rationalization where he dismisses the spiritual weight of his own temptation by framing the Lady’s power as a "pretend" or manipulative trick.**
 
 **Why this is correct:**
-Boromir's pride makes him resistant to the idea that he could be "tempted." By claiming she only "pretended" to have the power to give what he desired, he protects his self-image as a "true" man of Gondor. His "doubt" of her "purposes" is a psychological defense mechanism against the reality of his own ambition and his potential to turn aside from the quest.
+Boromir's pride makes him resistant to the idea that he could be "tempted." By claiming she only "pretended" to have power, he protects his self-image. His doubt is a psychological defense mechanism against the reality of his own ambition.
 
-**Why E is incorrect** `[PT]`:
-While he may have felt a desire for comfort, his primary "testing" involved his duty to Gondor and his desire for a "weapon" to win the war, as implied by his earlier arguments at the Council.
+**Analysis of Distractors:**
+- **A** is a "Lore-Trap" about "forbidden sorcery."
+- **C** is a "Moralistic Misreading" about being tested in front of "Little Folk."
+- **D** is a "Plausible Misreading" about "Gondor’s strength."
+- **E** is an "Over-Interpretation" about "being truer than Aragorn."
 
 ---
 
 ### Question 6 `[CIM/ANT]` `[Advanced]`
 
-**Frodo’s song for Gandalf ("A lord of wisdom throned he sat... in Khazad-dum his wisdom died") conveys:**
+**Frodo’s song for Gandalf conveys:**
 
-**Correct Answer: B. A synthesis of the mythic ("lord of wisdom") and the domestic ("battered hat"), capturing the dual nature of Gandalf’s presence and the profound personal loss felt by the hobbits.**
+**Correct Answer: B. A synthesis of the mythic and the domestic, capturing the profound personal intimacy and the cosmic significance of the loss felt by the survivors.**
 
 **Why this is correct:**
-The song balances Gandalf's power ("trump-voice," "burning brand") with his accessibility ("old man in a battered hat"). This encapsulates why the loss is so "keen" for Frodo; he has lost both a cosmic guardian and a dear friend. The "death of wisdom" in Khazad-dûm reflects the Company's feeling of intellectual and spiritual abandonment.
+The song balances Gandalf's mythic status with his domestic persona ("battered hat"). This encapsulates why the loss is so keen; he has lost both a guardian and a friend.
 
-**Why A is incorrect** `[OI]`:
-The phrase "his wisdom died" is a poetic way of saying the *source* of their guidance is gone, rather than a literal critique of Gandalf's intellectual choices.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that interprets the "hat" as a "symbol of failure."
+- **C** is an "Academic Over-Interpretation" using the term "formal structures."
+- **D** is a "Plausible Misreading" about "last words."
+- **E** is a "Moralistic Misreading" about "wisdom permanently extinguished."
 
 ---
 
 ### Question 7 `[ACN/ANT]` `[Advanced]`
 
-**The Mirror of Galadriel’s ability to show things "unbidden" and its danger as a "guide of deeds" primarily emphasizes:**
+**The Mirror’s danger as a "guide of deeds" primarily emphasizes:**
 
-**Correct Answer: B. The complexity of time and choice, suggesting that seeing the future can lead to despair or rash action if not tempered by the wisdom to realize that visions are "possible" rather than "inevitable."**
+**Correct Answer: B. The danger of "moral paralysis" or "rash action," where seeing a possible future can distract an individual from their immediate, ethical duty.**
 
 **Why this is correct:**
-Galadriel warns that "some [visions] never come to be, unless those that behold the visions turn aside... to prevent them." This identifies the Mirror as a psychological snare. If Sam had rushed home to save his "garden," he might have *caused* the very failure he feared. The Mirror assesses the beholder's ability to remain "true" to their primary task despite disturbing visions.
+Galadriel warns that visions can lead those who behold them to "turn aside." The Mirror assesses the beholder's ability to remain true to their task despite disturbing visions. It emphasizes that choice is more important than foresight.
 
-**Why D is incorrect** `[OI]`:
-Galadriel explicitly calls it the "magic of Galadriel," and she warns Frodo not to touch the water when the Eye appears, showing she maintains control over the Mirror's physical manifestation even if its visions are "free to work."
+**Analysis of Distractors:**
+- **A** is a "Comedy" distractor about "technical flaws."
+- **C** is a "Lore-Trap" about a "portal to Sauron."
+- **D** is a "Moralistic Misreading" about "following first instincts."
+- **E** is a "Plausible Misreading" about Galadriel's own "uncertainty."
 
 ---
 
 ### Question 8 `[CIM/ANT]` `[Advanced]`
 
-**Frodo’s vision of the "single Eye" and his feeling that the Ring "grew heavy, heavier than a great stone" reveal:**
+**Frodo’s vision of the Eye and the Ring’s weight reveal:**
 
-**Correct Answer: B. The immediate, spiritual "gravity" exerted by the Dark Lord's direct observation, which pulls the Ring-bearer toward the abyss of the Enemy's will.**
+**Correct Answer: B. The spiritual "gravity" exerted by Sauron’s direct, malevolent attention, which creates a literal and metaphorical drag on the Ring-bearer's soul.**
 
 **Why this is correct:**
-The physical weight of the Ring increases the moment the Eye appears. This is a manifestation of the "drawing" power Gandalf and Strider mentioned. The Eye’s search is not just visual but spiritual; it creates a literal "drag" on Frodo’s person, demonstrating the intense psychological pressure of being the target of Sauron’s direct, burning attention.
+The weight increases when the Eye appears. This is a manifestation of the "drawing" power of the Shadow. The Eye’s search creates a literal "drag" on Frodo, demonstrating the intense psychological pressure of being Sauron’s target.
 
-**Why E is incorrect** `[OI]`:
-His "shaking all over" and his being "rooted" show that the "slipping forward" is a result of the intense spiritual connection between the Eye and the Ring, rather than a simple loss of balance.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "cold water."
+- **C** is a "Plausible Misreading" about the Ring "leaping into the water."
+- **D** is an "Academic Over-Interpretation" about "reflection of own corruption."
+- **E** is a "Lore-Trap" about the Mirror "drowning the Ring."
 
 ---
 
 ### Question 9 `[CIM/PIS]` `[Advanced]`
 
-**Galadriel’s outburst when Frodo offers her the Ring ("In place of the Dark Lord you will set up a Queen! ... All shall love me and despair!") represents:**
+**Galadriel’s outburst represents:**
 
-**Correct Answer: B. A momentary, visceral surrender to the Ring’s temptation, vocalizing the horrific "perfection" of a world governed by an absolute, even "beautiful," tyranny.**
+**Correct Answer: B. A momentary, visceral surrender to the Ring’s logic, articulating the horrific "perfection" of a world governed by an absolute and "beautiful" tyranny.**
 
 **Why this is correct:**
-Galadriel’s transformation—"beautiful beyond enduring, terrible and worshipful"—is the visual climax of her temptation. Her words reveal the specific "hook" the Ring has in the Wise: the desire to do "good" through absolute, unquestioned power. By saying "All shall love me and despair," she captures the paradoxical soul-crushing nature of a "benevolent" Dark Queen.
+Galadriel’s transformation into someone "beautiful and terrible" is the climax of her temptation. Her words reveal the Ring's specific "hook" in the Wise: the desire to do "good" through absolute power. "All shall love me and despair" captures the soul-crushing nature of a benevolent tyranny.
 
-**Why C is incorrect** `[AM]`:
-The text says she "greatly desired to ask what you offer" and that she was "revenged for [her] testing of your heart." This was a genuine, high-stakes moral crisis for her, not a performance.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that suspects a "long-term plan."
+- **C** is a "Plausible Misreading" that frames the crisis as a "performance."
+- **D** is a "Half-Truth" about her "power."
+- **E** is an "Academic Over-Interpretation" about "inherent susceptibility."
 
 ---
 
 ### Question 10 `[CIM/SCA]` `[Advanced]`
 
-**Galadriel’s final words—"I pass the test. I will diminish, and go into the West, and remain Galadriel"—signify:**
+**Galadriel’s final words signify:**
 
-**Correct Answer: B. A supreme act of moral willpower and self-sacrifice, choosing to accept the loss of her power and her land rather than achieve victory through the use of an evil instrument.**
+**Correct Answer: B. A supreme act of moral willpower, choosing to accept the inevitable "fading" of her world and her own ego rather than achieve victory through an evil instrument.**
 
 **Why this is correct:**
-Galadriel knows that if Frodo succeeds, Lorien will "fade" and she must "diminish." By refusing the Ring, she accepts her own "fading" and the end of her reign. She chooses to "remain Galadriel" (an individual with integrity) rather than become a "Queen" (a powerful but corrupted entity). This is her personal "long defeat," chosen over an easy but evil victory.
+Galadriel knows that if Frodo succeeds, Lorien will "fade." By refusing the Ring, she accepts her own "fading." She chooses to "remain Galadriel" (integrity) rather than become a "Queen" (corruption).
 
-**Why E is incorrect** `[SL]`:
-She doesn't think Frodo is the only one who *can* use it; she thinks he is the only one who *should* carry it, because he is the only one who does not wish to "use" it at all.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 7 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 6 |
-| Pragmatic Implicature & Subtext (PIS) | 3 |
-| Situational & Contextual Awareness (SCA) | 4 |
-| Authorial Craft & Narrative Strategy (ACN) | 2 |
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "admission of defeat."
+- **C** is a "Moralistic Misreading" about "letting Frodo carry the burden of failure."
+- **D** is a "Plausible Misreading" about "boredom."
+- **E** is an "Over-Interpretation" about the "importance of her identity vs Middle-earth."

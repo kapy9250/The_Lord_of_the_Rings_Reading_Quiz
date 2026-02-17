@@ -13,11 +13,11 @@ The description of Caras Galadhon as a city where more lights spring forth "unti
 > **Relevant Passage:**
 > "Along this they went westward, with the city ever climbing up like a green cloud upon their left; and as the night deepened more lights sprang forth, until all the hill seemed afire with stars."
 
-- **A.** Show that the Elves are using high-energy electrical systems.
-- **B.** Reinforce the theme of Lothlórien as a celestial reflection on earth, where the "stars" of Elbereth find a physical sanctuary amid the "green cloud" of the forest.
-- **C.** Suggest that the city is actually on fire and under attack.
-- **D.** Highlight the Elves' inability to live in natural darkness.
-- **E.** Provide a tactical explanation for why the city is so easy to find at night.
+- **A.** Emphasize the advanced "light-craft" of the Elves which provides a practical defense against Orc-night-vision.
+- **B.** Reinforce the theme of Lothlórien as a terrestrial reflection of the celestial realm, where the "stars" symbolize a sanctuary of un-dimmed mythic beauty.
+- **C.** Contrast the "green cloud" of nature with the "artificial" lights of Elven civilization.
+- **D.** Portray the city as a "beacon" that is intentionally drawing the Dark Lord’s attention away from the Shire.
+- **E.** Suggest that the city is in a state of "unnatural" activity due to the arrival of the Ring.
 
 ---
 
@@ -28,11 +28,11 @@ Galadriel’s initial silence and her "long look" upon Frodo’s face, before an
 > **Relevant Passage:**
 > "Haldir led Frodo before them, and the Lord welcomed him in his own tongue. The Lady Galadriel said no word but looked long upon his face."
 
-- **A.** Her arrogance and her refusal to speak to "little folk."
-- **B.** An intense, spiritual "testing" and a profound intuitive assessment of Frodo’s character and the weight of the burden he carries.
-- **C.** Her confusion about what a hobbit is.
-- **D.** A sign that she is losing her voice after uncounted years.
-- **E.** Her suspicion that Frodo is actually a spy for Sauron.
+- **A.** A sense of High-Elven aloofness that views "mortals" as unworthy of immediate speech.
+- **B.** An intense, spiritual "weighing" of the Ring-bearer, where she uses her intuitive power to gauge the integrity of the soul behind the "plain hobbit" exterior.
+- **C.** Her confusion at seeing a hobbit who has been marked by a Morgul-wound.
+- **D.** A defensive posture intended to prevent the Ring from sensing her own thoughts.
+- **E.** A sign that she is already communicating telepathically with the Ring itself.
 
 ---
 
@@ -43,11 +43,11 @@ Galadriel’s defense of Gandalf against Celeborn’s criticism ("Needless were 
 > **Relevant Passage:**
 > "'...one would say that at the last Gandalf fell from wisdom into folly, going needlessly into the net of Moria.' 'He would be rash indeed that said that thing,' said Galadriel gravely. 'Needless were none of the deeds of Gandalf in life.'"
 
-- **A.** Her personal romantic attachment to Gandalf.
-- **B.** A deeper understanding of the "higher" wisdom that governs the Istari’s actions, which recognizes that what appears as "folly" to others is often a necessary sacrifice.
-- **C.** Her desire to argue with her husband in front of their guests.
-- **D.** That Gandalf had secretly told her his plan before he died.
-- **E.** Her belief that no one in Moria was actually in danger.
+- **A.** A marital tension between Galadriel and Celeborn regarding their respective roles in the War.
+- **B.** A "higher" wisdom that recognizes Gandalf’s fall not as a failure of planning, but as a necessary submission to a providential and tragic fate.
+- **C.** Evidence that Galadriel was the "true" leader of the White Council all along.
+- **D.** Her suspicion that Celeborn is being influenced by the "Shadow" to doubt his allies.
+- **E.** A sign that the Elves possess a "record" of Gandalf’s deeds that the hobbits are not permitted to see.
 
 ---
 
@@ -58,11 +58,11 @@ Sam’s feeling of being "uncovered" and "as if I hadn't got nothing on" during 
 > **Relevant Passage:**
 > "'If you want to know, I felt as if I hadn't got nothing on, and I didn't like it. She seemed to be looking inside me and asking me what I would do if she gave me the chance of flying back home...'"
 
-- **A.** Sam’s embarrassment about his physical appearance.
-- **B.** The psychological "unmasking" power of Galadriel, who forces each individual to confront their most hidden desires and the potential for their own betrayal.
-- **C.** A sign that Sam is suffering from a literal lack of clothing in the pavilion.
-- **D.** His belief that Galadriel is trying to steal his secrets.
-- **E.** A humorous reaction to Elvish fashion.
+- **A.** A social embarrassment caused by the "High-Noble" environment of the pavilion.
+- **B.** The psychological "stripping" power of the Lady, who forces each individual to confront their most private temptations and the possibility of their own betrayal.
+- **C.** Evidence that Sam is suffering from a literal physical sensitivity to the Elven-light.
+- **D.** A sign that Galadriel is attempting to "recruit" Sam into a secret service for Lothlórien.
+- **E.** A humorous reaction to the "transparency" that Frodo has been experiencing.
 
 ---
 
@@ -73,11 +73,11 @@ Boromir’s reaction to Galadriel’s testing—calling it a "test" where she "p
 > **Relevant Passage:**
 > "'Maybe it was only a test... but almost I should have said that she was tempting us, and offering what she pretended to have the power to give. ... The Men of Minas Tirith are true to their word.'"
 
-- **A.** His realization that Galadriel is actually a servant of the Enemy.
-- **B.** A defensive rationalization of his own temptation, where he dismisses the Lady’s spiritual challenge by framing it as a manipulative or "pretend" offer.
-- **C.** His anger that Galadriel did not offer him the Ring.
-- **D.** A belief that the Elves are too weak to help Gondor.
-- **E.** His desire to return to Bree and stay at the inn.
+- **A.** His realization that the Elves are using "forbidden" sorcery to manipulate the Company.
+- **B.** A defensive rationalization where he dismisses the spiritual weight of his own temptation by framing the Lady’s power as a "pretend" or manipulative trick.
+- **C.** His anger that Galadriel chose to test him in front of "Little Folk."
+- **D.** A belief that Gondor’s strength is the only "real" power in the world.
+- **E.** His desire to prove that he is "truer" to his word than even Aragorn is.
 
 ---
 
@@ -88,11 +88,11 @@ Frodo’s song for Gandalf ("A lord of wisdom throned he sat... in Khazad-dum hi
 > **Relevant Passage:**
 > "_A lord of wisdom throned he sat, / swift in anger, quick to laugh; / an old man in a battered hat / who leaned upon a thorny staff. ... in Khazad-dum his wisdom died._"
 
-- **A.** His belief that Gandalf’s death was a failure of intelligence.
-- **B.** A synthesis of the mythic ("lord of wisdom") and the domestic ("battered hat"), capturing the dual nature of Gandalf’s presence and the profound personal loss felt by the hobbits.
-- **C.** A sign that Frodo is becoming a better poet than Bilbo.
-- **D.** His regret that Gandalf did not show more "fireworks."
-- **E.** A prediction that Gandalf will never be replaced.
+- **A.** A belief that Gandalf’s "battered hat" was a symbol of his eventual intellectual failure.
+- **B.** A synthesis of the mythic and the domestic, capturing the profound personal intimacy and the cosmic significance of the loss felt by the survivors.
+- **C.** A sign that Frodo is attempting to "master" his grief through the formal structures of Elven-poetry.
+- **D.** His regret that he did not listen more closely to Gandalf’s "last words" at the Bridge.
+- **E.** A prediction that without Gandalf, the "wisdom" of the world has been permanently extinguished.
 
 ---
 
@@ -103,11 +103,11 @@ The Mirror of Galadriel’s ability to show things "unbidden" and its danger as 
 > **Relevant Passage:**
 > "'...the Mirror will also show things unbidden, and those are often stranger and more profitable... The Mirror is dangerous as a guide of deeds.'"
 
-- **A.** The unreliability of Elvish technology.
-- **B.** The complexity of time and choice, suggesting that seeing the future can lead to despair or rash action if not tempered by the wisdom to realize that visions are "possible" rather than "inevitable."
-- **C.** That Sam should have never looked in the water.
-- **D.** That the Mirror is actually controlled by Sauron.
-- **E.** The importance of following the Gaffer’s advice.
+- **A.** The technical flaws in Elven divination tools.
+- **B.** The danger of "moral paralysis" or "rash action," where seeing a possible future can distract an individual from their immediate, ethical duty.
+- **C.** That the Mirror is a direct portal to the mind of the Dark Lord.
+- **D.** The importance of following one’s "first instincts" rather than looking for omens.
+- **E.** That Galadriel herself is unsure of the Mirror’s origin or purpose.
 
 ---
 
@@ -118,11 +118,11 @@ Frodo’s vision of the "single Eye" and his feeling that the Ring "grew heavy, 
 > **Relevant Passage:**
 > "In the black abyss there appeared a single Eye... and Frodo knew with certainty and horror that among the many things that it sought he himself was one. ... The Ring... grew heavy, heavier than a great stone..."
 
-- **A.** The physical weight of the gold chain.
-- **B.** The immediate, spiritual "gravity" exerted by the Dark Lord's direct observation, which pulls the Ring-bearer toward the abyss of the Enemy's will.
-- **C.** That the Mirror is physically dragging Frodo into the water.
-- **D.** A sign that the Eye is actually located inside the Ring.
-- **E.** Frodo’s fear that he is losing his balance.
+- **A.** A purely physical reaction to the cold water of the Mirror.
+- **B.** The spiritual "gravity" exerted by Sauron’s direct, malevolent attention, which creates a literal and metaphorical drag on the Ring-bearer's soul.
+- **C.** That the Ring is attempting to "leap" into the water to reach the Eye.
+- **D.** Evidence that the Eye is actually a "reflection" of Frodo’s own growing corruption.
+- **E.** A sign that the Mirror is trying to "drown" the Ring to protect Lorien.
 
 ---
 
@@ -133,11 +133,11 @@ Galadriel’s outburst when Frodo offers her the Ring ("In place of the Dark Lor
 > **Relevant Passage:**
 > "'...In place of the Dark Lord you will set up a Queen. And I shall not be dark, but beautiful and terrible as the Morning and the Night! ... All shall love me and despair!'"
 
-- **A.** Her true, hidden ambition to rule Middle-earth.
-- **B.** A momentary, visceral surrender to the Ring’s temptation, vocalizing the horrific "perfection" of a world governed by an absolute, even "beautiful," tyranny.
-- **C.** A theatrical performance intended to scare Sam.
-- **D.** Her anger that Frodo thinks she is as weak as a hobbit.
-- **E.** A sign that she has already been corrupted by the Ring of Adamant.
+- **A.** Her hidden, long-term plan to betray Elrond and rule Middle-earth.
+- **B.** A momentary, visceral surrender to the Ring’s logic, articulating the horrific "perfection" of a world governed by an absolute and "beautiful" tyranny.
+- **C.** A pedagogical performance intended to teach Frodo the difference between "love" and "power."
+- **D.** Her realization that she is actually more powerful than Sauron if she chooses to be.
+- **E.** A sign that the "Eldest" Elves are inherently susceptible to the desire for "Morning and Night."
 
 ---
 
@@ -148,8 +148,8 @@ Galadriel’s final words—"I pass the test. I will diminish, and go into the W
 > **Relevant Passage:**
 > "'I pass the test. I will diminish, and go into the West, and remain Galadriel.' ... 'I would [take the Ring],' she said. 'That is how it would begin. But it would not stop with that, alas!'"
 
-- **A.** Her failure to become a powerful ruler.
-- **B.** A supreme act of moral willpower and self-sacrifice, choosing to accept the loss of her power and her land rather than achieve victory through the use of an evil instrument.
-- **C.** Her decision to stay in Lothlórien and fight Sauron with her own Ring.
-- **D.** A sign that she is bored with the politics of Middle-earth.
-- **E.** Her belief that Frodo is the only one who can actually use the Ring.
+- **A.** Her admission of defeat and her loss of status among the Elves.
+- **B.** A supreme act of moral willpower, choosing to accept the inevitable "fading" of her world and her own ego rather than achieve victory through an evil instrument.
+- **C.** Her decision to let Frodo carry the "burden" of failure so she can remain "fair."
+- **D.** A sign that she is bored with the "long defeat" and wants to return to the sea.
+- **E.** Her belief that "remaining Galadriel" is more important than the survival of Middle-earth.

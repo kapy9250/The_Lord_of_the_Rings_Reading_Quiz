@@ -15,156 +15,174 @@
 | 7 | A | PIS/SCA | Advanced |
 | 8 | B | CIM/ANT | Advanced |
 | 9 | B | ACN/SCA | Advanced |
-| 10 | B | CIM/ANT | Advanced |
+| 10 | A | CIM/ANT | Advanced |
 
 ---
 
 ### Question 1 `[ACN/ANT]` `[Advanced]`
 
-**The "veiling shadow" that Legolas sees approaching from Isengard, described as "twilight under endless trees... flowing downwards from the hills," primarily serves to:**
+**The "veiling shadow" that Legolas sees approaching primarily serves to:**
 
-**Correct Answer: B. Manifest the psychological and physical "reach" of Saruman's sorcery, characterizing his power as a corrosive, unnatural twilight that consumes the clarity of the natural world.**
+**Correct Answer: B. Manifest the physical and psychological "reach" of Saruman’s sorcery, characterizing his power as an unnatural darkness that consumes the clarity of the natural world.**
 
 **Why this is correct:**
-Legolas notes that it is "not mist or cloud" but a "veiling shadow" laid upon the land. This characterizes Saruman's malice as an atmospheric force that precedes his armies. It symbolizes the wizard's attempt to "over-write" the natural world with his own "shuttered" and dark vision, creating an environment of confusion and dread for his enemies.
+Legolas notes it is "not mist or cloud" but a "veiling shadow." This characterizes Saruman's malice as an atmospheric force. It symbolizes the wizard's attempt to "over-write" the natural world with his own dark vision, creating an environment of dread that "defeats" even Elven-eyes.
 
-**Why E is incorrect** `[OI]`:
-While the shadow does help them travel, its primary narrative function is to emphasize the "unnatural" and sorcerous quality of Saruman's power, which "defeats" even the keen eyes of an Elf.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "temperature" and "accuracy."
+- **C** is a "Plausible Misreading" about "losing Elven-sight."
+- **D** is an "Academic Over-Interpretation" using the "golden haze" parallel.
+- **E** is a "Lore-Trap" about "portable darkness."
 
 ---
 
 ### Question 2 `[CIM/ANT]` `[Advanced]`
 
-**Théoden’s response to the weary messenger Ceorl ("a west wind has shaken the boughs") indicates a character transformation that is:**
+**Théoden’s response to the messenger Ceorl indicates a character transformation that is:**
 
-**Correct Answer: B. A poetic acknowledgment of his spiritual re-awakening and his reclamation of royal agency, identifying Gandalf’s influence as a restorative natural force.**
+**Correct Answer: B. A poetic reclamation of his royal agency, where he identifies Gandalf’s influence as a restorative natural force that has "shaken" him back into heroic life.**
 
 **Why this is correct:**
-Théoden uses the metaphor of the "old tree under winter snow" to describe his former state under Wormtongue. The "west wind" is a symbol of Gandalf (and the return of hope). This shows Théoden has regained his poetic, kingly voice and his self-awareness. He is no longer "bent" by despair but has been "shaken" back into life and leadership.
+Théoden uses the metaphor of the "old tree under winter snow" to describe his former state. The "west wind" is a symbol of Gandalf. This shows Théoden has regained his poetic voice and his self-awareness. He is no longer "bent" by despair but has been "shaken" back into leadership.
 
-**Why D is incorrect** `[PT]`:
-While he is taking action to help Erkenbrand, the quote itself is a more profound statement about his *internal* state and the source of his new-found strength, rather than a direct apology for the past.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "physical rejuvenation."
+- **C** is an "Over-Interpretation" calling the wind a "magical weapon."
+- **D** is a "Moralistic Misreading" that treats the quote as a simple "apology."
+- **E** is an "Academic Over-Interpretation" about "imitating Elves."
 
 ---
 
 ### Question 3 `[PIS/SCA]` `[Advanced]`
 
-**Hama’s comment that "Gandalf Greyhame has need of haste... Ever he goes and comes unlooked-for" reflects a cultural perception of Gandalf as:**
+**Hama’s comment reflects a cultural perception of Gandalf as:**
 
-**Correct Answer: B. A "force of nature" or a mythic agent who operates on a different, more urgent timescale than mortal Men, whose arrivals and departures are synonymous with the shifting tides of fate.**
+**Correct Answer: B. A respectful acceptance of Gandalf as a "force of nature" who operates on a mythic timescale, where his "unlooked-for" movements are synonymous with the shifting tides of fate.**
 
 **Why this is correct:**
-Hama’s tone is one of acceptance and respect. He understands that Gandalf's movements are beyond the common man's explanation. This reflects the Rohirrim's relationship with the "mythic"—they accept Gandalf as a being who "ever" behaves this way, identifying him as a historical constant in a world of "dark days."
+Hama’s tone is one of acceptance. He understands that Gandalf's movements are beyond common man's explanation. This reflects the Rohirrim's relationship with the "mythic"—they accept Gandalf as a constant in a world of "dark days."
 
-**Why A is incorrect** `[SL]`:
-The text notes that "Wormtongue, were he here, would not find it hard to explain," implying that only a traitor would view Gandalf's haste as proof of untrustworthiness. Hama, the "Doorward," chooses to "wait until I see Gandalf again," showing his trust.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "cultural mistrust."
+- **C** is a "Plausible Misreading" about "frustration with an itinerary."
+- **D** is a "Lore-Trap" about "Stormcrow."
+- **E** is an "Over-Interpretation" about "tactical plans to hide him."
 
 ---
 
 ### Question 4 `[CIM/SCA]` `[Advanced]`
 
-**Gimli’s feeling that the country has "tough bones" and his desire for "a row of orc-necks and room to swing" reveals his:**
+**Gimli’s feeling that the country has "tough bones" reveal his:**
 
-**Correct Answer: B. Deep, lithic affinity for stone and structure, where the physical durability of the fortress provides him with a spiritual and martial clarity that he lacked during the "tiring" river voyage and open-plain ride.**
+**Correct Answer: B. Deep, lithic affinity for stone, where the physical durability of the fortress provides him with a martial and spiritual clarity he lacked in the open Wild.**
 
 **Why this is correct:**
-Gimli is "at home" in the mountains. The "good rock" of Helm's Deep invigorates him. His heart "rises" because he is in an environment he understands and can physically master. The "tough bones" of the earth resonate with his own "hard" Dwarf-nature, allowing him to regain his confidence and stamina for the coming battle.
+Gimli is "at home" in the mountains. The "good rock" of Helm's Deep invigorates him. His heart "rises" because he is in an environment he understands. The "tough bones" of the earth resonate with his own "hard" Dwarf-nature.
 
-**Why D is incorrect** `[SL]`:
-Gimli's feeling is the *opposite* of Legolas's. Legolas "do[es] not like this place," whereas Gimli is "comforted" by it. It highlights their different racial perspectives on nature and architecture.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "hatred for the soft plains."
+- **C** is a "Comedy" distractor about "ancient giants."
+- **D** is a "Lore-Trap" about "becoming grim and white."
+- **E** is a "Plausible Misreading" using the term "biological need."
 
 ---
 
 ### Question 5 `[ACN/ANT]` `[Advanced]`
 
-**The image of the Orcs as a "great field of dark corn, tossed by a tempest of war" during the lightning flashes serves to:**
+**The image of the Orcs as a "great field of dark corn" serves to:**
 
-**Correct Answer: B. Dehumanize the enemy into a vast, mindless, and destructive biological mass, while simultaneously highlighting the terrifying "industrial" precision of their armor and weapons ("barbed light").**
+**Correct Answer: B. Dehumanize the enemy into a mindless biological mass, while emphasizing the terrifying, cold precision of their "industrial" weaponry.**
 
 **Why this is correct:**
-The "dark corn" metaphor suggests a harvest of death. It turns the hundreds of individuals into a singular, overwhelming "tide." The "barbed light" of the ears of corn emphasizes the aggressive, sharp, and cold nature of the Isengard forces. It is a terrifying image of a "tempest" that is both natural (the storm) and sorcerous (the Uruk-hai).
+The "dark corn" metaphor suggests a harvest of death. It turns the individuals into a singular "tide." The "barbed light" of the ears of corn emphasizes the aggressive, sharp nature of the Isengard forces.
 
-**Why D is incorrect** `[AM]`:
-The men of the Mark are "amazed" and "the sky was utterly dark," suggesting a feeling of awe and terror rather than a confidence that the battle will be easy.
+**Analysis of Distractors:**
+- **A** is a "Lore-Trap" about "botanical constructs."
+- **C** is a "Comedy" distractor about "pastoral comfort."
+- **D** is a "Moralistic Misreading" about the battle being an "easy harvest."
+- **E** is an "Academic Over-Interpretation" about "natural consequences."
 
 ---
 
 ### Question 6 `[CIM/SCA]` `[Advanced]`
 
-**Aragorn and Éomer’s "joint" sortie through the postern-gate, crying their respective swords' names, symbolizes:**
+**Aragorn and Éomer’s "joint" sortie symbolizes:**
 
-**Correct Answer: B. The formal and heroic re-unification of the two great branches of the Men of the West (Gondor and Rohan) in a shared, desperate act of defiance against the Shadow.**
+**Correct Answer: B. The heroic re-unification of the branches of the Men of the West in a shared act of defiance against the Shadow.**
 
 **Why this is correct:**
-Their simultaneous cries of "Guthwine!" and "Anduril!" link the "Mark" and the "Dunedain" together. This is a moment of high-heroic fellowship. By charging "as one," they demonstrate that the ancient alliance mentioned at the Council is being lived out in the heat of battle, providing a model of human unity that stands against Saruman’s treachery.
+Their simultaneous cries link the "Mark" and the "Dunedain." This is a moment of fellowship. By charging "as one," they demonstrate that the ancient alliance is being lived out in the heat of battle.
 
-**Why A is incorrect** `[SL]`:
-The text presents their actions as a coordinated and mutually supportive charge ("Together Eomer and Aragorn sprang"), rather than a competition between them.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "competition."
+- **C** is a "Surface-Level Literalism" about "hearing over thunder."
+- **D** is a "Half-Truth" about "Blade that was Broken" that misses the *unification* theme.
+- **E** is an "Over-Interpretation" about "reclaiming Rohan."
 
 ---
 
 ### Question 7 `[PIS/SCA]` `[Advanced]`
 
-**Théoden’s doubt ("The world changes, and all that once was strong now proves unsure") indicates a conflict between:**
+**Théoden’s doubt indicates a conflict between:**
 
-**Correct Answer: A. His respect for ancient legends and the "unprecedented" industrial and sorcerous power of Saruman’s modern warfare.**
+**Correct Answer: A. His respect for ancient legends and the "unprecedented" technological and sorcerous power of Saruman’s modern warfare.**
 
 **Why this is correct:**
-Théoden notes that "the Hornburg has never fallen to assault," yet he feels his heart is "doubtful." He is witnessing the "devilry of Saruman"—the use of blasting fire and "reckless hate" that challenges the traditional rules of siege-craft. His doubt represents the crisis of the "heroic age" leader confronted by a new, more "total" and "technical" form of evil.
+Théoden is witnessing the "devilry of Saruman"—blasting fire and "reckless hate" that challenges traditional rules of siege-craft. His doubt represents the crisis of the "heroic age" leader confronted by a new, more "technical" evil.
 
-**Why E is incorrect** `[PT]`:
-The "unprecedented" numbers and hate *are* the reason for his doubt, but the primary conflict is the realization that the "old certainties" (the strength of the wall) may no longer hold true in this new, changing world.
+**Analysis of Distractors:**
+- **B** is a "Moralistic Misreading" about "desire to surrender."
+- **C** is a "Plausible Misreading" about "Dwarf-work vs Elven-magic."
+- **D** is an "Academic Over-Interpretation" about "regressing to bent state."
+- **E** is a "Surface-Level Literalism" about the "Golden Hall being safer."
 
 ---
 
 ### Question 8 `[CIM/ANT]` `[Advanced]`
 
-**Aragorn’s parley with the Orcs at dawn, where he tells them they "do not know your peril," reveals:**
+**Aragorn’s parley at dawn reveals:**
 
-**Correct Answer: B. The psychological manifestation of his royal "presence," where his certainty of the turning tide (and perhaps a prophetic intuition of Gandalf's return) creates a momentary, spiritual shock in the enemy ranks.**
+**Correct Answer: B. The psychological manifestation of his royal "Presence," where his visionary certainty of the dawn creates a momentary spiritual shock in the enemy ranks.**
 
 **Why this is correct:**
-Aragorn’s "power and royalty" are revealed in his posture and his "empty hand." He is speaking with the authority of someone who "knows" the dawn will bring their destruction. This "unmasking" of his kingly nature causes even the "wild men" to pause and look at the sky, showing that true authority has a visceral effect even on the agents of the Shadow.
+Aragorn’s "power and royalty" are revealed in his posture. He speaks with the authority of someone who "knows" the dawn will bring destruction. This causes even the "wild men" to pause, showing that true authority has a visceral effect.
 
-**Why A is incorrect** `[SL]`:
-Aragorn’s warning is not based on his own military might, but on the "new day" and the "peril" that the Orcs cannot yet see. It is a statement of visionary certainty rather than tactical arrogance.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "arrogance" and "underestimation."
+- **C** is a "Plausible Misreading" about "tricking the Orcs."
+- **D** is a "Lore-Trap" about "redeeming the Wild Men."
+- **E** is a "Half-Truth" about "tactical moves to sharpen weapons."
 
 ---
 
 ### Question 9 `[ACN/SCA]` `[Advanced]`
 
-**The "nameless wood" that appears in the Deeping-coomb at the end of the battle represents:**
+**The "nameless wood" represents:**
 
-**Correct Answer: B. The terrifying, elemental intervention of the natural world (the Huorns) in the affairs of Men and Orcs, signaling that the "industry" of Isengard has provoked a retaliation that transcends conventional military logic.**
+**Correct Answer: B. The terrifying, elemental intervention of the natural world (the Huorns) in the affairs of Men, signaling that the "industry" of Isengard has provoked a non-human retaliation.**
 
 **Why this is correct:**
-The forest is "bare and silent" and "darkness was under [it]." Its presence is "wizardry indeed" (as Legolas says). This is the "flood" from the forest that Gandalf and Treebeard prepared. It shows that Saruman’s "mind of metal and wheels" has failed to account for the "wrath of Fangorn," resulting in a total, non-human defeat for his armies.
+The forest is "bare and silent" and its presence is "wizardry indeed." This is the "flood" from the forest. It shows Saruman’s "mind of metal and wheels" failed to account for the "wrath of Fangorn."
 
-**Why D is incorrect** `[OI]`:
-The text emphasizes that "the land had changed" and describes the physical attributes of the trees ("twisted roots," "tangled bough"), characterizing the wood as a literal, physical presence rather than a mere illusion.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "Dwarf defensive walls."
+- **C** is a "Comedy" distractor about a "time-loop."
+- **D** is a "Plausible Misreading" about a "visual illusion by Saruman."
+- **E** is an "Over-Interpretation" about the "Shire expanding."
 
 ---
 
 ### Question 10 `[CIM/ANT]` `[Advanced]`
 
-**The "madness" that fills the black horses and the "piercing cries" of the Riders as they are driven into the flood primarily signify:**
+**The "madness" and "piercing cries" primarily signify:**
 
-**Correct Answer: B. The total collapse of the Enemy's "unnatural" order when confronted by the combined force of returned heroic kingship, wizardry, and the unleashed power of the ancient forest.**
+**Correct Answer: A. The total collapse of the Enemy's order when confronted by the combined force of returned kingship, wizardry, and the unleashed power of the ancient forest.**
 
 **Why this is correct:**
-The "terror of [the White Rider's] coming" fills the enemy with "madness." The Riders are "turned from fear to fear"—fearing the King, fearing the trees, and fearing Gandalf. This represents the total psychological and physical rout of Isengard. The "shadow" under which they pass is the final, irreversible judgment of nature upon their "black smoke" existence.
+The "terror of [Gandalf’s] coming" fills the enemy with madness. They are "turned from fear to fear." This represents the total psychological and physical rout of Isengard.
 
-**Why E is incorrect** `[SL]`:
-The Orcs are "screaming" and "cast aside both sword and spear" in "terror," indicating their total defeat and impending death rather than any positive emotion.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 6 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 5 |
-| Pragmatic Implicature & Subtext (PIS) | 3 |
-| Situational & Contextual Awareness (SCA) | 5 |
-| Authorial Craft & Narrative Strategy (ACN) | 3 |
+**Analysis of Distractors:**
+- **B** is a "Surface-Level Literalism" about "literal drowning."
+- **C** is a "Comedy" distractor about "well-bred horses."
+- **D** is a "Lore-Trap" about the "river being corrupted."
+- **E** is a "Moralistic Misreading" about "joy of the Dark Riders."

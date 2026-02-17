@@ -10,7 +10,7 @@
 | 2 | B | PIS/SCA | Advanced |
 | 3 | B | CIM/ANT | Advanced |
 | 4 | A | ACN/ANT | Advanced |
-| 5 | C | CIM/ANT | Advanced |
+| 5 | B | CIM/ANT | Advanced |
 | 6 | A | ACN/SCA | Advanced |
 | 7 | B | PIS/SCA | Advanced |
 | 8 | B | CIM/ANT | Advanced |
@@ -26,10 +26,13 @@
 **Correct Answer: B. A primordial, earth-bound divinity that is intimately connected to the tangible, biological world of "mortal" experience.**
 
 **Why this is correct:**
-The text contrasts the "lofty" (heavenly/distant) magic of Elves with Goldberry’s "nearer to mortal heart" presence. She is the "daughter of the River" and is clothed in "living flowers." Her beauty is not celestial but elemental—representing the vitality of water, earth, and growth. This makes her "marvellous and yet not strange" because her power is rooted in the world the hobbits themselves inhabit.
+The text contrasts the "lofty" (heavenly/ethereal) magic of Elves with Goldberry’s "nearer to mortal heart" presence. She is the "daughter of the River" and is clothed in "living flowers." Her beauty is not celestial but elemental—representing the vitality of water, earth, and growth. This makes her "marvellous and yet not strange" because her power is rooted in the world the hobbits themselves inhabit.
 
-**Why A is incorrect** `[SL]`:
-Calling it a "lower form of magic" misses the point that it is *different* in quality (elemental vs. celestial), not necessarily lesser in power or importance.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that reduces an elemental goddess to a "domestic ideal."
+- **C** is a "Lore-Trap" that uses the "Ring’s influence" to explain a genuine aesthetic perception.
+- **D** is an "Over-Interpretation" that suspects her of "deceptive enchantment."
+- **E** is a "Half-Truth" about "lost innocence" that misses the specific "elemental" quality of the description.
 
 ---
 
@@ -40,10 +43,13 @@ Calling it a "lower form of magic" misses the point that it is *different* in qu
 **Correct Answer: B. A stewardship based on complete non-possession and the recognition of the inherent autonomy of all living things.**
 
 **Why this is correct:**
-Goldberry clarifies that "Mastery" for Tom does not mean "ownership." He doesn't control the trees or grasses; they "belong each to themselves." Tom's mastery is an existential state of being—he is unhindered and unafraid, but he does not seek to impose his will or possess the land. This is the ultimate contrast to the "Mastery" sought by Sauron through the Ring.
+Goldberry clarifies that "Mastery" for Tom does not mean "ownership." He doesn't control the trees or grasses; they "belong each to themselves." Tom's mastery is an existential state of being—he is unhindered and unafraid, but he does not seek to impose his will. This is the ultimate contrast to the "Mastery" sought by Sauron through the Ring.
 
-**Why E is incorrect** `[PT]`:
-Goldberry does say ownership would be a "burden," but the primary point is that Tom’s "Mastery" is a form of free existence and guardianship rather than a rejection of duty.
+**Analysis of Distractors:**
+- **A** is an "Academic Over-Interpretation" using the term "radical individualism."
+- **C** is a "Plausible Misreading" that frames his mastery as a "lack of responsibility."
+- **D** is a "Surface-Level Literalism" that limits his power to the "interior of his house."
+- **E** is a "Half-Truth" about "legal fiction" that misses the spiritual core of Tom’s character.
 
 ---
 
@@ -51,13 +57,16 @@ Goldberry does say ownership would be a "burden," but the primary point is that 
 
 **The drink at Tom’s table, which "seemed to be clear cold water" but "went to their hearts like wine," symbolizes:**
 
-**Correct Answer: B. The transformative, celebratory nature of Tom’s hospitality, where the most basic elements of life are elevated to a spiritual or ecstatic level.**
+**Correct Answer: B. The transformative nature of Tom’s hospitality, where the most basic elements of life are elevated to a spiritual or ecstatic level.**
 
 **Why this is correct:**
-In Tom’s house, "clear cold water" has the emotional effect of wine, setting free their voices and bringing joy. This reflects the house's nature as a sanctuary where the simple "business" of eating and drinking is transformed into a "merry meal." It suggests that in a state of true peace, even the most basic elements are experienced as miraculous.
+In Tom’s house, "clear cold water" has the emotional effect of wine, "setting free their voices" and bringing joy. This reflects the sanctuary's nature as a place where the simple "business" of eating and drinking is transformed into a "merry meal." It suggests that in a state of true peace, even the most basic elements are experienced as miraculous.
 
-**Why C is incorrect** `[SL]`:
-The text says it "seemed to be clear cold water," and there is no suggestion of manipulation or drugging. The "wine-like" effect is an emotional and spiritual response to the environment.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that attributes the effect to "sensory hallucination."
+- **C** is an "Over-Interpretation" that suspects a "hidden magical substance."
+- **D** is a "Plausible Misreading" that mocks the hobbits' "inability to distinguish" flavors.
+- **E** is a "Half-Truth" about "deceptive appearances" that misses the *positive* nature of the transformation.
 
 ---
 
@@ -65,13 +74,16 @@ The text says it "seemed to be clear cold water," and there is no suggestion of 
 
 **Frodo’s dream of the "pinnacle of stone" and the man rescued by a "mighty eagle" serves narratively to:**
 
-**Correct Answer: A. Provide a literal vision of Gandalf’s current predicament at Orthanc (unbeknownst to Frodo).**
+**Correct Answer: A. Provide a literal prophetic vision of Gandalf’s current predicament at Orthanc.**
 
 **Why this is correct:**
-The "pinnacle of stone," the man with "white hair," the "mighty eagle," and the "galloping hoofs" are direct, literal references to Gandalf’s imprisonment by Saruman and his subsequent rescue. This dream serves as a narrative bridge, giving the reader (and Frodo’s subconscious) information about the wider world that explains Gandalf’s delay.
+The "pinnacle of stone," the man with "white hair," and the "mighty eagle" are direct, literal references to Gandalf’s imprisonment and rescue. This dream serves as a narrative bridge, giving the reader (and Frodo’s subconscious) information that explains Gandalf’s delay.
 
-**Why B is incorrect** `[OI]`:
-While Frodo does want to be rescued, the dream is far too specific (the tower, the eagle, the white hair) to be a generic psychological projection; it is clearly intended as a prophetic/telepathic vision of Gandalf.
+**Analysis of Distractors:**
+- **B** is an "Academic Over-Interpretation" that reframes a prophetic vision as a "subconscious desire for rescue."
+- **C** is an "Over-Interpretation" that grants the Ring "sentience" in calling to other towers.
+- **D** is a "Lore-Trap" that invents a connection to the "High Elves."
+- **E** is a "Surface-Level Literalism" about "night terrors."
 
 ---
 
@@ -79,13 +91,16 @@ While Frodo does want to be rescued, the dream is far too specific (the tower, t
 
 **The different dreams of Pippin (the willow creaking) and Merry (drowning in water) suggest that:**
 
-**Correct Answer: C. The hobbits are projecting their recent traumas into their sleep, illustrating the "residue" of the Forest's malice.**
+**Correct Answer: B. The hobbits are projecting their recent traumas into their sleep, illustrating the "residue" of the Forest's nightmare.**
 
 **Why this is correct:**
-Pippin’s dream of the "willow and... dry creaking voice" and Merry’s dream of being "drowned" in a "dark shoreless pool" are direct echoes of their near-death experiences in the previous chapter. Even in safety, the psychological impact of the Forest's "nightmare" persists, requiring the memory of Goldberry's blessing ("Fear nothing!") to settle them back into sleep.
+Pippin’s dream of the "willow" and Merry’s dream of "drowning" are direct echoes of their near-death experiences. Even in safety, the psychological impact of the Forest's "nightmare" persists, requiring the memory of Goldberry's blessing ("Fear nothing!") to settle them back into sleep.
 
-**Why A is incorrect** `[CC]`:
-The text says they wake up and "remembered where he was and lay down again," hearing the echo of Goldberry's "Have peace." The dreams are internal memories of the Forest, not active attacks from outside the house.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that blames the "incapability" of the house.
+- **C** is an "Over-Interpretation" using the term "psychologically thinner."
+- **D** is a "Half-Truth" about "psychic communication" that misses the purely *internal* nature of the memory.
+- **E** is a "Surface-Level Literalism" that blames the "bath-song."
 
 ---
 
@@ -93,13 +108,16 @@ The text says they wake up and "remembered where he was and lay down again," hea
 
 **Tom’s description of the "Great Barrows" and the "Barrow-wights" creates a narrative shift from:**
 
-**Correct Answer: A. A story about nature to a story about ancient, human-centered tragedy and necromancy.**
+**Correct Answer: A. A focus on the "wildness" of nature to a focus on the "malice" of history and death.**
 
 **Why this is correct:**
-Up to this point, Tom has been talking about "bees and flowers" and "the ways of trees." The shift to "Kings of little kingdoms," "dead kings and queens," and "Barrow-wights" introduces the theme of human history, war, and the "shadow" of the undead. This prepares the hobbits (and the reader) for the darker, more "human" dangers they will face in the next stage of the journey.
+Up to this point, Tom has been talking about "bees and flowers." The shift to "dead kings and queens" and "Barrow-wights" introduces the theme of human history, war, and the "shadow" of the undead. This prepares the reader for the more "human" dangers they will face in the next stage.
 
-**Why D is incorrect** `[SL]`:
-While it is scary, the shift is primarily thematic and historical—moving from the timeless world of the Forest to the historical world of the Downs and the "Dark Lord."
+**Analysis of Distractors:**
+- **B** is a "Surface-Level Literalism" that views it as an "educational lecture."
+- **C** is a "Half-Truth" about "Dúnedain history," but it misses the primary *thematic* shift.
+- **D** is an "Over-Interpretation" that makes the story about "unending war."
+- **E** is a "Plausible Misreading" about "corruptibility of kings."
 
 ---
 
@@ -110,24 +128,30 @@ While it is scary, the shift is primarily thematic and historical—moving from 
 **Correct Answer: B. Tom’s complete immunity to the Ring’s power, suggesting he is an entity fundamentally outside the moral and magical framework of Sauron’s creation.**
 
 **Why this is correct:**
-Tom makes "light of what even Gandalf thought so perilously important." His ability to see Frodo while invisible and his own lack of invisibility show that the Ring has "no power" over him. This establishes Tom as a unique being—perhaps the only one in Middle-earth who is truly indifferent to the temptation and the mechanics of the One Ring.
+Tom’s ability to see Frodo while invisible and his own lack of invisibility show that the Ring has "no power" over him. This establishes Tom as a unique being who is truly indifferent to the temptation and the mechanics of the One Ring.
 
-**Why C is incorrect** `[OI]`:
-Tom is explicitly "Eldest" and predates the Dark Lord. There is no evidence he "made" the Ring; rather, he is so ancient and complete in himself that the Ring (a product of a later, fallen age) simply has no hook in him.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that suspects the Ring is "defective."
+- **C** is an "Over-Interpretation" that calls Tom a "Master of Illusion."
+- **D** is a "Half-Truth" about "desire for strength" that misinterprets the *source* of Tom’s immunity.
+- **E** is a "Lore-Trap" that uses external terminology ("Maia") to explain a character who is explicitly a mystery.
 
 ---
 
 ### Question 8 `[CIM/ANT]` `[Advanced]`
 
-**Frodo’s decision to put the Ring on after Tom returns it, despite Tom’s apparent mastery over it, reveals:**
+**Frodo’s decision to put the Ring on after Tom returns it reveals:**
 
 **Correct Answer: B. A defensive, possessive reaction to seeing his "burden" treated as a mere "trinket" or a "juggler's" prop.**
 
 **Why this is correct:**
-Frodo is "perhaps a trifle annoyed with Tom for seeming to make so light" of the Ring. His use of the Ring is a test to "make sure" it's still his and still powerful. This demonstrates the Ring’s psychological hold; Frodo’s identity is now tied to the "perilous importance" of his burden, and he resents Tom’s effortless superiority over it.
+Frodo is "perhaps a trifle annoyed with Tom for seeming to make so light" of the Ring. His use of the Ring is a test to "make sure" it's still his and still powerful. This demonstrates the Ring’s psychological hold; Frodo’s identity is now tied to the "perilous importance" of his burden.
 
-**Why A is incorrect** `[PT]`:
-While he does want to "make sure," the motivation is rooted in his "annoyance" and his internal connection to the Ring, rather than a purely intellectual curiosity or a "reckless" desire for danger.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that frames it as a "reckless attempt to scare."
+- **C** is a "Half-Truth" about "wine-like water" that misses the specific "annoyance" mentioned in the text.
+- **D** is a "Surface-Level Literalism" about "ensuring power hasn't been stolen."
+- **E** is a "Plausible Misreading" about a "game of hide-and-seek."
 
 ---
 
@@ -138,10 +162,13 @@ While he does want to "make sure," the motivation is rooted in his "annoyance" a
 **Correct Answer: B. An ontological absolute—a being who represents the unfallen, original state of the world itself.**
 
 **Why this is correct:**
-Tom was here "before the river and the trees" and "before the Dark Lord came from Outside." He represents a state of being that is "fearless" and primordial. He is not just an "old man" but a personification of the world’s origin, which is why the later "magic" of the Ring and the "shadow" of the Dark Lord have no effect on him—he belongs to a more fundamental reality.
+Tom was here "before the Dark Lord came from Outside." He represents a state of being that is "fearless" and primordial. He is not just an "old man" but a personification of the world’s origin.
 
-**Why A is incorrect** `[SL]`:
-"Reliable historian" is a very limited description of a being who "remembers the first raindrop" and was "here already, before the seas were bent." He is a mythical figure, not just a scholar.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that calls him an "oral historian."
+- **C** is an "Over-Interpretation" that makes him a "rival" to the Dark Lord.
+- **D** is a "Half-Truth" using the term "Shire-spirit."
+- **E** is an "Academic Over-Interpretation" about "losing interest in current history."
 
 ---
 
@@ -152,19 +179,10 @@ Tom was here "before the river and the trees" and "before the Dark Lord came fro
 **Correct Answer: B. The harmonious union of the male and female, earth and water, and ancient and young principles of the natural world.**
 
 **Why this is correct:**
-Tom (the Master of wood and hill) and Goldberry (the River-daughter) are described as weaving a "single dance" without "hindering the other." This symbolizes the perfect balance of the natural world in their sanctuary—a place of unity and joy where the different elements of nature coexist in a "merry" and "fair" partnership.
+Tom and Goldberry are described as weaving a "single dance" without "hindering the other." This symbolizes the perfect balance of the natural world in their sanctuary—a place of unity and joy where the different elements of nature coexist.
 
-**Why A is incorrect** `[SL]`:
-While they *are* working together to host, the "spell" of the house and the poetic description of their movement ("weave a single dance") point toward a deeper, symbolic meaning of natural harmony.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 6 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 6 |
-| Pragmatic Implicature & Subtext (PIS) | 3 |
-| Situational & Contextual Awareness (SCA) | 5 |
-| Authorial Craft & Narrative Strategy (ACN) | 3 |
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "synergy as hosts."
+- **C** is a "Half-Truth" about a "protective ritual" that misses the *celebratory* nature of the dance.
+- **D** is a "Plausible Misreading" about "joy at having guests."
+- **E** is an "Over-Interpretation" that makes them "two halves of the same entity."

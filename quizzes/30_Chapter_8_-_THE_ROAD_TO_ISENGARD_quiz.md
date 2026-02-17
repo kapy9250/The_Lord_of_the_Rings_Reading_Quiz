@@ -13,71 +13,71 @@ Gandalf’s merry laugh when the Rohirrim gaze at the wood in wonder suggests th
 > **Relevant Passage:**
 > "Then they all gazed at Gandalf with still greater wonder. Some glanced darkly at the wood... as if they thought their eyes saw otherwise than his. Gandalf laughed long and merrily. 'The trees?' he said. ... 'But that is no deed of mine. It is a thing beyond the counsel of the wise.'"
 
-- **A.** Is mocking the Rohirrim for their lack of magical knowledge.
-- **B.** Finds a profound, joyful satisfaction in the "unforeseen" intervention of a primal power that has exceeded even his own strategic hopes, validating his faith in the "wild" world.
-- **C.** Is hiding the fact that he actually did create the wood himself.
-- **D.** Believes that the trees are actually quite harmless and funny.
-- **E.** Is trying to distract the Company from the loss of Boromir.
+- **A.** Is using a "joy-spell" to counteract the dark influence of the mysterious wood.
+- **B.** Finds a profound, joyful satisfaction in the "unforeseen" intervention of nature, which has validated his faith in the world’s inherent goodness beyond his own designs.
+- **C.** Is intentionally mocking the Men of Rohan for their "superstitious" fear of ancient forests.
+- **D.** Is attempting to disguise his own exhaustion through a performance of carefree merriment.
+- **E.** A sign that he is already planning to use the trees as a permanent military occupation force.
 
 ---
 
 ### Question 2 `[PIS/SCA]` `[Advanced]`
 
-Erkenbrand’s treatment of the defeated hillmen—setting them to work and requiring an oath rather than execution—marks a shift in:
+Erkenbrand’s treatment of the defeated hillmen—setting them to work and requiring an oath—marks a shift in:
 
 > **Relevant Passage:**
 > "'Help now to repair the evil in which you have joined,' said Erkenbrand; 'and afterwards you shall take an oath... and then you shall go free back to your land. For you have been deluded by Saruman.'"
 
-- **A.** Rohan's lack of a clear legal system for prisoners.
-- **B.** The re-establishment of a "just" human authority that recognizes the role of deception in the Enemy’s influence, choosing restorative justice and reconciliation over the brutal cycles of revenge promoted by Saruman.
-- **C.** His fear that the hillmen will eventually escape anyway.
-- **D.** A plan to use the hillmen as spies against Isengard.
-- **E.** Erkenbrand’s belief that the hillmen are actually related to the Rohirrim.
+- **A.** The re-establishment of a "Just Human Authority" that recognizes the role of deception in evil, choosing restorative justice over the self-destructive cycles of revenge.
+- **B.** A purely tactical decision based on the lack of enough prison cells at Helm's Deep.
+- **C.** His belief that the "Men of Dunland" are actually more useful as slaves than as corpses.
+- **D.** Evidence that the laws of Rohan have been "thinned" by the influence of the Elves.
+- **E.** A sign that Erkenbrand is losing his "warrior-spirit" and becoming soft.
 
 ---
 
 ### Question 3 `[ACN/ANT]` `[Advanced]`
 
-The "creaking and groaning of boughs" and the "rumour of wordless voices" inside the mysterious wood convey:
+The "creaking and groaning of boughs" and the "rumour of wordless voices" inside the wood convey:
 
 > **Relevant Passage:**
 > "But on either side the great aisles of the wood were already wrapped in dusk... and there they heard the creaking and groaning of boughs... and a rumour of wordless voices, murmuring angrily."
 
-- **A.** The physical effects of a strong wind blowing through the valley.
-- **B.** The intense, collective consciousness of the Huorns, whose presence is defined by a slow-burning, non-verbal rage that is focused specifically on the "orc-work" they have just avenged.
-- **C.** A sign that the trees are dying from the heat of the fire.
-- **D.** That the hobbits are hiding in the branches and whispering to each other.
-- **E.** A humorous sound intended to scare Gimli.
+- **A.** The physical acoustic property of wind moving through a canyon filled with dead wood.
+- **B.** The intense, collective consciousness of the Huorns, characterized by a slow-burning, non-verbal rage that is focused specifically on the "orc-work" they have avenged.
+- **C.** A sign that the forest is actually dying due to the "industrial" pollution of Isengard.
+- **D.** A tactical distraction used by the Ents to prevent the Rohirrim from seeing the prisoners.
+- **E.** A auditory symptom of the Company's shared exhaustion and grief.
 
 ---
 
 ### Question 4 `[CIM/SCA]` `[Advanced]`
 
-Gimli’s poetic description of the Caverns of Helm's Deep, comparing them to "folded marbles... translucent as the living hands of Queen Galadriel," reveals:
+Gimli’s description of the Caverns of Helm's Deep, comparing them to "translucent as the living hands of Queen Galadriel," reveals:
 
 > **Relevant Passage:**
 > "'...when the torches are kindled and men walk on the sandy floors... then, Legolas, gems and crystals... light glows through folded marbles, shell-like, translucent as the living hands of Queen Galadriel.'"
 
-- **A.** His desire to find gold and jewels to take back to the Mountain.
-- **B.** An aesthetic and spiritual awakening where the Dwarf’s "lithic" expertise is transformed into a high-order appreciation of natural beauty that rivals even the Elven-craft he previously admired.
-- **C.** His belief that the caves are actually a temple to the Elven Queen.
-- **D.** A sign that Gimli is becoming a better poet than Legolas.
-- **E.** His attempt to trick Legolas into entering the caves.
+- **A.** His desire to prove that Dwarven aesthetics are actually superior to Elven ones.
+- **B.** An ontological awakening where his racial "lithic" expertise is transformed into a high-order stewardship that values beauty above extraction.
+- **C.** Evidence that he is attempting to "flatter" Legolas into giving him more Elven-cordial.
+- **D.** A sign that the Caverns are actually a literal body of a goddess that has been turned to stone.
+- **E.** His belief that the "Queen of Lorien" has been spiritually inhabiting the caves.
 
 ---
 
 ### Question 5 `[PIS/SCA]` `[Advanced]`
 
-Gandalf’s remark to Théoden that "there are children in your land who... could pick the answer to your question" regarding the Ents suggests:
+Gandalf’s remark that "there are children in your land who... could pick the answer" regarding the Ents suggests:
 
 > **Relevant Passage:**
 > "'What are they, Gandalf? ...' 'They are the shepherds of the trees,' answered Gandalf. 'Is it so long since you listened to tales by the fireside? There are children in your land who... could pick the answer...'"
 
-- **A.** That the education system in Rohan is better than the King realizes.
-- **B.** That the truth of the world is often preserved in "unimportant" folklore and children's stories, which the "Wise" and the powerful have foolishly discarded as they focused on more "modern" political realities.
-- **C.** That Gandalf is becoming annoyed with the King’s questions.
-- **D.** Evidence that the Ents are actually very small and childlike.
-- **E.** A sign that the Rohirrim are forgetting their own language.
+- **A.** That the Rohirrim have neglected the basic education of their younger generation.
+- **B.** That true wisdom often resides in "unimportant" folklore, which the "Great" have discarded in their pursuit of modern military and political power.
+- **C.** That Gandalf is becoming irritated by the King’s "hobbit-like" curiosity.
+- **D.** A sign that the Ents are actually "fairytale" projections that Gandalf has brought to life.
+- **E.** Evidence that the history of Rohan is being "erased" by the Shadow from the East.
 
 ---
 
@@ -88,68 +88,68 @@ The "black-winged birds" wheeling over the battlefield with "mournful cries" ser
 > **Relevant Passage:**
 > "Dark against it there wheeled and flew many black-winged birds. Some passed overhead with mournful cries, returning to their homes among the rocks. 'The carrion-fowl have been busy...'"
 
-- **A.** Provide a colorful landmark for the ride to the Fords.
-- **B.** Underscore the grim reality of death and the "harvest" of war, where the natural world’s scavengers are the only ones to truly benefit from the conflict between Men and Orcs.
-- **C.** Show that the birds are spies for Saruman.
-- **D.** Predict a change in the weather.
-- **E.** Signal the arrival of the Nazgûl.
+- **A.** Signal the arrival of the "Great Eagles" to take part in the victory feast.
+- **B.** Underscore the grim, biological reality of war, where nature’s scavengers are the only ones to find "profit" in the destruction of Men and Orcs.
+- **C.** Portray the birds as "corrupted" agents of Saruman who are mourning his defeat.
+- **D.** Predict a change in the weather that will make the "Road to Isengard" impassable.
+- **E.** Provide a visual metaphor for the "Black Breath" that is still hanging over the land.
 
 ---
 
 ### Question 7 `[ACN/SCA]` `[Advanced]`
 
-The "moving towers of shadow" that pass the Company in the night, causing the "earth [to] shake," represent:
+The "moving towers of shadow" that pass the Company in the night represent:
 
 > **Relevant Passage:**
 > "on either side there arose walls of impenetrable gloom; they were in a narrow lane between moving towers of shadow. ... at last the darkness and the rumour passed, and vanished between the mountain's arms."
 
-- **A.** A massive army of Orcs marching in total darkness.
-- **B.** The elemental, terrifying power of the returning Huorns, moving with a supernatural weight and silence that effectively "erases" the enemy from the land while asserting nature’s ultimate dominance.
-- **C.** A visual hallucination caused by the "steams" of Isengard.
-- **D.** A sign that the mountains are actually moving themselves.
-- **E.** The arrival of the Entwives to help the Ents.
+- **A.** A visual hallucination caused by the extreme "transparency" of the Elven-cloaks.
+- **B.** The elemental power of the returning Huorns, moving with a supernatural weight that "erases" the enemy while asserting nature’s ultimate dominance.
+- **C.** A sign that the mountains of the Ered Nimrais are actually sentient and moving.
+- **D.** A tactical retreat by the Nazgûl, who are attempting to hide from the dawn.
+- **E.** The literal arrival of "Isengard" moving to meet the Company on the road.
 
 ---
 
 ### Question 8 `[PIS/SCA]` `[Advanced]`
 
-The description of the Ring of Isengard as a "graveyard of unquiet dead" with "plumes of vapour... lit from beneath with... venomous green" characterizes Saruman’s industry as:
+The description of Isengard as a "graveyard of unquiet dead" with "venomous green" lights characterizes Saruman’s industry as:
 
 > **Relevant Passage:**
 > "in the moonlight the Ring of Isengard looked like a graveyard of unquiet dead. ... plumes of vapour steamed from the vents, lit from beneath with red light, or blue, or venomous green."
 
-- **A.** A successful and modern urban development project.
-- **B.** A morbid perversion of natural creation, where the earth has been "bored and delved" into a toxic, industrial hell-scape that reflects the spiritual decay of the wizard who created it.
-- **C.** A sign that Saruman is building a theme park.
-- **D.** Evidence that the Orcs are very skilled at lighting effects.
-- **E.** His desire to attract more visitors to Isengard.
+- **A.** A successful and modern application of "wizardly" chemical science to urban planning.
+- **B.** A morbid perversion of natural creation, where the earth has been "bored" into a toxic hell-scape reflecting the spiritual decay of its creator.
+- **C.** Evidence that Saruman is attempting to rebuild the "Hall of Fire" on a massive, industrial scale.
+- **D.** A sign that the Orcs are becoming more "artistic" in their choice of lighting.
+- **E.** A protective ward intended to keep the "Ents" from entering the vents.
 
 ---
 
 ### Question 9 `[CIM/ANT]` `[Advanced]`
 
-Merry and Pippin’s appearance on the "rubble-heap," feasting and smoking while "grey-clad, hardly to be seen," signifies:
+Merry and Pippin’s appearance on the "rubble-heap," feasting and smoking, signifies:
 
 > **Relevant Passage:**
 > "There they saw close beside them a great rubble-heap; and suddenly they were aware of two small figures lying on it at their ease... grey-clad, hardly to be seen among the stones."
 
-- **A.** Their total lack of concern for the safety of the Company.
-- **B.** The ultimate "hobbitic" triumph—maintaining their core identity of comfort, leisure, and domestic peace even in the absolute center of a destroyed enemy stronghold, effectively "conquering" Isengard through their indifference to its former power.
-- **C.** A sign that they have been bewitched by Saruman.
-- **D.** Their desire to hide from Aragorn and Legolas.
-- **E.** That they have been turned into stone by the wizardry of the trees.
+- **A.** Their total lack of respect for the "Great Deeds" performed by the Rohirrim.
+- **B.** The ultimate triumph of "Shire-values," where the preservation of domestic comfort and leisure in the heart of a ruin serves as a moral negation of Saruman’s power.
+- **C.** Evidence that the hobbits have been "drugged" by the Elven-waybread.
+- **D.** A sign that they have become "stone-spirits" of the ruined fortress.
+- **E.** Their desire to hide from Aragorn to avoid being sent back to the Shire.
 
 ---
 
 ### Question 10 `[CIM/ANT]` `[Advanced]`
 
-Merry’s "grave" welcome to the King ("Welcome, my lords, to Isengard! We are the doorwardens") carries a subtext of:
+Merry’s "grave" welcome to the King ("Welcome, my lords, to Isengard!") carries a subtext of:
 
 > **Relevant Passage:**
 > "'Welcome, my lords, to Isengard!' he said. 'We are the doorwardens. ... The Lord Saruman is within; but at the moment he is closeted with one Wormtongue...'"
 
-- **A.** His genuine desire to work for Saruman.
-- **B.** A sophisticated, dry irony that uses the formal language of hospitality to highlight the total absurdity of the situation and the absolute deflation of Saruman’s former "Power" into a trapped and irrelevant figure.
-- **C.** His confusion about which side he is on.
-- **D.** His fear that the King will be angry with them.
-- **E.** A secret signal to the Ents to attack the King.
+- **A.** A sincere offer of employment to the King of Rohan.
+- **B.** A sophisticated, dry irony that uses the language of formal hospitality to highlight the total deflation of Saruman’s former "Power" into an irrelevant prisoner.
+- **C.** His belief that the "Golden Hall" has actually been moved to Isengard.
+- **D.** A sign that Merry is losing his ability to speak "Common Hobbit."
+- **E.** His hope that the King will find the "closeted" Saruman less frightening.

@@ -13,11 +13,11 @@ The narrator’s description of Buckland as a "colony from the Shire" where peop
 > **Relevant Passage:**
 > "That was the origin of Buckland, a thickly inhabited strip... a sort of colony from the Shire. ... But most of the folk of the old Shire regarded the Bucklanders as peculiar, half foreigners as it were. ... Except in one point: they were fond of boats, and some of them could swim."
 
-- **A.** Highlight the technical skills that Bucklanders possess which other hobbits lack.
+- **A.** Highlight the technical skills that Bucklanders possess which other hobbits lack, suggesting a higher level of education.
 - **B.** Establish Buckland as a liminal space that is both part of and distinct from the Shire, reflecting its status as a buffer zone.
-- **C.** Suggest that the Bucklanders are more closely related to Elves than to other hobbits.
-- **D.** Explain why Frodo chose to move there to avoid the Black Riders.
-- **E.** Provide a humorous commentary on the hobbits' general fear of water.
+- **C.** Suggest that the Bucklanders’ affinity for water is a result of their secret intermarriage with River-folk.
+- **D.** Portray the "old Shire" hobbits as a superior and more "authentic" branch of the race.
+- **E.** Provide a purely historical explanation for why Frodo felt he would be less noticed in Buckland.
 
 ---
 
@@ -28,11 +28,11 @@ Sam’s "strange feeling" as he crosses the Brandywine, noting that his "old lif
 > **Relevant Passage:**
 > "Sam was the only member of the party who had not been over the river before. He had a strange feeling as the slow gurgling stream slipped by: his old life lay behind in the mists, dark adventure lay in front."
 
-- **A.** His fear of drowning in the broad river.
+- **A.** A sense of mourning for the gardener’s life he believes he has lost to a "deceitful" conspiracy.
 - **B.** A profound, internal realization that he has crossed a point of no return, both geographically and spiritually.
-- **C.** His regret that he didn't say a proper goodbye to the Gaffer.
-- **D.** A sense of excitement that he is finally seeing the "wide world" he heard about in stories.
-- **E.** His suspicion that the ferryman is a servant of the Enemy.
+- **C.** A tactical anxiety about his inability to navigate the terrain of the "Eastfarthing" without the Gaffer.
+- **D.** A thrill of excitement that his desire to see "walking trees" is finally being fulfilled.
+- **E.** A subconscious fear that the "mists" of the river are a magical barrier designed to prevent his return.
 
 ---
 
@@ -43,11 +43,11 @@ The "three tubs, and a copper full of boiling water" and the subsequent "bath-so
 > **Relevant Passage:**
 > "'A bath!' cried Pippin. ... Snatches of competing songs came from the bathroom mixed with the sound of splashing and wallowing. ... '_O! Water Hot is a noble thing!_'"
 
-- **A.** Demonstrating the advanced plumbing technology of the Brandybuck family.
+- **A.** Contrasting the hobbits' physical cleanliness with the "shadowy" and "unclean" nature of the Black Riders.
 - **B.** Creating a final, intense image of domestic comfort and Shire-normality before it is shattered by the quest’s reality.
-- **C.** Showing that Pippin is the most talented singer among the group.
-- **D.** Delaying the plot to build tension for the upcoming conversation about the Black Riders.
-- **E.** Characterizing Merry as a meticulously organized and hospitable host.
+- **C.** Demonstrating that the Brandybuck family’s wealth has made them more "Westernized" and indulgent than other hobbits.
+- **D.** Using noise and chaos to distract the reader from the fact that Gandalf is still missing.
+- **E.** Foreshadowing a future trial by water that the hobbits will eventually face.
 
 ---
 
@@ -58,11 +58,11 @@ Frodo’s "comical" look of surprise when Merry reveals the "conspiracy" suggest
 > **Relevant Passage:**
 > "'Just this, my dear old Frodo: you are miserable, because you don't know how to say good-bye. ... We are very sorry for you.' Frodo opened his mouth and shut it again. His look of surprise was so comical that they laughed."
 
-- **A.** Frodo’s lack of respect for his friends' intelligence.
+- **A.** A feeling of intellectual humiliation that his "clever" plans were so easily decoded by his social inferiors.
 - **B.** The total failure of his attempt to isolate himself and shoulder the burden alone, and his friends' deep understanding of his character.
-- **C.** His annoyance that his secret plan has been ruined by gossip.
-- **D.** A sudden realization that Gandalf has been working with Merry behind his back.
-- **E.** His relief that he no longer has to pretend to be moving to Crickhollow.
+- **C.** A sudden realization that his friends are more dangerous than he previously thought because they can keep secrets.
+- **D.** Relief that he no longer has to maintain the "charade" of moving to Crickhollow for personal reasons.
+- **E.** An instinctive reaction to the absurdity of being "pitied" by those he was trying to save.
 
 ---
 
@@ -73,11 +73,11 @@ What does Merry’s knowledge of the Ring ("I have known about the existence of 
 > **Relevant Passage:**
 > "'I have known about the existence of the Ring for years - before Bilbo went away, in fact... My dear old hobbit, you don't allow for the inquisitiveness of friends. ... If you want to know how I first found out, I will tell you.'"
 
-- **A.** Bilbo was intentionally training Merry to be his successor.
+- **A.** Bilbo was subconsciously hoping to be caught so he could share the burden of the Ring’s secrecy.
 - **B.** Even the most "careful" hobbits were subject to the keen observation and persistent curiosity of their close-knit community.
-- **C.** Merry has a natural talent for espionage and theft.
-- **D.** The Ring wanted Merry to find out about it so it could find a new bearer.
-- **E.** Frodo has been subconsciously leaking information to Merry for years.
+- **C.** Merry possesses a naturally suspicious and distrustful nature that makes him a better observer than Frodo.
+- **D.** The Ring itself was projecting a field of "interest" that drew the attention of inquisitive minds like Merry’s.
+- **E.** Frodo has been unintentionally repeating Bilbo's mistakes by underestimating the youth of his friends.
 
 ---
 
@@ -88,11 +88,11 @@ Sam’s scarlet face and his explanation of being the "collector of information"
 > **Relevant Passage:**
 > "'Step forward, Sam!' said Merry; and Sam stood up with a face scarlet up to the ears. 'Here's our collector of information! ...' 'Yes, sir!' said Sam. 'Begging your pardon, sir! ... when you said _go alone_ , he said _no! take someone as you can trust_.'"
 
-- **A.** A deceitful betrayal of Frodo’s trust for the sake of the conspiracy.
-- **B.** A practical, proactive devotion that prioritizes Frodo’s safety over the strict adherence to his orders.
-- **C.** A desire to be part of a secret club with Merry and Pippin.
-- **D.** A misunderstanding of Gandalf’s instructions regarding the "trustworthy" companion.
-- **E.** A fear of being left behind in the Shire with the Gaffer and Lobelia.
+- **A.** A cynical betrayal of Frodo’s trust in favor of the more "practical" leadership offered by Merry.
+- **B.** A proactive, protective devotion that prioritizes Frodo’s safety over the strict, literal adherence to his orders.
+- **C.** A desperate attempt to stay in Frodo’s favor after being caught "spying" by Gandalf.
+- **D.** A misunderstanding of Gandalf’s instructions, which Sam took to mean he should report Frodo’s every move to his cousins.
+- **E.** A fear of being left behind with the Gaffer, which motivated him to join any group that was leaving.
 
 ---
 
@@ -103,11 +103,11 @@ Frodo’s change from "amazement" to feeling "happier than I have felt for a lon
 > **Relevant Passage:**
 > "'You are a set of deceitful scoundrels!' he said... 'But bless you!' he laughed... 'Even so, I cannot help feeling happy; happier than I have felt for a long time. I had dreaded this evening.'"
 
-- **A.** He is happy that he can now use his friends as decoys for the Black Riders.
-- **B.** The psychological relief of no longer having to carry the burden of his secret and his impending departure in isolation.
-- **C.** He believes that four hobbits are powerful enough to defeat any number of Black Riders.
-- **D.** He is looking forward to seeing Merry and Pippin struggle in the Old Forest.
-- **E.** He realized that the conspiracy meant he didn't have to pay for the house at Crickhollow.
+- **A.** A realization that he can now shift some of the "moral weight" of the quest onto his companions.
+- **B.** The intense psychological relief of no longer having to carry the burden of his secret and his impending departure in isolation.
+- **C.** A belief that the "conspiracy" has effectively neutralized the threat posed by the Black Riders.
+- **D.** Joy that he won’t have to actually live in the "dull" house at Crickhollow.
+- **E.** A sense of pride that his friends have proven themselves to be as "queer" and adventurous as he is.
 
 ---
 
@@ -118,26 +118,11 @@ Merry’s assessment of the Buckland gate-guards and their potential reaction to
 > **Relevant Passage:**
 > "'Even in the daylight they would try to keep them out, I think... for they would not like the look of the Riders... But, of course, Buckland cannot resist a determined attack for long.'"
 
-- **A.** Buckland is a military stronghold capable of defying the Enemy.
-- **B.** The Shire’s defenses are based more on social suspicion and "dislike" than on actual military strength.
-- **C.** The gate-guards are secretly in league with the Black Riders.
-- **D.** Merry is overestimating the courage of the Buckland hobbits.
-- **E.** The Black Riders are easily deterred by locked gates and polite refusals.
-
----
-
-### Question 10 `[ACN/CIM]` `[Advanced]`
-
-Frodo’s dream at the end of the chapter—hearing the "sound of the Sea far-off" and seeing a "tall white tower"—serves to:
-
-> **Relevant Passage:**
-> "Then he knew that it was not leaves, but the sound of the Sea far-off; a sound he had never heard in waking life, though it had often troubled his dreams. ... Looking up he saw before him a tall white tower, standing alone on a high ridge."
-
-- **A.** Provide a literal map of the direction he needs to take to reach Rivendell.
-- **B.** Symbolize his deep-seated, perhaps ancestral, longing for the West and the ultimate destination of his journey beyond the Shire’s borders.
-- **C.** Foreshadow a future encounter where he will be imprisoned in a white tower.
-- **D.** Show that the Ring is trying to lead him toward the Sea so it can be lost again.
-- **E.** Indicate that he is suffering from a fever due to the exhaustion of the journey.
+- **A.** Buckland is a militarized society that is prepared for a direct confrontation with the Enemy.
+- **B.** The Shire’s defenses are based more on cultural "dislike" and social exclusion than on actual strategic capability.
+- **C.** The gate-guards are actually more afraid of the "peculiar" Bucklanders than they are of the Black Riders.
+- **D.** Merry is being overly optimistic about the courage of his neighbors to impress Frodo.
+- **E.** The Black Riders’ power is primarily psychological and can be defeated by simple, physical barriers.
 
 ---
 
@@ -148,8 +133,23 @@ The decision to enter the Old Forest, despite Fredegar’s horror, primarily hig
 > **Relevant Passage:**
 > "'But that can only mean going into the Old Forest!' said Fredegar horrified. 'You can't be thinking of doing that. It is quite as dangerous as Black Riders.' 'Not quite,' said Merry. 'I believe Frodo is right.'"
 
-- **A.** Merry’s reckless disregard for the safety of his friends.
-- **B.** The group's recognition that an unpredictable, natural danger is preferable to the targeted, relentless pursuit of the Black Riders.
-- **C.** The hobbits' belief that the Old Forest is actually a safe haven for "Elf-friends."
-- **D.** Fredegar’s cowardice compared to the bravery of the other four hobbits.
-- **E.** A lack of planning that forces them into a desperate, illogical choice.
+- **A.** A desperate, illogical choice made by hobbits who have lost their sense of proportion.
+- **B.** The group's recognition that an unpredictable, natural peril is preferable to the targeted, relentless pursuit of the Black Riders.
+- **C.** The hobbits' secret belief that the Old Forest will protect them as "rightful owners" of the Shire.
+- **D.** Fredegar’s status as a "traditionalist" who is unable to adapt to the reality of the Shadow.
+- **E.** A tactical error that assumes the Black Riders will not follow them into the wood.
+
+---
+
+### Question 10 `[ACN/CIM]` `[Advanced]`
+
+Frodo’s dream at the end of the chapter—hearing the "sound of the Sea far-off" and seeing a "tall white tower"—serves to:
+
+> **Relevant Passage:**
+> "Then he knew that it was not leaves, but the sound of the Sea far-off; a sound he had never heard in waking life, though it had often troubled his dreams. ... Looking up he saw before him a tall white tower, standing alone on a high ridge."
+
+- **A.** Provide a literal topographical map of the route to the Grey Havens.
+- **B.** Symbolize his deep-seated, perhaps ancestral, longing for the West and the ultimate, transcendental destination of his journey.
+- **C.** Foreshadow a future imprisonment where he will be looking out from a white tower toward a lost home.
+- **D.** Suggest that the Ring is attempting to influence his subconscious by projecting images of power and height.
+- **E.** Indicate that Frodo is suffering from a psychological dissociation caused by the stress of the departure.

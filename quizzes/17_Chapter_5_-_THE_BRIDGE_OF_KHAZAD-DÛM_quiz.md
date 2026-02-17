@@ -13,11 +13,11 @@ The condition of the *Book of Mazarbul*—"slashed and stabbed and partly burned
 > **Relevant Passage:**
 > "Beside the shattered lid... there lay the remains of a book. It had been slashed and stabbed and partly burned, and it was so stained with black and other dark marks like old blood that little of it could be read."
 
-- **A.** Show that the Orcs are illiterate and hate books.
-- **B.** Physically manifest the violent, desperate struggle of the Dwarves' final stand, turning the historical record into a literal artifact of the tragedy it describes.
-- **C.** Suggest that Balin was a very poor librarian.
-- **D.** Provide a puzzle for Gandalf to solve before the Orcs arrive.
-- **E.** Indicate that the chamber was once used as a kitchen.
+- **A.** Suggest that the Orcs possessed a specific ideological hatred for the Dwarves' written records.
+- **B.** Physically manifest the violent, desperate struggle of the final stand, turning the historical record into a literal artifact of the tragedy it describes.
+- **C.** Hint that the Dwarves themselves attempted to destroy the book to keep their secrets from falling into the wrong hands.
+- **D.** Provide a visual parallel to the "notched and broken" Morgul-blade found at Weathertop.
+- **E.** Portray the Dwarves as a race that values "action" so much more than "history" that they neglected their own archives.
 
 ---
 
@@ -28,11 +28,11 @@ The final entry in the book—"drums, drums in the deep... they are coming"—co
 > **Relevant Passage:**
 > "'...the pool is up to the wall at Westgate. The Watcher in the Water took Oin. We cannot get out. The end comes,' and then 'drums, drums in the deep.' ... The last thing written is in a trailing scrawl of elf-letters: 'they are coming.'"
 
-- **A.** A factual report to a poetic recitation.
-- **B.** A narrative of attempted colonization to an immediate, visceral record of existential dread and the psychological collapse of the writer in the face of inevitable death.
-- **C.** A description of the weather to a description of the Orcs.
-- **D.** A hopeful plan for escape to a realization that they have forgotten the keys.
-- **E.** A formal history to a collection of riddles.
+- **A.** A hopeful plan for colonization to a "riddle-game" intended to confuse any future explorers.
+- **B.** A narrative of attempted reconstruction to an immediate, visceral record of existential dread and psychological collapse in the face of inevitable death.
+- **C.** A description of geographical boundaries to a description of the Orcish military structure.
+- **D.** A formal history intended for the King Under the Mountain to a private diary meant only for the writer’s family.
+- **E.** Evidence that the Dwarves had finally learned to "sing" in the face of despair.
 
 ---
 
@@ -43,11 +43,11 @@ Frodo’s "hot wrath" and his decision to stab the troll’s foot with Sting pri
 > **Relevant Passage:**
 > "Suddenly, and to his own surprise, Frodo felt a hot wrath blaze up in his heart. 'The Shire!' he cried, and springing beside Boromir, he stooped, and stabbed with Sting at the hideous foot."
 
-- **A.** Frodo’s lack of tactical skill in choosing to hit the foot.
-- **B.** The emergence of a dormant, fierce ancestral courage (the "hobbit's bite") that is triggered by the direct threat to his identity and home.
-- **C.** A sign that the Ring is making him more aggressive and bloodthirsty.
-- **D.** His desire to prove to Boromir that he is not a "helpless" halfling.
-- **E.** A realization that the troll is actually a very small creature.
+- **A.** A tactical error born of inexperience, where Frodo chooses a "non-lethal" target.
+- **B.** The emergence of a fierce, ancestral courage triggered by a direct threat to his core identity and homeland.
+- **C.** A sign that the Ring is beginning to grant Frodo a "warrior’s thirst" for blood and vengeance.
+- **D.** His desire to prove to Boromir that a "halfling" is as dangerous as a Man of Gondor.
+- **E.** An instinctive reaction to the "hideousness" of the troll, which he finds aesthetically offensive.
 
 ---
 
@@ -58,11 +58,11 @@ Gimli’s behavior after the fight—being "dragged away" while he "lingered by 
 > **Relevant Passage:**
 > "the others followed; but Gimli had to be dragged away by Legolas: in spite of the peril he lingered by Balin's tomb with his head bowed."
 
-- **A.** A tactical error that endangers the whole Company.
-- **B.** A profound, culturally-rooted reverence for his kin and history that momentarily overrides his survival instinct and the urgency of the flight.
-- **C.** A sign that he is suffering from a concussion from the battle.
-- **D.** His belief that the Orcs will respect his moment of silence.
-- **E.** Evidence that he is looking for more treasure in the tomb.
+- **A.** A dangerous lack of focus that nearly results in the destruction of the entire Company.
+- **B.** A profound, culturally-rooted reverence for his kin and history that momentarily overrides his own survival instinct.
+- **C.** A suspicion that the "Book of Mazarbul" contains a secret code that he has not yet deciphered.
+- **D.** His belief that the "spirit" of Balin will grant him a vision of the way out.
+- **E.** A sign that he feels personally responsible for the failure of Balin’s colony.
 
 ---
 
@@ -70,14 +70,11 @@ Gimli’s behavior after the fight—being "dragged away" while he "lingered by 
 
 Gandalf’s account of his "counter-spell" struggle at the door—"I have met my match, and have nearly been destroyed"—indicates a shift in the conflict from:
 
-> **Relevant Passage:**
-> "'I found myself suddenly faced by something that I have not met before. ... The counter-spell was terrible. It nearly broke me. ... I have never felt so spent...'"
-
-- **A.** A physical battle with Orcs to a high-level spiritual and ontological confrontation with a power equal to or greater than his own.
-- **B.** A fight for the Ring to a fight for his own life.
-- **C.** A logical debate to a mindless brawl.
-- **D.** A mission of secrecy to a mission of open war.
-- **E.** His role as a guide to his role as a warrior.
+- **A.** A physical battle with Orcs to a high-level spiritual and ontological confrontation with a power equal to his own.
+- **B.** A struggle for the "Ring" to a struggle for his own professional reputation as a wizard.
+- **C.** A mission of "guiding" to a mission of "atonement" for leading them into Moria.
+- **D.** Evidence that Gandalf’s magic is "thinning" at the same rate as Frodo’s spirit.
+- **E.** A sign that the "Doors of Durin" were actually cursed by the Dark Lord.
 
 ---
 
@@ -88,11 +85,11 @@ The description of the Balrog as "a great shadow, in the middle of which was a d
 > **Relevant Passage:**
 > "Something was coming up behind them. What it was could not be seen: it was like a great shadow, in the middle of which was a dark form, of man-shape maybe, yet greater..."
 
-- **A.** A large Orc in a particularly dark cloak.
-- **B.** A primal, elemental entity of shadow and flame that exists on a scale of being that transcends physical "shape" and enters the realm of mythic terror.
-- **C.** A visual trick used by the Orcs to scare the Elves.
-- **D.** A creature that is afraid of the light from Gandalf’s staff.
-- **E.** A sign that the Company is entering a deeper level of the wraith-world.
+- **A.** A large, magically-enhanced Orc wearing a "cloak of darkness."
+- **B.** A primal, elemental entity of shadow and flame that exists on a scale of being that transcends physical "shape."
+- **C.** A psychological hallucination projected by the "drums" to demoralize the Company.
+- **D.** A sign that the "Shadow" of Mordor has finally achieved a physical presence in the North.
+- **E.** A creature that is afraid of the "White Light" of Gandalf’s staff and is attempting to hide.
 
 ---
 
@@ -103,11 +100,11 @@ Gandalf’s faltering and leaning "heavily on his staff" upon recognizing the Ba
 > **Relevant Passage:**
 > "'A Balrog,' muttered Gandalf. 'Now I understand.' He faltered and leaned heavily on his staff. 'What an evil fortune! And I am already weary.'"
 
-- **A.** His realization that he has taken the wrong turn in the Mines.
-- **B.** The sudden, crushing weight of historical and cosmic recognition, knowing that the "nameless fear" of the Dwarves is an ancient, demonic peer that he must now face in his weakened state.
-- **C.** His fear that the Balrog will steal his staff.
-- **D.** A sign that he is giving up hope and letting the Balrog win.
-- **E.** His annoyance that Legolas identified the creature before he did.
+- **A.** His annoyance that he has wasted so much energy on the Orcs when a "true" enemy was approaching.
+- **B.** The sudden, crushing weight of cosmic recognition, knowing that he must face an ancient, demonic peer in his current weakened state.
+- **C.** A fear that the Balrog is actually more powerful than the Dark Lord Sauron.
+- **D.** A sign that Gandalf is considering using the Ring to defeat this specific foe.
+- **E.** His suspicion that the Dwarves of Moria were actually in league with the Balrog.
 
 ---
 
@@ -115,29 +112,11 @@ Gandalf’s faltering and leaning "heavily on his staff" upon recognizing the Ba
 
 Gandalf’s proclamation—"I am a servant of the Secret Fire, wielder of the flame of Anor"—is a statement of:
 
-> **Relevant Passage:**
-> "'You cannot pass,' he said. ... 'I am a servant of the Secret Fire, wielder of the flame of Anor. ... The dark fire will not avail you, flame of Udun. Go back to the Shadow!'"
-
-- **A.** His official title and job description in Rivendell.
-- **B.** An ontological challenge, asserting his alignment with the divine, creative light of the world against the Balrog’s corrupt, destructive fire of the "Shadow."
-- **C.** A request for the Balrog to let him pass peacefully.
-- **D.** A secret code intended to summon the Eagles.
-- **E.** His belief that he is more powerful than Sauron.
-
----
-
-### Question 9 `[ACN/CIM]` `[Advanced]`
-
-Gandalf’s final cry—"Fly, you fools!"—as he falls into the abyss primarily serves to:
-
-> **Relevant Passage:**
-> "He staggered and fell, grasped vainly at the stone, and slid into the abyss. 'Fly, you fools!' he cried, and was gone."
-
-- **A.** Insult the hobbits for being too slow to cross the bridge.
-- **B.** Reassert his role as the selfless, authoritative guide whose final act is to ensure the continuation of the quest, even at the cost of his own life.
-- **C.** Warn the Company that the Balrog is still alive.
-- **D.** Show that he has lost his mind in the moment of death.
-- **E.** Tell the hobbits that they should try to find some wings and fly out of Moria.
+- **A.** His formal rank within the "Order of Wizards" intended to intimidate the Balrog.
+- **B.** An ontological challenge, asserting his alignment with the divine, creative light against the Balrog’s corrupt fire of the "Shadow."
+- **C.** A request for the Balrog to recognize a shared "Maia" heritage and allow him to pass.
+- **D.** A secret password that will trigger the collapse of the Bridge of Khazad-dûm.
+- **E.** His belief that the "Sun" (Anor) is the only power that can destroy a Balrog.
 
 ---
 
@@ -148,8 +127,23 @@ The "dead darkness" and the subsequent "weeping long" of the Company once they r
 > **Relevant Passage:**
 > "Thus, at last, they came beyond hope under the sky... Faint and far beneath the earth rolled the slow drum-beats: _doom_. ... Grief at last wholly overcame them, and they wept long..."
 
-- **A.** Their physical pain from the long march through the dark.
-- **B.** The traumatic transition from the claustrophobic terror of the "under-world" to the bright, indifferent surface, and the sudden, overwhelming realization of the loss of their primary protector and guide.
-- **C.** Their joy at finally seeing the sun again.
-- **D.** A sign that they are all turning into wraiths because of the "Black Breath."
-- **E.** Their fear that they will never find another place to sleep as comfortable as Rivendell.
+- **A.** Their physical relief at finally escaping the "stuffy" air of the Mines.
+- **B.** The traumatic transition from the claustrophobic terror of the "under-world" to the realization of the absolute loss of their protector.
+- **C.** A sign that they have all been infected by the "Black Breath" and are losing their sanity.
+- **D.** Their fear that without Gandalf, they will never be able to find the way to Mordor.
+- **E.** Joy that the sun is finally "defeating" the drums of the deep.
+
+---
+
+### Question 9 `[ACN/CIM]` `[Advanced]`
+
+Gandalf’s final cry—"Fly, you fools!"—as he falls into the abyss primarily serves to:
+
+> **Relevant Passage:**
+> "He staggered and fell, grasped vainly at the stone, and slid into the abyss. 'Fly, you fools!' he cried, and was gone."
+
+- **A.** Express his final frustration with the hobbits' inability to understand his strategic plans.
+- **B.** Reassert his role as the selfless, authoritative guide whose final act is to ensure the quest continues at any cost.
+- **C.** Signal that the Balrog is still alive and will eventually follow them.
+- **D.** Warn them that they are "fools" for thinking that the Bridge was safe.
+- **E.** Tell them that they must find the "Great Eagles" immediately to survive the journey.

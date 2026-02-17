@@ -13,11 +13,11 @@ Merry’s comment that "Saruman kept enough wisdom not to trust his Orcs" and us
 > **Relevant Passage:**
 > "'...Saruman kept enough wisdom not to trust his Orcs. He had Men to guard his gates: some of his most faithful servants, I suppose. Anyway they were favoured and got good provisions.'"
 
-- **A.** Saruman’s personal preference for human company.
-- **B.** Saruman’s recognition of the inherent treachery and instability of Orcish loyalty, requiring a more "rational" and reliable human buffer to secure his most vital perimeter.
-- **C.** Evidence that Saruman was planning to retire and live as a Man.
-- **D.** That the Orcs were too busy in the kitchens to guard the gates.
-- **E.** A sign that the Men of Isengard were actually stronger than the Uruk-hai.
+- **A.** Saruman’s belief that Men are physically stronger and more resilient than the Uruk-hai.
+- **B.** Saruman’s cynical recognition of the inherent treachery of Orcs, requiring a more "rational" human buffer to secure his most vital perimeters.
+- **C.** Evidence that Saruman was planning to "humanize" his empire by slowly removing all Orcs from positions of power.
+- **D.** That the "Men of Dunland" were actually better chefs and thus managed the provisions.
+- **E.** A sign that the "White Hand" is actually a human symbol rather than an Orcish one.
 
 ---
 
@@ -28,11 +28,11 @@ Pippin’s choice to keep an "unused" pipe "near my skin" and his comment that i
 > **Relevant Passage:**
 > "'I keep a treasure or two near my skin, as precious as Rings to me. Here's one: my old wooden pipe. And here's another: an unused one. ... I never really expected to find any pipe-weed on the journey... But now it comes in useful after all.'"
 
-- **A.** His literal desire to become a Ring-lord.
-- **B.** The psychological importance of maintaining a connection to the Shire's domestic identity, where small, seemingly "useless" objects of comfort act as vital talismans against the dehumanizing terror of the quest.
-- **C.** A sign that Pippin is becoming as greedy as Gollum.
-- **D.** His belief that wooden pipes are more powerful than magic rings.
-- **E.** Evidence that Pippin has forgotten the gravity of Frodo's mission.
+- **A.** His literal, material greed for artifacts that look like the "One Ring."
+- **B.** The psychological importance of maintaining a connection to the Shire's domestic identity as a defense against the "dehumanizing" terror of the quest.
+- **C.** A sign that he is becoming "thinned" and is confusing mundane objects with items of cosmic power.
+- **D.** His belief that wooden pipes possess a magical warding ability against Orcs.
+- **E.** Evidence that he has completely forgotten the "Master of Bag End" and is now focused only on his own comfort.
 
 ---
 
@@ -43,11 +43,11 @@ Aragorn’s statement that "One who cannot cast away a treasure at need is in fe
 > **Relevant Passage:**
 > "'And here also is your brooch, Pippin,' said Aragorn. ... 'I know,' said Pippin. 'It was a wrench to let it go; but what else could I do?' 'Nothing else,' answered Aragorn. 'One who cannot cast away a treasure at need is in fetters.'"
 
-- **A.** Pippin’s clumsiness in losing the brooch.
-- **B.** The fundamental difference between "possession" and "freedom," suggesting that true power lies in the ability to sacrifice what is "precious" for a higher purpose, a quality that Sauron and Saruman lack.
-- **C.** His plan to sell the brooch to buy more horses.
-- **D.** Aragorn’s own regret over losing his sword in Moria.
-- **E.** A sign that the brooch is actually cursed.
+- **A.** Pippin’s clumsiness and his "un-hobbit-like" failure to secure his jewelry.
+- **B.** The fundamental difference between "possession" and "freedom," where true authority lies in the ability to sacrifice the "precious" for a higher ethical purpose.
+- **C.** His plan to use the brooch as a "magical key" to unlock the doors of Orthanc.
+- **D.** Aragorn’s own regret over leaving his "Ranger-gear" behind in the Shire.
+- **E.** A sign that the brooch is actually a "listening device" used by Galadriel.
 
 ---
 
@@ -58,11 +58,11 @@ Merry’s description of the "Huorn-dark" and the feeling that "the Forest itsel
 > **Relevant Passage:**
 > "'It was then that I first had the feeling that the Forest itself was moving behind us. ... I think they are Ents that have become almost like trees... queer and wild. Dangerous. I should be terrified of meeting them, if there were no true Ents about...'"
 
-- **A.** Whimsical magic and fairytale adventure.
-- **B.** Primal, elemental dread, characterizing the Huorns as a half-sentient, barely-controlled force of nature that represents the untamed and "wild" rage of the woods.
-- **C.** Relief that the hobbits are no longer being chased by Orcs.
-- **D.** Confusion about the direction of the wind.
-- **E.** A sign that the hobbits are suffering from sleep-deprivation.
+- **A.** Whimsical magic intended to evoke the lighthearted tone of *The Hobbit*.
+- **B.** Primal, elemental dread, characterizing the Huorns as a half-sentient and untamed force of nature that represents the "wild" rage of the forest.
+- **C.** Relief that the "Orc-work" of the world is finally being managed by professional gardeners.
+- **D.** Confusion, leading the hobbits to believe they have accidentally circled back to the Old Forest.
+- **E.** A sign that the hobbits are suffering from "ent-draught" induced hallucinations.
 
 ---
 
@@ -73,11 +73,11 @@ Aragorn’s assessment of Saruman’s "power over the minds of others" suggests 
 > **Relevant Passage:**
 > "'...His knowledge was deep, his thought was subtle... and he had a power over the minds of others. The wise he could persuade, and the smaller folk he could daunt. That power he certainly still keeps.'"
 
-- **A.** His ability to use fire and machinery in battle.
-- **B.** His rhetorical and psychological sophistication, which allows him to manipulate the perceptions and loyalties of others through speech alone, even after his physical military power has been destroyed.
-- **C.** That Saruman is a better fighter than Gandalf.
-- **D.** Evidence that Saruman is using magic to hide his tower.
-- **E.** His desire to become the new King of Rohan.
+- **A.** His ability to build "machines and things" that can destroy stone walls.
+- **B.** His rhetorical and psychological sophistication, which allows him to manipulate the perceptions of others through speech even after his physical power is destroyed.
+- **C.** That Saruman is a better linguist than Gandalf.
+- **D.** Evidence that Saruman is using "telepathy" to read the thoughts of the Three Hunters.
+- **E.** His plan to replace the "Dark Lord" by using the "Voice" to unite all Orcs.
 
 ---
 
@@ -85,14 +85,11 @@ Aragorn’s assessment of Saruman’s "power over the minds of others" suggests 
 
 Merry’s observation that Saruman "has not much grit... alone in a tight place without a lot of slaves and machines" characterizes the wizard’s evil as:
 
-> **Relevant Passage:**
-> "'...anyway I think he has not much grit, not much plain courage alone in a tight place without a lot of slaves and machines and things, if you know what I mean. Very different from old Gandalf.'"
-
-- **A.** A result of Saruman’s physical weakness.
-- **B.** Dependent on external systems of control and industrial power, revealing an underlying moral and personal hollowness that fails when his "tools" are removed.
-- **C.** A sign that Saruman is actually a very peaceful person.
-- **D.** Evidence that Isengard is poorly designed for defense.
-- **E.** Merry’s own arrogance regarding his "rescue" of Isengard.
+- **A.** A result of his physical "shrunkenness" and extreme old age.
+- **B.** Dependent on external systems of control and industrial power, revealing a moral hollowness that fails when his "tools" are removed.
+- **C.** A sign that Saruman is actually a "coward" who is afraid of Orcs.
+- **D.** Evidence that the wizard’s "Power" was entirely an illusion created by Wormtongue.
+- **E.** Merry’s own arrogance in underestimating a member of the White Council.
 
 ---
 
@@ -103,53 +100,47 @@ The image of Isengard as a "huge flat saucepan, all steaming and bubbling" at th
 > **Relevant Passage:**
 > "One great coil of vapour went whirling up... until at last Isengard looked like a huge flat saucepan, all steaming and bubbling."
 
-- **A.** Provide a humorous, domestic metaphor that belittles the scale of Saruman’s industrial catastrophe.
-- **B.** Symbolically "neutralize" the toxic and unquiet nature of Saruman’s furnaces by transforming the entire stronghold into a literal vessel of its own destruction and purification.
-- **C.** Show that the Ents are planning to cook a meal for the Company.
-- **D.** Suggest that the water is actually boiling.
-- **E.** Predict a change in the climate of the Wizard's Vale.
+- **A.** Provide a humorous, domestic metaphor that trivializes the scale of Saruman’s industrial catastrophe.
+- **B.** Symbolically "neutralize" the toxic nature of the wizard’s furnaces by transforming the stronghold into a vessel of natural purification.
+- **C.** Show that the Ents are planning to use the heat to cook for the hobbits.
+- **D.** Suggest that the water has been "poisoned" by the metal and wheels of Isengard.
+- **E.** Predict a permanent change in the climate of the Nan Curunír.
 
 ---
 
 ### Question 8 `[CIM/ANT]` `[Advanced]`
 
-Gandalf’s "tom-fool of a Took" greeting to Pippin at the gate, followed by his hurried meeting with Treebeard, primarily reveals:
+Gandalf’s "tom-fool of a Took" greeting at the gate, followed by his hurried meeting with Treebeard, primarily reveals:
 
-> **Relevant Passage:**
-> "'He said: "Get up, you tom-fool of a Took! Where, in the name of wonder, in all this ruin is Treebeard? I want him. Quick!"' ... Treebeard might almost have been loitering about near the gates on purpose to meet him."
-
-- **A.** Gandalf’s genuine anger at Pippin for being captured.
-- **B.** The intense, high-level strategic coordination between Gandalf and Treebeard, where their "unhasty" meeting masks a profound, shared sense of urgency regarding the next phase of the war.
-- **C.** That Gandalf has lost his sense of humor.
-- **D.** Evidence that Treebeard was actually working for Saruman.
-- **E.** A sign that Pippin is no longer welcome in the Company.
+- **A.** His genuine anger and his belief that Pippin is no longer a useful member of the Company.
+- **B.** The intense strategic coordination between the Wizard and the Ent, where their "unhasty" communication masks a profound sense of urgency.
+- **C.** That Gandalf is becoming as "rude and proud" as Saruman accused him of being.
+- **D.** Evidence that Gandalf is more interested in "Tree-lore" than in the safety of his friends.
+- **E.** A sign that Pippin’s "folly" has permanently damaged Gandalf’s trust in him.
 
 ---
 
 ### Question 9 `[CIM/ANT]` `[Advanced]`
 
-Treebeard’s "grimly delighted" treatment of Wormtongue, forcing him to cross the flood to reach Orthanc, suggests that:
+Treebeard’s "grimly delighted" treatment of Wormtongue, forcing him to cross the dirty water, suggests that:
 
 > **Relevant Passage:**
 > "'...I am the master of Isengard now... and you can go there and give him all the messages that you can think of.' ... 'The water is not deep. It is dirty, but that will not harm you... In you go now!'"
 
-- **A.** Treebeard is a cruel and sadistic host.
-- **B.** A deliberate, poetic justice where the "snake" is forced to crawl through the "slime" of his own master's ruin to reach the master he served so faithfully through betrayal.
-- **C.** Treebeard’s desire to see Wormtongue drown.
-- **D.** A sign that Treebeard is afraid of Gandalf’s reaction.
-- **E.** That Wormtongue is actually a very good swimmer.
+- **A.** Treebeard is a cruel and sadistic being who enjoys the suffering of "short-lived" folk.
+- **B.** A deliberate, poetic justice where the "snake" is forced to crawl through the "slime" of his master's ruin to reach the trap he helped build.
+- **C.** Treebeard’s desire to see Wormtongue drown before he can talk to Saruman.
+- **D.** A sign that the Ents have no understanding of human "hygiene."
+- **E.** That Wormtongue is being "baptized" into the service of the forest.
 
 ---
 
 ### Question 10 `[PIS/SCA]` `[Advanced]`
 
-Aragorn’s suspicion regarding the "leaf from the Southfarthing" in Isengard points toward a growing concern about:
+Aragorn’s suspicion regarding the "leaf from the Southfarthing" in Isengard points toward:
 
-> **Relevant Passage:**
-> "'All except one thing,' said Aragorn: 'leaf from the Southfarthing in Isengard. ... Saruman had secret dealings with someone in the Shire, I guess. Wormtongues may be found in other houses than King Theoden's.'"
-
-- **A.** The high cost of tobacco in Rohan.
-- **B.** The realization that Saruman’s reach and influence (and potentially his espionage network) extend far beyond the immediate war zone, threatening the internal security of the Shire itself.
-- **C.** A plan to open a new trade route between Isengard and Hobbiton.
-- **D.** His desire to find a better brand of pipe-weed.
-- **E.** Evidence that the hobbits are actually working for Saruman.
+- **A.** His concern about the high price of agricultural goods in the Shire.
+- **B.** The realization that Saruman’s reach and espionage network extend far beyond the war zone, threatening the internal security of the Shire itself.
+- **C.** A plan to establish a new tobacco trade route between Gondor and the Shire.
+- **D.** Evidence that the hobbits have been "stealing" from Saruman’s private stores for years.
+- **E.** A sign that the "Old Toby" brand has a magical quality that attracts wizards.

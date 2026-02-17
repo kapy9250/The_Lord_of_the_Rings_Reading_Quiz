@@ -9,7 +9,7 @@
 | 1 | B | CIM/ANT | Advanced |
 | 2 | B | PIS/SCA | Advanced |
 | 3 | B | ACN/ANT | Advanced |
-| 4 | A | CIM/ANT | Advanced |
+| 4 | B | CIM/ANT | Advanced |
 | 5 | B | PIS/SCA | Advanced |
 | 6 | B | CIM/ANT | Advanced |
 | 7 | B | ACN/ANT | Advanced |
@@ -23,13 +23,16 @@
 
 **Frodo’s reluctance to leave Bag End, even though he had "privately made up his mind" to do so, primarily illustrates:**
 
-**Correct Answer: B. The psychological weight of finality and the human (or hobbit) tendency to overvalue what is about to be lost.**
+**Correct Answer: B. The psychological weight of finality and the tendency to overvalue a familiar identity when it is about to be relinquished.**
 
 **Why this is correct:**
-The text notes that "Bag End seemed a more desirable residence than it had for years." This "savouring" of the last summer is a classic psychological reaction to an impending, permanent loss. The familiarity and safety of home become intensely attractive precisely because they are being exchanged for an unknown, dangerous journey.
+The text notes that "Bag End seemed a more desirable residence than it had for years." This is a classic psychological reaction to imminent loss. Frodo's identity as the "Master of Bag End" is about to be replaced by the status of a fugitive; the sudden "desirability" of his home reflects his internal struggle to let go of a safe, defined life.
 
-**Why A is incorrect** `[SL]`:
-There is no evidence Frodo thinks Gandalf is "exaggerating"; in fact, he is "restless and anxious" when Gandalf doesn't return. His reluctance is emotional, not an intellectual disagreement with the danger.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that ignores the emotional "reluctance" mentioned in the text.
+- **C** is a "Plausible Misreading" that attributes a tactical motive to an emotional state.
+- **D** is an "Over-Interpretation" that uses the Ring's power to explain a very human feeling of homesickness.
+- **E** is a "Half-Truth"; while he dislikes them, his reluctance is centered on *leaving* his home, not on the future owners.
 
 ---
 
@@ -37,13 +40,16 @@ There is no evidence Frodo thinks Gandalf is "exaggerating"; in fact, he is "res
 
 **What does the varying public reaction to the sale of Bag End—ranging from "a nice bit" to "a bargain price"—suggest about the social environment of the Shire?**
 
-**Correct Answer: B. The community is driven by gossip, financial speculation, and deeply ingrained class-based myths.**
+**Correct Answer: B. The community is governed by persistent myths of wealth that override objective economic reality.**
 
 **Why this is correct:**
-The hobbits' debate over the price and the "notion of the immeasurable wealth" shows a community that is obsessed with the affairs of the prominent Baggins family. Their inability to believe Frodo's "money was running out" highlights how mythological status (Bilbo's treasure) overrides literal economic reality in the Shire's collective mind.
+The text explains that the "notion of the immeasurable wealth" was so "firmly fixed" that most found the truth "hard to believe." This illustrates a society where gossip and myth create a reality more powerful than facts, where a family's status is permanently tied to legends of "gold and jewels."
 
-**Why D is incorrect** `[OI]`:
-The hobbits are described as "debatable" and "discussing," suggesting curiosity and speculation rather than genuine altruistic concern for Frodo's financial welfare.
+**Analysis of Distractors:**
+- **A** uses an modern, academic-sounding phrase ("competitive and predatory") that doesn't fit the rustic nature of the Shire.
+- **C** is a "Plausible Misreading" that projects adult concerns (gambling) onto a text that focuses on "immeasurable wealth."
+- **D** is a "Half-Truth"; Lobelia is disliked, but the focus of the quote is on the *notion of wealth*, not her personal reputation.
+- **E** is a "Surface-Level Literalism" that contradicts the fact that they are still "discussing" it.
 
 ---
 
@@ -51,27 +57,33 @@ The hobbits are described as "debatable" and "discussing," suggesting curiosity 
 
 **The contrast between the "fair summer" and "rich autumn" and the underlying "uneasiness" Frodo feels regarding Gandalf's absence serves to:**
 
-**Correct Answer: B. Heighten the narrative tension by juxtaposing the peaceful, bountiful surface of the Shire with an invisible, gathering threat.**
+**Correct Answer: B. Heighten narrative tension by juxtaposing the Shire’s sensory abundance with a gathering, invisible threat.**
 
 **Why this is correct:**
-The "fair summer" and "rich autumn" emphasize the Shire’s insulation and apparent safety. By setting Frodo’s growing worry ("September was passing and there was still no news") against this idyllic backdrop, the author creates a sense of "the calm before the storm," making the eventual arrival of the Black Rider more jarring.
+The sensory details of the "fair summer" and "rich autumn" create a sense of Shire-perfection. By setting Frodo's "worry" and the "news" of the Shadow against this idyllic backdrop, the author uses a "calm before the storm" technique, making the encroaching evil feel more invasive and unnatural.
 
-**Why D is incorrect** `[PT]`:
-While he "forgot his troubles for a while," the text emphasizes that his worry returns "before autumn was well under way." The beauty of the summer isn't just a distraction; it's a narrative device.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that takes the Shire's peace as a literal "sanctuary" rather than a narrative setting.
+- **C** is a "Surface-Level Literalism" that reduces an epic plot point to a common mood swing.
+- **D** is an "Over-Interpretation" that grants the Ring physical control over the environment without evidence.
+- **E** is a "Moralistic Misreading" that blames Frodo for his reaction to the weather.
 
 ---
 
 ### Question 4 `[CIM/ANT]` `[Advanced]`
 
-**Frodo’s decision to walk to Bucklebury, ostensibly for "pleasure" and "training," despite his "restless and anxious" state, most likely hides:**
+**Frodo’s decision to walk to Bucklebury for "pleasure" and a "last look," despite his "restless and anxious" state, most likely hides:**
 
-**Correct Answer: A. A desire to delay the moment of final departure for as long as possible.**
+**Correct Answer: B. A desire to delay the definitive moment of "exile" by extending his final interaction with the Shire’s landscape.**
 
 **Why this is correct:**
-By choosing to walk "fairly easy" and take a "last look at the Shire," Frodo is extending his time within the familiar borders. This is a form of procrastination born from his reluctance to enter "exile." He is "restless" to be gone but emotionally "unready" to leave the Shire behind entirely.
+The decision to walk "fairly easy" and take a "last look" is a form of emotional procrastination. Frodo is intellectually ready to go ("privately made up his mind"), but emotionally he is trying to "savour" the Shire, stretching out his final moments of peace before the "long road" begins.
 
-**Why B is incorrect** `[PT]`:
-While he "half expected to see Gandalf come striding up," his primary plan (walking for "pleasure") is established even before Gandalf is late, as a way to say a slow goodbye to his home.
+**Analysis of Distractors:**
+- **A** is a "Half-Truth"; he does hope to see Gandalf, but the "last look" and "pleasure" are his stated reasons for the *walk* itself.
+- **C** is a "Surface-Level Literalism" that ignores the "restless and anxious" part of the text.
+- **D** is a "Plausible Misreading" that creates a competitive motivation not found in the text.
+- **E** uses academic-sounding terms ("operational security") to frame a sentimental choice as a tactical error.
 
 ---
 
@@ -79,13 +91,16 @@ While he "half expected to see Gandalf come striding up," his primary plan (walk
 
 **What is the significance of the Gaffer’s shrill and "put out" tone when speaking to the stranger in the lane?**
 
-**Correct Answer: B. The Gaffer is subconsciously sensing the "unpleasant" nature of the stranger and reacting with defensive hostility.**
+**Correct Answer: B. The Gaffer is exhibiting an instinctive, visceral rejection of an entity that is fundamentally "unpleasant" and alien.**
 
 **Why this is correct:**
-The Gaffer's reaction—being "put out," his "shrill" answers, and his feeling of a "shudder"—suggests an instinctive, visceral rejection of the stranger's presence. Even without knowing the stranger is a Black Rider, the Gaffer's "hobbit-sense" detects something profoundly "unnatural" and threatening about the inquirer.
+The Gaffer's reaction—being "put out," his "shrill" voice, and the "shudder" mentioned later—suggests that even a simple hobbit can sense the "unnatural" aura of a Black Rider. His annoyance isn't just about manners; it's a defensive reaction to something that feels "wrong" on a fundamental level.
 
-**Why A is incorrect** `[SL]`:
-While the "funny" speech is mentioned, the Gaffer's "shudder" and "put out" nature suggest a much deeper, more instinctive fear than mere annoyance at poor manners.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that reduces the encounter to a breach of social "etiquette."
+- **C** attributes a "protective" motive to the Gaffer that the text doesn't support; he's just annoyed and creeped out.
+- **D** is a "Plausible Misreading" that uses a common trait of the elderly (hearing loss) to explain away a supernatural encounter.
+- **E** is an "Over-Interpretation" that grants the Rider powers (mental influence) not yet demonstrated in this scene.
 
 ---
 
@@ -93,13 +108,16 @@ While the "funny" speech is mentioned, the Gaffer's "shudder" and "put out" natu
 
 **Frodo’s "sudden unreasoning fear" and the "strong" desire to put on the Ring when the Black Rider first appears primarily indicate:**
 
-**Correct Answer: B. The Ring’s ability to exploit moments of vulnerability and fear to exert its influence over the bearer.**
+**Correct Answer: B. The Ring’s opportunistic exploitation of a bearer’s panic to exert its will and ensure its discovery.**
 
 **Why this is correct:**
-The text calls the fear "unreasoning" and the desire to use the Ring "strong." This suggests the Ring is not just a tool, but an active participant that "tries" to get Frodo to reveal himself. It exploits his panic to circumvent Gandalf's advice, showing the beginning of its psychological dominance.
+The fear is "unreasoning," and the desire to use the Ring is "strong." This signals that the Ring is an active, malevolent presence. It waits for the bearer's will to be weakened by "terror" and then pushes them to reveal themselves, showing its alignment with the searching Rider.
 
-**Why D is incorrect** `[CC]`:
-The Rider is "sniffing" and "listening," but the text attributes the "desire to get [the Ring] out of his pocket" to Frodo's own internal struggle, catalyzed by his fear, rather than a direct telepathic command from the Rider.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that tries to make a "logical" case for an act the text calls "unreasoning."
+- **C** is a "Plausible Misreading" that blames the Rider's "field of compulsion" rather than the Ring's internal influence.
+- **D** is an "Over-Interpretation" that suggests Frodo has a subconscious "death wish" or desire to fail.
+- **E** is a "Moralistic Misreading" that focuses on Frodo's "failure" rather than the Ring's "power."
 
 ---
 
@@ -107,13 +125,16 @@ The Rider is "sniffing" and "listening," but the text attributes the "desire to 
 
 **The inclusion of the fox’s perspective ("There's something mighty queer behind this") serves to:**
 
-**Correct Answer: B. Provide an external, objective confirmation that the hobbits' behavior is fundamentally uncharacteristic and "queer."**
+**Correct Answer: B. Provide an objective, external validation of how fundamentally "un-hobbit-like" and abnormal the quest has already become.**
 
 **Why this is correct:**
-By using an animal's perspective, the narrative reinforces how "un-hobbit-like" the quest actually is. If even a fox in the wood thinks it's "mighty queer" for hobbits to sleep under trees, it highlights for the reader the gravity and abnormality of the situation, underscoring that the traditional Shire life has already been left behind.
+If even the wild animals of the Shire think it's "mighty queer" for hobbits to be sleeping in the woods, it emphasizes to the reader that the "normality" of the Shire has truly been broken. It serves as an outside perspective that confirms the gravity of the hobbits' situation.
 
-**Why A is incorrect** `[SL]`:
-While it is a whimsical moment, its primary narrative function is to emphasize the "queerness" of the events, not just to provide comic relief.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that views the fox as merely "whimsical."
+- **C** is an "Over-Interpretation" that projects later developments (sentient nature) onto a moment that is mostly a narrative device.
+- **D** is a "Plausible Misreading" that treats the fox as a "foreshadowing" trope.
+- **E** is a "Half-Truth"; while true, the primary *narrative* function is the "queerness" validation.
 
 ---
 
@@ -121,13 +142,16 @@ While it is a whimsical moment, its primary narrative function is to emphasize t
 
 **Gildor’s remark that "hobbits are so dull" and the subsequent laughter of the Elves primarily serves to:**
 
-**Correct Answer: B. Establish a playful, yet distant, dynamic where the Elves acknowledge their vast difference in perspective while remaining friendly.**
+**Correct Answer: B. Establish a playful, yet profound, distance between two races that perceive time and importance on vastly different scales.**
 
 **Why this is correct:**
-The Elves' laughter is described as lighthearted, and they immediately invite the hobbits to join them. The "dull" comment is a form of ancient, immortal humor—a way of acknowledging that hobbits live in a much smaller, slower world than Elves do, without being genuinely malicious or exclusionary.
+The Elves' laughter is lighthearted, not cruel. The comment "hobbits are so dull" is an ironic acknowledgement of their different natures. Elves live in "the wide world" and "the deeps of time," while hobbits live in a "dull" (safe, predictable) garden. The laughter bridge the gap between their disparate realities.
 
-**Why A is incorrect** `[AM]`:
-The Elves call Frodo a "jewel among hobbits" and treat them with great kindness and respect ("Hail, Elf-friend!"). The "dull" comment is ironic, not a statement of literal contempt.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that interprets Elven distance as "genuine arrogance."
+- **C** is an "Over-Interpretation" that suggests the Elves are "masking fear," which contradicts their "bright" and "singing" nature.
+- **D** is an "Academic Over-Interpretation" that views the encounter as a "test."
+- **E** is a "Surface-Level Literalism" that ignores Gildor's clear understanding of the "servants of the Enemy."
 
 ---
 
@@ -135,13 +159,16 @@ The Elves call Frodo a "jewel among hobbits" and treat them with great kindness 
 
 **What does Gildor’s refusal to explain the nature of the Black Riders ("lest terror should keep you from your journey") imply about his view of courage?**
 
-**Correct Answer: B. He believes that knowing the full truth too early can be psychologically paralyzing for those not yet ready for the "long road."**
+**Correct Answer: B. He believes that moral fortitude is a fragile quality that can be shattered by premature exposure to the "Great Enemy."**
 
 **Why this is correct:**
-Gildor suggests that "terror" might stop Frodo's journey before it has truly begun. This implies a belief that courage is something that must be built through action and experience; revealing the full, horrific nature of the Nazgûl to a hobbit who has just left his garden would be a "dangerous gift" that might destroy hope.
+Gildor recognizes that "terror" can be paralyzing. He believes Frodo must set out while he still has hope. Revealing the full, ancient horror of the Nazgûl to a hobbit who has just left his garden would be a "dangerous gift" that might destroy his will to move forward.
 
-**Why A is incorrect** `[OI]`:
-Gildor doesn't think courage is ignorance; he thinks Frodo is "not ready" for the specific knowledge of what the Riders *are*, though he provides enough warning ("deadly," "servants of the Enemy") to ensure Frodo remains cautious.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that frames courage as "ignorance," whereas Gildor *does* give a partial warning.
+- **C** is a "Lore-Trap" that invents an "Elven oath" to explain a pedagogical choice.
+- **D** is an "Academic Over-Interpretation" about "direct experience."
+- **E** is an "Academic Over-Interpretation" that suggests a power-dynamic motive (dependency on Gandalf).
 
 ---
 
@@ -149,22 +176,13 @@ Gildor doesn't think courage is ignorance; he thinks Frodo is "not ready" for th
 
 **Gildor’s statement, "But it is not your own Shire," challenges the hobbits' fundamental assumption of:**
 
-**Correct Answer: B. Their parochial sense of permanence, safety, and ownership over a world that is much older and larger than they realize.**
+**Correct Answer: B. Their parochial sense of permanence and the belief that their domestic peace is a natural, universal constant.**
 
 **Why this is correct:**
-Gildor points out that others were here before and others will be here after. He is deflating the hobbits' ego by reminding them that the "wide world" is indifferent to their fences and their sense of "peace." This marks a major thematic shift from the "safety" of the Shire to the "unending Road" of the wider world.
+Gildor reminds them that "Others dwelt here before... and others will dwell here again." He is deflating the hobbits' ego by pointing out that their "ownership" is a brief moment in the vast history of Middle-earth. The Shire's peace is not a right; it is a temporary, fragile state in a much larger, indifferent world.
 
-**Why E is incorrect** `[SL]`:
-While true, the focus of the quote is on the *history* and *transience* of the hobbits' presence ("Others dwelt here before... others will dwell here again"), which is a more profound challenge than just a warning about current safety.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 4 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 4 |
-| Pragmatic Implicature & Subtext (PIS) | 6 |
-| Situational & Contextual Awareness (SCA) | 5 |
-| Authorial Craft & Narrative Strategy (ACN) | 2 |
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that treats the "Shire" as a legal entity rather than a spiritual concept.
+- **C** is a "Surface-Level Literalism" that focuses on the "Bounders."
+- **D** is a "Lore-Trap"; hobbits don't believe they are the "most ancient."
+- **E** is a "Half-Truth" that confuses the specific plot point (the sale) with the broader thematic challenge.

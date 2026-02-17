@@ -23,13 +23,16 @@
 
 **Strider’s explanation for why the Black Riders did not attack again immediately—that they believe their purpose is "almost accomplished"—implies that the Riders view Frodo primarily as:**
 
-**Correct Answer: B. A biological vessel for the Ring that is now undergoing an inevitable and predictable process of spiritual "wraithing."**
+**Correct Answer: B. A biological vessel for the Ring undergoing an automated and predictable process of spiritual "wraithing."**
 
 **Why this is correct:**
-Strider explains that the Riders believe the "deadly wound... will subdue him to their will." They are "only waiting" because they view the "wraith-process" as an automated countdown. To them, Frodo is no longer a free agent but a victim whose transformation into a "shadow" like themselves is certain, making further violent confrontation unnecessary until he is fully "subdued."
+Strider explains that the Riders believe the "deadly wound... will subdue him to their will." They are "only waiting" because they view the "wraith-process" as an automated countdown. To them, Frodo is no longer a free agent but a victim whose transformation into a "shadow" like themselves is certain.
 
-**Why E is incorrect** `[SL]`:
-They don't want to "question" him; they want the Ring. Subduing him to their "will" means turning him into a wraith who will obey their commands and hand over the Ring voluntarily.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that focuses on morale rather than the supernatural transformation.
+- **C** is an "Over-Interpretation" that suspects a "negotiation" which the Riders would never pursue.
+- **D** is a "Half-Truth"; while they view him as small, his *transformation* is of extreme concern to them.
+- **E** is a "Lore-Trap" that invents a tactical motive (leading them to Rivendell) that isn't supported by Strider’s explanation.
 
 ---
 
@@ -37,13 +40,16 @@ They don't want to "question" him; they want the Ring. Subduing him to their "wi
 
 **The "melting" and vanishing of the Morgul-knife blade in Strider’s hand primarily serves to:**
 
-**Correct Answer: B. Illustrate the supernatural, ephemeral, and purely malevolent nature of the Enemy’s weapons, which exist only to deliver their "poison" and then withdraw.**
+**Correct Answer: B. Illustrate the supernatural, ephemeral nature of the Enemy’s tools, which exist only as vectors for spiritual "poison."**
 
 **Why this is correct:**
-The blade vanishing "like a smoke in the air" emphasizes that it is not a normal weapon of "steel," but a tool of necromancy. Its physical form is secondary to its spiritual "poison." Once its purpose (wounding the Ring-bearer) is achieved, it dissipates, leaving only the "accursed" hilt. This heightens the sense of the Riders' alien and horrifying nature.
+The blade vanishing "like a smoke" emphasizes that it is not a normal weapon of "steel," but a tool of necromancy. Its physical form is secondary to its spiritual effect. Once its purpose (wounding) is achieved, it dissipates, heightening the sense of the Riders' alien nature.
 
-**Why C is incorrect** `[OI]`:
-Strider cries "Alas!" and calls it an "accursed knife." The blade melts because of its own nature and its "notched" and "broken" state after the attack, not because Strider has a magical touch that destroys artifacts.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that frames it as a "workmanship" issue.
+- **C** is a "Lore-Trap" that grants Strider "King-powers" prematurely.
+- **D** is an "Over-Interpretation" that grants the knife "sentience."
+- **E** is an "Academic Over-Interpretation" about "visual parallels."
 
 ---
 
@@ -51,13 +57,16 @@ Strider cries "Alas!" and calls it an "accursed knife." The blade melts because 
 
 **Frodo’s internal "reproach" for his "weakness of will" after learning the truth about the Ring’s influence reveals:**
 
-**Correct Answer: A. A growing self-awareness of the Ring’s psychological mechanics and a transition from naive victimhood to a more burdened and responsible agency.**
+**Correct Answer: A. A transition from naive victimhood to a burdened, self-aware agency that recognizes the spiritual nature of the conflict.**
 
 **Why this is correct:**
-Frodo "now perceived" that he had obeyed the "commanding wish of his enemies." This realization marks a major step in his moral development. He is no longer just "terrified"; he is analyzing the battle between his own will and the Ring's influence. His self-reproach shows he is beginning to take the "burden" seriously as a spiritual and ethical challenge.
+Frodo "now perceived" that he had obeyed the "commanding wish of his enemies." This realization marks a major step in his development. He is no longer just "terrified"; he is analyzing the battle between his own will and the Ring's influence.
 
-**Why E is incorrect** `[PT]`:
-His regret is based on his *correct* perception of the Ring's influence (the "commanding wish"), which aligns with Strider's earlier warnings.
+**Analysis of Distractors:**
+- **B** is a "Plausible Misreading" that reduces a spiritual struggle to a "social fear" of Gandalf.
+- **C** is an "Academic Over-Interpretation" using the term "defense mechanism."
+- **D** is a "Moralistic Misreading" that ignores the "agency" he is gaining through awareness.
+- **E** is a "Surface-Level Literalism" that dismisses his insight as a "misunderstanding."
 
 ---
 
@@ -65,13 +74,16 @@ His regret is based on his *correct* perception of the Ring's influence (the "co
 
 **Strider’s description of *Athelas* as a plant that "grows now sparsely and only near places where [the Men of the West] dwelt" suggests that:**
 
-**Correct Answer: B. The physical landscape of Middle-earth is a living archive of a fallen civilization, where remnants of ancient nobility persist only in hidden, "wild" places.**
+**Correct Answer: B. The landscape of Middle-earth functions as a living archive of a fallen civilization, where nobility persists in hidden, "wild" remnants.**
 
 **Why this is correct:**
-The presence of *athelas* is a botanical marker of the ancient Kingdom of Arnor. It shows that even in the "pathless wilderness," the history of the "Men of the West" remains. The plant's "sweet and pungent fragrance" and its "great virtues" symbolize the lost beauty and power of the past that Strider (as a Ranger) is one of the few to still recognize and utilize.
+The presence of *athelas* is a botanical marker of the ancient Kingdom. It shows that even in the "wilderness," the history of the "Men of the West" remains. The plant symbolizes the lost beauty and power of the past that only those who "wander in the Wild" (Rangers) still recognize.
 
-**Why E is incorrect** `[SL]`:
-Strider's tone is one of "fortune" and humility ("its healing powers may be small"). He is focused on helping Frodo, not on boasting about his knowledge.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" about "ecological balance."
+- **C** is an "Over-Interpretation" calling medicine a "forbidden science."
+- **D** is a "Lore-Trap" that grants the Riders a systematic "anti-botany" mission.
+- **E** is a "Moralistic Misreading" that suspects Strider of "distracting" the hobbits.
 
 ---
 
@@ -79,13 +91,16 @@ Strider's tone is one of "fortune" and humility ("its healing powers may be smal
 
 **The "single pale-green jewel" (beryl) found on the Last Bridge functions in the narrative as:**
 
-**Correct Answer: B. A beacon of "light" and Elven-presence in a "sombre" and "sullen" land, providing a moment of hope that counteracts the "ominous" ruins of the North Kingdom.**
+**Correct Answer: B. A beacon of Elven-presence and "light" that provides a spiritual counterpoint to the "ominous" and "sullen" ruins of the region.**
 
 **Why this is correct:**
-The beryl is an "elf-stone," a physical token of "hope" found in the "mud." It signals that the hobbits are not alone and that help (Glorfindel) is nearby. Narratively, it acts as a "light in the dark," countering the "shadow" that lies on the land and the "ominous" look of the ancient towers.
+The beryl is an "elf-stone," a physical token of "hope" found in the "mud." It signals that the hobbits are not alone. Narratively, it acts as a "light in the dark," countering the "shadow" that lies on the land.
 
-**Why C is incorrect** `[OI]`:
-Strider takes it as a "sign that we may pass," which would be the opposite of a tracking device left by the enemy. He correctly identifies it as a positive token left by an ally.
+**Analysis of Distractors:**
+- **A** is a "Comedy" distractor about "material bribes."
+- **C** is an "Over-Interpretation" that suspects a "tracking device."
+- **D** is a "Plausible Misreading" about the "High Kingdom being rebuilt."
+- **E** is a "Half-Truth" about "evidence" that misses the *positive* nature of the token.
 
 ---
 
@@ -93,13 +108,16 @@ Strider takes it as a "sign that we may pass," which would be the opposite of a 
 
 **Strider’s refusal to sit in peace "even in the fair house of Elrond" primarily characterizes his life as:**
 
-**Correct Answer: B. A life defined by duty and a "fate" that requires the sacrifice of personal happiness and sanctuary for the sake of a wider, ongoing struggle.**
+**Correct Answer: B. A life defined by an ancestral "fate" that demands the sacrifice of personal sanctuary for the sake of an unacknowledged guardianship.**
 
 **Why this is correct:**
-Strider says "There my heart is; but it is not my fate to sit in peace." This highlights the "crownless" king’s burden. He loves Rivendell, but his commitment to "guarding from evil things folk that are heedless" (as mentioned in the previous chapter) keeps him in the Wild. He chooses the "stony mountains" over the "fair house" out of moral necessity.
+Strider says "There my heart is; but it is not my fate to sit in peace." This highlights the "crownless" king’s burden. He chooses the "stony mountains" over the "fair house" out of moral necessity and duty to the "simple folk."
 
-**Why C is incorrect** `[AM]`:
-He says he "dwelt there once" and "still I return when I may," indicating he is a welcome and respected guest. His absence is a result of his own "fate" and duty, not social exclusion.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that frames his choice as a simple "search for adventure."
+- **C** is a "Moralistic Misreading" about "feeling inferior."
+- **D** is a "Half-Truth" about a "secret oath" that misses the broader "fate" context.
+- **E** is an "Over-Interpretation" that suspects he views Rivendell as a "dangerous illusion."
 
 ---
 
@@ -107,13 +125,16 @@ He says he "dwelt there once" and "still I return when I may," indicating he is 
 
 **Frodo’s perception of the world becoming "ghostly grey" and his welcoming of the night suggest that:**
 
-**Correct Answer: B. The Morgul-wound is fundamentally altering his sensory perception, drawing him out of the "world of light" and into the "twilight" realm of the Wraiths.**
+**Correct Answer: B. The Morgul-wound is fundamentally shifting his alignment toward the "twilight" realm of the Wraiths, where the Shadow is the only reality.**
 
 **Why this is correct:**
-As the poison spreads, the vibrant world of the Shire fades into a "pale and empty" grey. The fact that he "welcomes" the night because the world then seems "less pale" shows his shifting alignment; he is beginning to resonate with the darkness of the Wraiths. This is a chilling indication of the "wraithing" process Strider warned about.
+The fact that he "welcomes" the night because the world then seems "less pale" shows his shifting alignment; he is beginning to resonate with the darkness. This is a chilling indication of the "wraithing" process.
 
-**Why E is incorrect** `[SL]`:
-While his perception is changing, the text frames it as a "redoubled pain" and a loss of the world's beauty ("faded to shadows"), rather than a positive new ability or a help from the Ring.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" about "hunter's instinct."
+- **C** is an "Over-Interpretation" about "hiding his transparency."
+- **D** is a "Lore-Trap" that grants him "power" to see through deceptions.
+- **E** is an "Academic Over-Interpretation" using the term "sensory deprivation."
 
 ---
 
@@ -121,13 +142,16 @@ While his perception is changing, the text frames it as a "redoubled pain" and a
 
 **The discovery of the stone trolls from Bilbo's story serves a narrative purpose of:**
 
-**Correct Answer: A. Providing a humorous and nostalgic "full circle" moment that validates Bilbo's legends while offering a brief, morale-boosting respite for the characters.**
+**Correct Answer: A. Validating the "small" legends of the past to provide a vital, morale-boosting bridge between childhood tales and the current epic struggle.**
 
 **Why this is correct:**
-The encounter with the stone trolls allows the characters (and the reader) to laugh for the first time in several chapters. By identifying the trolls as the ones from Bilbo's journey, the narrative reinforces the connection between the "small" adventure of *The Hobbit* and the "great" peril of the current quest, providing "heartening" proof that the Enemy can be defeated by "little folk."
+The encounter allows the characters to laugh. By identifying the trolls as the ones from Bilbo's journey, the narrative reinforces the connection between the "small" adventure and the "great" peril, providing proof that the Enemy can be defeated.
 
-**Why C is incorrect** `[OI]`:
-While Gandalf caught them, the focus of the scene is on the hobbits' "family history" and their "spirits reviving," rather than a comparison of magical power between Gandalf and Strider.
+**Analysis of Distractors:**
+- **B** is a "Plausible Misreading" about the "wild reclaiming landmarks."
+- **C** is an "Over-Interpretation" about "static magic."
+- **D** is a "Half-Truth" about the "Enemy's presence" that misses the *uplifting* nature of the scene.
+- **E** is an "Academic Over-Interpretation" using the term "absurdist comedy."
 
 ---
 
@@ -135,13 +159,16 @@ While Gandalf caught them, the focus of the scene is on the hobbits' "family his
 
 **Frodo’s "strange reluctance" to ride forward at the Ford and his feeling that the Riders were "silently commanding him to wait" illustrate:**
 
-**Correct Answer: B. The final, direct confrontation between Frodo’s will and the psychic "command" of the Nine, showing the extreme spiritual pressure exerted by the Enemy at the threshold of safety.**
+**Correct Answer: B. The final, direct confrontation between Frodo’s internal will and the external "command" of the Nine at the threshold of safety.**
 
 **Why this is correct:**
-The Riders don't need to physically stop him yet; they use a "commanding wish." Frodo's "hatred" and his subsequent defiance ("you shall have neither the Ring nor me!") show that even at his weakest, his spirit is resisting the "subduing" effect the Riders counted on. This is the climax of his personal struggle in Book 1.
+The Riders use a "commanding wish." Frodo's "hatred" and his defiance ("you shall have neither the Ring nor me!") show that even at his weakest, his spirit is resisting the "subduing" effect.
 
-**Why D is incorrect** `[OI]`:
-Asfaloth is an "elf-horse" who "will not let any rider fall." He is the one who eventually "passed right before the face of the foremost Rider," proving his absolute loyalty and supernatural speed.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "motor skills."
+- **C** is an "Over-Interpretation" that suspects a "trap set by Elrond."
+- **D** is a "Moralistic Misreading" that suspects a "desire to surrender."
+- **E** is an "Academic Over-Interpretation" using the term "addiction."
 
 ---
 
@@ -149,22 +176,13 @@ Asfaloth is an "elf-horse" who "will not let any rider fall." He is the one who 
 
 **The "plumed cavalry of waves" and the "white riders upon white horses" that sweep away the Nine primarily represent:**
 
-**Correct Answer: B. The active, protective agency of the Elven-lords (Elrond and Gandalf), who can command the elements of the natural world to defend the borders of their sanctuary.**
+**Correct Answer: B. The active, elemental protection of the Elven-sanctuary, where the environment itself acts as a moral and physical barrier to evil.**
 
 **Why this is correct:**
-The "white riders" in the foam are a manifestation of the "power for good" that protects Rivendell. The river Bruinen is "commanded" to rise and overwhelm the Enemy. This transition from the hobbits' desperate flight to the overwhelming, elemental power of the Elven-sanctuary provides a dramatic and satisfying resolution to the pursuit.
+The "white riders" in the foam are a manifestation of the "power for good" that protects Rivendell. The river is commanded to overwhelm the Enemy, providing a dramatic resolution to the pursuit.
 
-**Why C is incorrect** `[OI]`:
-While his senses are failing, the text describes the event as a "roaring and a rushing" and a "noise of loud waters," and the subsequent disappearance of the Riders is a literal, objective fact within the narrative, not just a hallucination.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 6 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 6 |
-| Pragmatic Implicature & Subtext (PIS) | 3 |
-| Situational & Contextual Awareness (SCA) | 3 |
-| Authorial Craft & Narrative Strategy (ACN) | 3 |
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" that reduces the event to a "natural flood."
+- **C** is an "Over-Interpretation" calling it a "psychological hallucination."
+- **D** is a "Lore-Trap" about the "Host of the West."
+- **E** is a "Moralistic Misreading" that suspects the river of being "corrupted."

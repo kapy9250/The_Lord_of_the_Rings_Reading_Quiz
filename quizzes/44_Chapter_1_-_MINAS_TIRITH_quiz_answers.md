@@ -21,150 +21,168 @@
 
 ### Question 1 `[CIM/ANT]` `[Advanced]`
 
-**Pippin’s impression of the ride—"wrapped so long since the great ride began" and "memory was drowsy and uncertain"—characterizes his state as:**
+**Pippin’s impression of the ride characterizes his state as:**
 
-**Correct Answer: B. A state of sensory and temporal dislocation caused by the supernatural speed of Shadowfax and the psychological weight of the quest, where the normal boundaries of time and space have been dissolved into a continuous, "dream-like" flight.**
+**Correct Answer: B. A state of ontological dislocation, where the supernatural speed of Shadowfax dissolves the boundaries between his Shire-past and the mythic reality of the present.**
 
 **Why this is correct:**
-Pippin wonders if he is "awake or still sleeping." He is "wrapped" in a "swift-moving dream." The narrative describes the "wheeling stars" and "vast shadows." This experience of "riding, riding in the night" reflects the mythic nature of the journey—it is not a normal trip, but a high-speed transition between the "un-Great" world of the Shire and the "High" world of Gondor, leaving Pippin in a state of ontological uncertainty.
+Pippin is "wrapped" in a "swift-moving dream." The description of "riding, riding in the night" reflects the mythic nature of the transition between the "simple" world and the "high" world of Gondor. It is an experience of being "thinned" by speed and destiny, leading to a state of sensory uncertainty.
 
-**Why E is incorrect** `[PT]`:
-While the "hideous memory" of the Stone wakes him fully, the *preceding* drowsiness and uncertainty are described as a direct result of the "great ride" and the "terrible speed," rather than a permanent mental illness.
+**Analysis of Distractors:**
+- **A** is a "Lore-Trap" about the "Palantír."
+- **C** is a "Moralistic Misreading" that suspects "tactical sleeping."
+- **D** is an "Over-Interpretation" about "magical illusions."
+- **E** is a "Surface-Level Literalism" about "physical infections."
 
 ---
 
 ### Question 2 `[PIS/SCA]` `[Advanced]`
 
-**Gandalf’s remark that "valour... cannot be computed by stature" and his voucher for Pippin before the Men of Gondor serves to:**
+**Gandalf’s remark regarding "valour" serves to:**
 
-**Correct Answer: B. Assert a core thematic truth of the narrative—that moral strength and heroic endurance are independent of physical power, while simultaneously elevating Pippin’s status to ensure his entry into the City.**
+**Correct Answer: B. Assert a core thematic truth regarding the decoupling of moral fortitude from physical power, while providing Pippin with the "High" status necessary for entry into the City.**
 
 **Why this is correct:**
-Gandalf is defending Pippin against Ingold's skepticism. He points out that Pippin has "passed through more battles and perils" than the tall guards. This reinforces the theme that the "small" are the actual heroes of the age. By calling him a "very valiant man," Gandalf provides Pippin with the "High" credibility needed to navigate the rigid social hierarchies of Minas Tirith.
+Gandalf defends Pippin against the guard's skepticism based on height. This reinforces the theme that the "small" are the actual heroes. By calling him "very valiant," Gandalf provides Pippin with the credibility needed to navigate the social hierarchies of Minas Tirith.
 
-**Why C is incorrect** `[OI]`:
-Gandalf’s voucher is based on Pippin’s *actual* experiences (Moria, the Orc-march, Isengard), and his assessment of Pippin's "valour" is proven correct throughout the chapter as Pippin asserts his own dignity before Denethor.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that suspects a "desire to insult."
+- **C** is an "Academic Over-Interpretation" about "Men being weaker."
+- **D** is a "Lore-Trap" about "stature-based magic."
+- **E** is a "Plausible Misreading" about "hiding his mission."
 
 ---
 
 ### Question 3 `[ACN/ANT]` `[Advanced]`
 
-**The description of Minas Tirith’s walls changing from "looming grey to white, blushing faintly in the dawn" until the Tower of Ecthelion shines like a "spike of pearl and silver" symbolizes:**
+**The description of the Tower of Ecthelion symbolizes:**
 
-**Correct Answer: B. The ephemeral, near-miraculous beauty of the "White City" at its most luminous, acting as a visual and spiritual counter-point to the "black darkness" of the eastern shadow.**
+**Correct Answer: B. The ephemeral, near-miraculous beauty of the Elven-legacy in Gondor, acting as a visual counter-point to the "black darkness" of the eastern shadow.**
 
 **Why this is correct:**
-The "blushing" walls and the "glittering" pinnacle create an image of high Elven-like beauty. This "dawn" vision of the city is presented as a "pearl" in a dark world. It symbolizes the remaining "light" of the West that Denethor and Gandalf are fighting to protect. The intense luminosity emphasizes the city's status as a beacon of hope against the "growing and gathering" gloom of Mordor.
+The "spike of pearl and silver" creates an image of High beauty. This "dawn" vision is presented as a "pearl" in a dark world. It symbolizes the remaining "light" of the West. The luminosity emphasizes the city's status as a beacon against the "gloom."
 
-**Why D is incorrect** `[SL]`:
-The text uses similes like "spike of pearl" and "glittered *as if* it were wrought of crystals" to describe the *effect* of the light on the stone, rather than a literal material composition of gemstones.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "material wealth."
+- **C** is a "Lore-Trap" about "shield-spells."
+- **D** is an "Academic Over-Interpretation" about the "Sun becoming whiter."
+- **E** is a "Comedy" distractor about "camouflage."
 
 ---
 
 ### Question 4 `[CIM/SCA]` `[Advanced]`
 
-**The "dead tree" in the Court of the Fountain, which "dripped sadly from its barren and broken branches," functions as a visual metaphor for:**
+**The "dead tree" functions as a visual metaphor for:**
 
-**Correct Answer: B. The spiritual and biological stagnation of the kingdom, which preserves the memory of its ancient, "High" lineage but is currently unable to manifest its original life and renewal in the face of the Shadow.**
+**Correct Answer: B. The spiritual and political stagnation of the kingdom, which preserves the memory of its lineage but is currently unable to manifest renewal.**
 
 **Why this is correct:**
-Pippin links the tree to the "Rhyme of Lore" about the "one white tree." The tree's "barren and broken" state reflects the state of Gondor itself—a kingdom waiting for its "King" to return so that the "Tree" may bloom again. It symbolizes the "Springless Autumn" Faramir mentioned, where the kingdom's history is preserved but its future is currently "dead" and "drooping."
+The tree's "barren and broken" state reflects Gondor itself—a kingdom waiting for its "King" so that the "Tree" may bloom again. It symbolizes the "Springless Autumn" where history is preserved but the future is currently "dead."
 
-**Why E is incorrect** `[SL]`:
-While it is in the High Court, its "mournful" and "sad" appearance is emphasized, characterizing it as a symbolic and thematic centerpiece rather than a mere navigational aid.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "soil quality."
+- **C** is a "Lore-Trap" about "Saruman’s agents."
+- **D** is an "Over-Interpretation" about "Tree-herds."
+- **E** is a "Moralistic Misreading" about "futility of hope."
 
 ---
 
 ### Question 5 `[CIM/PIS]` `[Advanced]`
 
-**Gandalf’s warning to Pippin regarding Denethor ("proud and subtle... he will think it easier to learn what he wishes from you") identifies Denethor’s primary weapon as:**
+**Gandalf’s warning regarding Denethor identifies his primary weapon as:**
 
-**Correct Answer: B. A sophisticated, manipulative insight that uses the guise of paternal grief to bypass intellectual defenses and extract information, characterizing him as a mental and strategic peer to Gandalf.**
+**Correct Answer: B. A sophisticated psychological insight that uses the cover of personal grief to bypass the intellectual defenses of his subordinates.**
 
 **Why this is correct:**
-Gandalf warns that Denethor will use "love" (for Boromir) as a "cover" to learn what he wishes. This identifies Denethor as a master of psychological and rhetorical strategy. He is "not as other men" and has "long sight." The battle between Gandalf and Denethor is established as one of competing "lore" and "will," where the "subtle" Lord of the City is a formidable and potentially dangerous ally.
+Gandalf warns Denethor will use "love" as a "cover." This identifies Denethor as a master of psychological strategy. He is a mental peer to Gandalf. The battle is established as one of competing "lore" and "will."
 
-**Why A is incorrect** `[OI]`:
-Denethor is described as "proud and subtle" and having "shrewd questions." His method is one of intellectual and spiritual "racking" rather than physical torture.
+**Analysis of Distractors:**
+- **A** is a "Lore-Trap" about "Black Breath."
+- **C** is an "Over-Interpretation" about "literal telepathy."
+- **D** is a "Lore-Trap" about "Saruman’s puppet."
+- **E** is a "Plausible Misreading" about "losing his mind."
 
 ---
 
 ### Question 6 `[CIM/ANT]` `[Advanced]`
 
-**Pippin’s decision to offer his sword to Denethor, being "stung by the scorn and suspicion in that cold voice," is motivated by:**
+**Pippin’s decision to offer his sword is motivated by:**
 
-**Correct Answer: B. A spontaneous, heroic assertion of dignity and "Shire-honour," where the hobbit uses a formal act of fealty to demand respect and to repay a profound personal debt to Boromir’s memory.**
+**Correct Answer: B. A spontaneous, heroic assertion of "Shire-honour," where the hobbit uses a formal act of fealty to demand respect and repay his debt to Boromir’s memory.**
 
 **Why this is correct:**
-Pippin feels "pride stirred strangely within him." He is offended by Denethor’s dismissal of "Halflings." His offer of service is a way to prove his "valour" and to honor the "brave" Boromir who died for him. It is a moment where the "small" hobbit takes a "High" moral and political step, effectively forcing the Lord of Gondor to acknowledge his individual worth.
+Pippin feels "pride stirring." He is offended by Denethor’s dismissal of "Halflings." His offer is a way to prove his "valour" and honor Boromir. It is a moment where the "small" takes a "High" moral step.
 
-**Why D is incorrect** `[OI]`:
-Pippin's pride is described as "stirring strangely," suggesting it is a new and noble growth of character (heroic pride) rather than a negative mirroring of Denethor's "scornful" and isolated pride.
+**Analysis of Distractors:**
+- **A** is a "Comedy" distractor about "royal kitchens."
+- **C** is an "Over-Interpretation" about "Boromir returned from the dead."
+- **D** is a "Plausible Misreading" about "tactical plans to steal the staff."
+- **E** is an "Academic Over-Interpretation" using the term "brainwashed."
 
 ---
 
 ### Question 7 `[PIS/SCA]` `[Advanced]`
 
-**Denethor’s reaction to Pippin’s oath—saying he will reward fealty with "love" but oath-breaking with "vengeance" —reveals a kingship style that is:**
+**Denethor’s reaction to the oath reveals:**
 
-**Correct Answer: B. An archaic, high-contractual, and absolute authority that values the "personal" bond between lord and vassal as the primary source of political and moral order.**
+**Correct Answer: B. An archaic, high-contractual authority that values the personal bond between lord and vassal as the primary source of moral order.**
 
 **Why this is correct:**
-Denethor's language is ritualistic and severe ("until my lord release me, or death take me"). The mention of "vengeance" highlights the absolute nature of the commitment. This characterizes Gondor's government as one based on ancient, "kingly" principles of personal loyalty and blood-debt, standing in contrast to the more informal or "simple" governance of the Shire.
+Denethor's language is ritualistic. The mention of "vengeance" highlights the absolute nature of the commitment. This characterizes Gondor's government as one based on ancient, "kingly" principles of personal loyalty.
 
-**Why C is incorrect** `[PT]`:
-While his words are "stern," the text notes his "pale smile" and his acceptance of Pippin's "courteous speech." His talk of "vengeance" is a standard part of the "High" martial ethic he represents, rather than a sign of personal cruelty.
+**Analysis of Distractors:**
+- **A** is an "Academic Over-Interpretation" about "merit-based systems."
+- **C** is a "Moralistic Misreading" about "interest in vengeance vs love."
+- **D** is an "Over-Interpretation" about "arbitrary whims."
+- **E** is a "Plausible Misreading" about "attempting to sound like a King."
 
 ---
 
 ### Question 8 `[CIM/PIS]` `[Advanced]`
 
-**Gandalf’s self-identification as a "steward" ("For I also am a steward. Did you not know?") redefines his mission as:**
+**Gandalf’s self-identification as a "steward" redefines his mission as:**
 
-**Correct Answer: B. A cosmic and moral guardianship that is focused on the preservation of "all worthy things" across all realms, prioritizing the continuity of life and light over the specific political survival of any one nation.**
+**Correct Answer: B. A cosmic and moral guardianship focused on the preservation of "all worthy things" across all realms, prioritizing the continuity of light over any one nation.**
 
 **Why this is correct:**
-Gandalf tells Denethor that "the rule of no realm is mine." His stewardship is universal: he cares for "all worthy things that are in peril." This sets him in philosophical contrast to Denethor, for whom "the good of Gondor" is the "highest" purpose. Gandalf is the steward of the *creation* itself, whereas Denethor is only the steward of a *city*.
+Gandalf tells Denethor "the rule of no realm is mine." His stewardship is universal. This sets him in contrast to Denethor, for whom "the good of Gondor" is the "highest" purpose. Gandalf is the steward of *creation*.
 
-**Why A is incorrect** `[OI]`:
-Gandalf explicitly states "the rule of no realm is mine," rejecting any desire for political mastery or taking over Denethor's position.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" about "deposing Denethor."
+- **C** is a "Surface-Level Literalism" about "losing status."
+- **D** is a "Plausible Misreading" about "undermining authority."
+- **E** is an "Academic Over-Interpretation" about "stewardship vs kingship."
 
 ---
 
 ### Question 9 `[PIS/SCA]` `[Advanced]`
 
-**The "Captain of the Outlands" parade, where the men are "always too few, always less than hope looked for," serves to:**
+**The "Captain of the Outlands" parade serves to:**
 
-**Correct Answer: B. Visually and numerically manifest the "declining" reality of the kingdom, where the arrival of allies provides a brief, emotional lift but ultimately confirms the strategic hopelessness of the defense.**
+**Correct Answer: B. Visually and numerically manifest the "failing" reality of the kingdom, where the arrival of allies confirms the strategic hopelessness of the defense.**
 
 **Why this is correct:**
-The parade is a catalog of Gondor’s waning strength. Each company is smaller than "hope looked for" (e.g., 200 instead of 2,000). The "muttered" reactions of the crowd ("So few!", "only a tithe") show that the people recognize the insufficiency of the reinforcements. This creates a tone of "valiant but doomed" resistance, reinforcing the theme of the "Long Defeat."
+The parade is a catalog of Gondor’s waning strength. Each company is smaller than "hope looked for." This creates a tone of "valiant but doomed" resistance, reinforcing the theme of the "Long Defeat."
 
-**Why E is incorrect** `[AM]`:
-The onlookers stand "silent for a while" and the atmosphere is one of "dust" and "heavy" evening. The parade is a source of anxiety and "sad necessity" rather than a true celebration.
+**Analysis of Distractors:**
+- **A** is an "Academic Over-Interpretation" about "biological diversity."
+- **C** is a "Plausible Misreading" about "provincial rebellion."
+- **D** is a "Comedy" distractor about "exploring lower levels."
+- **E** is a "Half-Truth" about "blocked roads."
 
 ---
 
 ### Question 10 `[ACN/ANT]` `[Advanced]`
 
-**Gandalf’s final words in the chapter—"The Darkness has begun. There will be no dawn"—marks a narrative shift from:**
+**Gandalf’s final words marks a narrative shift to:**
 
-**Correct Answer: B. A state of "preparing" for war to the total, supernatural onset of the final conflict, where the normal biological and cosmic cycles of the world are suspended by the Enemy's direct will.**
+**Correct Answer: B. The total, supernatural onset of the final conflict, where the normal biological and cosmic cycles are suspended by the Enemy's will.**
 
 **Why this is correct:**
-Gandalf's statement is not metaphorical; it is a literal report of the "Darkness" (the smoke of Mordor) that is swallowing the sun. This marks the beginning of the "War of the Ring" in its most absolute sense. The "dawnless" state signifies that the world has entered a "shadow" where normal hope (the rising sun) is gone, and only internal resolve can sustain the defenders.
+Gandalf's statement is a report of the "Darkness" swallowing the sun. This marks the beginning of the War in its absolute sense. Normal hope (the rising sun) is gone, and only internal resolve remains.
 
-**Why E is incorrect** `[SL]`:
-The tone is one of absolute gravity and impending "storm." Gandalf is "pacing to and fro" and "sigh[ing]," and his announcement of the "Darkness" is intended to be a terrifying and decisive moment.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 6 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 5 |
-| Pragmatic Implicature & Subtext (PIS) | 4 |
-| Situational & Contextual Awareness (SCA) | 4 |
-| Authorial Craft & Narrative Strategy (ACN) | 2 |
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "ash-clouds."
+- **C** is a "Moralistic Misreading" that suspects "paranoia."
+- **D** is an "Academic Over-Interpretation" about "the dawn as a sentient being."
+- **E** is a "Comedy" distractor about "mocking fear."

@@ -21,150 +21,168 @@
 
 ### Question 1 `[SCA/ANT]` `[Advanced]`
 
-**The new houses at the Brandywine Bridge—described as "two-storeyed with narrow straight-sided windows... gloomy and un-Shirelike"—symbolize:**
+**The "new houses" at the Brandywine Bridge symbolize:**
 
-**Correct Answer: B. The architectural and psychological "Mordorization" of the Shire, where the organic and hospitable traditions of hobbit-holes are replaced by a sterile, utilitarian, and authoritarian aesthetic.**
+**Correct Answer: B. The architectural and psychological "Mordorization" of the Shire, where organic domesticity is replaced by a sterile, utilitarian, and authoritarian aesthetic of control.**
 
 **Why this is correct:**
-The new buildings are described as "bare and dimly lit" and "ugly." They stand in stark contrast to the comfortable, round-windowed hobbit-holes that define the Shire's character. This architectural shift mirrors the political shift: the Shire is no longer a place of "peace and content" but has been colonized by Saruman’s "mind of metal and wheels," turning its domestic spaces into "gloomy" guard-houses.
+The new buildings are described as "gloomy" and "un-Shirelike," standing in stark contrast to the comfortable, round-windowed hobbit-holes. This architectural shift mirrors the political shift: the Shire is no longer a place of "peace and content" but has been colonized by Saruman’s "mind of metal and wheels," turning its domestic spaces into sterile guard-houses that prioritize surveillance over hospitality.
 
-**Why E is incorrect** `[OI]`:
-While Bree has tall houses, the text emphasizes the "un-Shirelike" and "mean" quality of these new buildings, characterizing them as a specific, invasive corruption rather than a natural cultural borrowing.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" that mistakes "modernization" for "progress."
+- **C** is a "Plausible Misreading" about "losing lore."
+- **D** is a "Surface-Level Literalism" about "population growth."
+- **E** is a "Comedy" distractor about "wizardly help."
 
 ---
 
 ### Question 2 `[CIM/ANT]` `[Advanced]`
 
-**Sam’s reaction to the "Notice" on the gate—threatening to "tear down your notice when I find it"—reveals a character that is now:**
+**Sam’s reaction to the "Notice" on the gate reveals a character that is now:**
 
-**Correct Answer: B. Fully liberated from the "un-important" social constraints of his former life, possessing a hardened and decisive self-confidence that refuses to accept the "small" bullying of a corrupted local authority.**
+**Correct Answer: B. Fully liberated from the parochial social constraints of his former life, possessing a hardened self-confidence that refuses to recognize the legitimacy of a corrupted local authority.**
 
 **Why this is correct:**
-In Book 1, Sam was a respectful, even subservient, gardener. After facing Shelob and the Crack of Doom, the "Rules" of the Chief seem ridiculous to him. He uses "light words" but with a "masterful" tone. His refusal to be kept out in the wet is an assertion of his new, "High" identity as a hero who recognizes that the Chief's authority is a sham.
+In Book 1, Sam was a respectful, even subservient, gardener. After facing Shelob and the Crack of Doom, the "Rules" of the Chief seem ridiculous to him. He uses "light words" but with a "masterful" tone. His refusal to be kept out in the wet is an assertion of his new, "High" identity as a hero who recognizes that the Chief's authority is a sham based on "bullying" rather than "law."
 
-**Why E is incorrect** `[AM]`:
-Sam’s anger is a "High" moral indignation at the violation of his homeland's traditions, rather than a slide into the "foul" or "robber-like" nature of the ruffians. He is fighting *for* the Shire's former kindness.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that labels moral indignation as "ruffianly violence."
+- **C** is a "Surface-Level Literalism" about "lack of sleep."
+- **D** is an "Over-Interpretation" about "bullying Sherrifs."
+- **E** is a "Lore-Trap" about the "Gaffer’s teachings."
 
 ---
 
 ### Question 3 `[PIS/SCA]` `[Advanced]`
 
-**The description of the "gatherers" and "sharers" who do "more gathering than sharing" characterizes Lotho’s regime as:**
+**The description of the "gatherers" and "sharers" characterizes Lotho’s regime as:**
 
-**Correct Answer: B. A parasitic and extractive bureaucracy that uses the rhetoric of communal "sharing" to mask a system of state-sponsored theft and the centralization of resources for the benefit of the "Chief" and his Men.**
+**Correct Answer: B. A parasitic and extractive bureaucracy that uses the rhetoric of communal "sharing" to mask a system of state-sponsored theft for the benefit of an external Power.**
 
 **Why this is correct:**
-Farmer Cotton explains that they "don't rightly know what becomes of it." The "gathering" is for "storage" that the hobbits "never see." This is a classic critique of a corrupt, centralized economy. Lotho uses the language of "fair distribution" to justify robbing his neighbors, effectively turning the Shire into a plantation for his own (and Saruman's) profit.
+Farmer Cotton explains that the "gathering" is for "storage" that the hobbits "never see." This is a classic critique of a corrupt, centralized economy. Lotho uses the language of "fair distribution" to justify robbing his neighbors, effectively turning the Shire into a plantation for Saruman's profit. The "sharers" who do no sharing represent the hollowed-out language of the new regime.
 
-**Why D is incorrect** `[OI]`:
-The text notes that there was a "fine summer and harvest," proving there was no natural need for such extreme "storage." The scarcity is artificial, created by the regime's extractive policies.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that accepts the "well-intentioned" rhetoric at face value.
+- **C** is an "Academic Over-Interpretation" using the term "sophisticated economy."
+- **D** is a "Lore-Trap" about "predicting a Great Winter."
+- **E** is a "Comedy" distractor about "sharing snacks."
 
 ---
 
 ### Question 4 `[CIM/PIS]` `[Advanced]`
 
-**Frodo’s insistence that "no hobbit has ever killed another on purpose... and it is not to begin now" establishes his leadership as:**
+**Frodo’s insistence that "no hobbit has ever killed another on purpose" establishes his leadership as:**
 
-**Correct Answer: B. A "Higher" moral guardianship that seeks to preserve the fundamental, ethical sanctity of the Shire’s communal identity even while fighting to liberate it, refusing to use the Enemy’s methods of fratricide.**
+**Correct Answer: B. A "Higher" moral guardianship that seeks to preserve the fundamental, un-Shadowed sanctity of the Shire’s communal identity even while fighting for its liberation.**
 
 **Why this is correct:**
-Frodo recognizes that the true victory is not just removing the ruffians, but ensuring the Shire's soul remains "un-Shadowed." By forbidding the slaying of hobbits who have "gone over," he prevents the war from turning into a permanent, internal blood-feud. He acts as the "spiritual conscience" of the rebellion, maintaining the Shire’s highest tradition of peace even in the midst of battle.
+Frodo recognizes that the true victory is not just removing the ruffians, but ensuring the Shire's soul remains "un-Shadowed." By forbidding the slaying of hobbits who have "gone over," he prevents the war from turning into a permanent internal blood-feud. He acts as the "spiritual conscience" of the rebellion, maintaining the Shire’s highest tradition of peace even in the midst of conflict.
 
-**Why A is incorrect** `[AM]`:
-Frodo is not refusing to fight; he allows Merry to make the "arrangements" and raise the Shire. He is setting *moral limits* on that fight to ensure its long-term success as a restoration rather than just a revenge.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that labels moral restraint as "weakness."
+- **C** is an "Over-Interpretation" about "mind-control."
+- **D** is a "Surface-Level Literalism" about "legal consequences."
+- **E** is an "Academic Over-Interpretation" about "magical blood."
 
 ---
 
 ### Question 5 `[CIM/ANT]` `[Advanced]`
 
-**Merry’s decision to blow the "horn of Rohan" and the "Horn-cry of Buckland" serves narratively to:**
+**Merry’s decision to blow the "horn of Rohan" serves narratively to:**
 
-**Correct Answer: B. Synchronize the "Low" local tradition of the Shire with the "High" martial culture of Rohan, using the mythic authority of the Horn to shatter the hobbits' domestic paralysis and spark a collective, elemental uprising.**
+**Correct Answer: B. Synchronize the "Low" local tradition of the Shire with the "High" martial energy of the South, using mythic authority to shatter the hobbits' domestic paralysis and spark an elemental uprising.**
 
 **Why this is correct:**
-The horn-call is described as "compelling" and "shaking the air." It is a sound "they have never heard before." By using the gift of Éowyn, Merry brings the "High" world's heroic energy into the "Low" world of the Shire. This acts as a catalyst, waking the "sturdy hobbitry" from their habit of "getting under cover" and turning them into an army of "hunters."
+The horn-call is a sound "they have never heard before." By using the gift of Éowyn, Merry brings the "High" world's heroic energy into the "Low" world of the Shire. This acts as a catalyst, waking the "sturdy hobbitry" from their habit of "getting under cover" and turning them into an army of "hunters" who recognize their own strength.
 
-**Why D is incorrect** `[OI]`:
-The text specifies that it is the *Shire-folk themselves* who answer the call ("dogs barked; feet came running," "Bywater is up!"). The horn is used to raise the *local* population, not to summon external reinforcements.
+**Analysis of Distractors:**
+- **A** is an "Academic Over-Interpretation" using the term "Adventure phase."
+- **C** is a "Moralistic Misreading" about "better performers."
+- **D** is a "Lore-Trap" about "Great Eagles."
+- **E** is a "Plausible Misreading" about "Bucklanders as un-Shirelike."
 
 ---
 
 ### Question 6 `[CIM/ANT]` `[Advanced]`
 
-**Rosie Cotton’s response to Sam—"you haven't hurried, have you?" and then "I think you look fine, Sam"—characterizes her relationship with him as:**
+**Rosie Cotton’s response to Sam characterizes her relationship with him as:**
 
-**Correct Answer: B. A mixture of traditional Shire "teasing" and a deep, intuitive recognition of his new, heroic stature, using domestic irony to ground their reunion while affirming her pride in his transformation.**
+**Correct Answer: B. A mixture of traditional Shire "teasing," used to ground their reunion in the domestic familiar while simultaneously acknowledging and validating his new, heroic stature ("you look fine").**
 
 **Why this is correct:**
-Rosie’s first words are a "jest"—accusing him of not hurrying when he has been saving the world. This is typical Shire-humor. But her subsequent comment ("you look fine, Sam") and her "shining eyes" show she recognizes the "High" change in him (his armor and his "masterful" presence). She accepts him back into her "domestic" world while acknowledging his "Great" deeds.
+Rosie’s first words are a "jest"—accusing him of not hurrying when he has been saving the world. This is typical Shire-humor. But her subsequent comment ("you look fine, Sam") and her "shining eyes" show she recognizes the "High" change in him. She accepts him back into her "domestic" world while acknowledging his "Great" deeds through affectionate irony.
 
-**Why E is incorrect** `[OI]`:
-While she mentions Frodo, her focus is on her "expecting [Sam] since the spring," and her final encouragement is specifically for Sam to "take care of yourself," showing her primary emotional bond is with him.
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that suspects "resentment."
+- **C** is a "Surface-Level Literalism" about "gilded mail."
+- **D** is an "Over-Interpretation" about "guilt-tripping."
+- **E** is a "Plausible Misreading" about "memory loss."
 
 ---
 
 ### Question 7 `[PIS/SCA]` `[Advanced]`
 
-**The replacement of the Hobbiton mill with a "bigger one... full o' wheels and outlandish contraptions" that pours out "filth a purpose" represents:**
+**The replacement of the Hobbiton mill represents:**
 
-**Correct Answer: B. The "wanton" and non-productive nature of Saruman’s technological evil, where the goal is not "gristing corn" but the deliberate destruction of the natural environment and the industrial enslavement of the local population.**
+**Correct Answer: B. The "wanton" and non-productive nature of Saruman’s technological evil, where the goal is not "gristing corn" but the deliberate destruction of natural beauty and the enslavement of the spirit.**
 
 **Why this is correct:**
-Farmer Cotton notes that "they don't grind no more corn at all." The new mill is purely destructive—it produces only "smoke and a stench" and "filth." This is the ultimate "High" critique of Saruman's "industry": it is not a tool for prosperity, but a weapon of environmental and social degradation, intended to turn the "fat little country" into a "desert."
+Farmer Cotton notes that "they don't grind no more corn at all." The new mill is purely destructive—it produces only "smoke and a stench" and "filth." This is the ultimate "High" critique of Saruman's "industry": it is not a tool for prosperity, but a weapon of environmental and social degradation, intended to turn the "fat little country" into a "desert" of obedience.
 
-**Why E is incorrect** `[OI]`:
-Cotton points out that "there was no more for the new mill to do than for the old," proving the expansion was not based on any rational need but on Saruman's desire for "power and wheels."
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "industrial revolution."
+- **C** is a "Moralistic Misreading" about "better engineers."
+- **D** is a "Comedy" distractor about "clean water."
+- **E** is an "Academic Over-Interpretation" about "Orcish religion."
 
 ---
 
 ### Question 8 `[CIM/PIS]` `[Advanced]`
 
-**Frodo’s pity for Saruman and his refusal to let him be slain ("It is useless to meet revenge with revenge: it will heal nothing") reveals:**
+**Frodo’s pity for Saruman reveals:**
 
-**Correct Answer: B. The total "transcendence" of the Ring-bearer, who has moved beyond the logic of vengeance and power, recognizing that the true healing of the Shire requires a radical act of mercy that the wizard himself cannot comprehend.**
+**Correct Answer: B. The total moral "transcendence" of the Ring-bearer, who has moved beyond the logic of power and vengeance, recognizing that the true healing of the Shire requires a radical act of un-merited mercy.**
 
 **Why this is correct:**
 Saruman has ruined Frodo's home and tried to kill him. Yet, Frodo says "I would still spare him." This is the final proof of Frodo's "High" moral victory. He refuses to let Saruman’s "bitterness" infect his own heart. His mercy is "cruel" to Saruman because the wizard cannot stand to be "in debt" to someone he considers an "urchin."
 
-**Why A is incorrect** `[PT]`:
-Frodo explicitly acknowledges Saruman's remaining power ("his voice that can still daunt you"). He isn't underestimating the danger; he is making a *moral choice* to reject the cycle of violence, even when the risk is known.
+**Analysis of Distractors:**
+- **A** is a "Plausible Misreading" about "underestimating the Wizard."
+- **C** is an "Over-Interpretation" about being a "secret disciple."
+- **D** is a "Half-Truth" about "tactical plans" that misses the *moral* depth.
+- **E** is a "Moralistic Misreading" about "losing the sense of justice."
 
 ---
 
 ### Question 9 `[ACN/ANT]` `[Advanced]`
 
-**The "pale shrouded figure" that rises from Saruman’s body and is "bent away" by a cold wind from the West signifies:**
+**The "pale shrouded figure" that rises from Saruman’s body signifies:**
 
-**Correct Answer: B. The final, spiritual "rejection" of the fallen wizard by the Higher Powers (the Valar), where his soul is denied entry into the West and is literally blown away into the "nothingness" he chose.**
+**Correct Answer: B. The final, spiritual "rejection" of the fallen wizard by the Higher Powers (the Valar), where his soul is denied entry into the West and is literally blown away into the "nothingness" of his own choices.**
 
 **Why this is correct:**
-This scene mirrors the end of Sauron. The figure "looks to the West," seeking its former home. But the "cold wind" from the West (the Valar) rejects it. Saruman, like Sauron, is now a "pale shadow" who has lost his physical form and his place in the moral order of the world. He "dissolves into nothing," marking the absolute end of his "Cunning Mind."
+This scene mirrors the end of Sauron. The figure "looks to the West," seeking its former home. But the "cold wind" from the West (the Valar) rejects it. Saruman, like Sauron, is now a "pale shadow" who has lost his place in the moral order of the world. He "dissolves into nothing," marking the absolute end of his "Cunning Mind."
 
-**Why E is incorrect** `[AM]`:
-The tone is one of "horror," "pity," and "dismay," focusing on the spiritual finality of the wizard's fall rather than any humorous intent.
+**Analysis of Distractors:**
+- **A** is a "Surface-Level Literalism" about "literal ghosts."
+- **C** is an "Academic Over-Interpretation" about "biological constructs."
+- **D** is a "Surface-Level Literalism" about "weather."
+- **E** is a "Comedy" distractor about "Many Colours."
 
 ---
 
 ### Question 10 `[CIM/ANT]` `[Advanced]`
 
-**Sam’s final comment—"I shan't call it the end, till we've cleared up the mess"—characterizes his heroism as:**
+**Sam’s final comment characterizes his heroism as:**
 
-**Correct Answer: B. A return to his foundational identity as a "laborer" and a "gardener," identifying the true completion of the Quest not as the death of a villain, but as the active, physical restoration of the world’s health and beauty.**
+**Correct Answer: B. A return to his foundational identity as a "laborer" and "gardener," identifying the true completion of the Quest as the active, physical restoration of the world’s health and beauty.**
 
 **Why this is correct:**
-While Frodo sees the "end of the War," Sam sees the "work" ahead. For Sam, "victory" is not an abstract political state but a practical, biological one: replanting trees and cleaning up the "filth." This reflects his "sturdy" and productive nature. He accepts that being a hero in the war was just a "job of work" that must now be followed by the "real" job of healing the earth.
+While Frodo sees the "end of the War," Sam sees the "work" ahead. For Sam, "victory" is not an abstract political state but a practical, biological one: replanting trees and cleaning up the "filth." He accepts that being a hero in the war was just a "job of work" that must now be followed by the "real" job of healing the earth through manual labor.
 
-**Why E is incorrect** `[PT]`:
-Sam is being "gloomy" about the *amount of work* required ("take a lot of time and work"), rather than suggesting that the military conflict itself is ongoing. He is focused on the *physical cleanup* of the Shire.
-
----
-
-## Dimension Distribution
-
-| Dimension | Count |
-|-----------|-------|
-| Character Interiority & Motivation (CIM) | 7 |
-| Affective Nuance & Tonal Sensitivity (ANT) | 6 |
-| Pragmatic Implicature & Subtext (PIS) | 4 |
-| Situational & Contextual Awareness (SCA) | 3 |
-| Authorial Craft & Narrative Strategy (ACN) | 1 |
+**Analysis of Distractors:**
+- **A** is a "Moralistic Misreading" that labels practicality as "pessimism."
+- **C** is a "Plausible Misreading" about "tired of being a hero."
+- **D** is an "Over-Interpretation" about "moving to Gondor."
+- **E** is a "Plausible Misreading" about "ruffians in the woods."
